@@ -17106,3 +17106,87 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Apr2025 15:38:20.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5265ms or 105 ticks behind
 [18Apr2025 15:38:41.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6006ms or 120 ticks behind
 [18Apr2025 15:38:44.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[18Apr2025 15:39:04.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8570ms or 171 ticks behind
+[18Apr2025 15:39:07.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: imsxs has made the advancement [Sweet Dreams]
+[18Apr2025 15:39:20.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ has made the advancement [Isn't It Iron Pick]
+[18Apr2025 15:39:28.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9244ms or 184 ticks behind
+[18Apr2025 15:39:50.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6792ms or 135 ticks behind
+[18Apr2025 15:40:11.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5797ms or 115 ticks behind
+[18Apr2025 15:40:33.321] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6876ms or 137 ticks behind
+[18Apr2025 15:40:40.600] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Yakkodori at tick 201
+[18Apr2025 15:40:40.600] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 201
+[18Apr2025 15:40:41.426] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 212
+[18Apr2025 15:40:42.239] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 223
+[18Apr2025 15:40:44.085] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 247
+[18Apr2025 15:40:44.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CRATER2134 was killed by Pirate Captain using Hiryu: Kaen
+[18Apr2025 15:40:44.843] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Hiryu: Kaen at tick 255
+[18Apr2025 15:40:53.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5509ms or 110 ticks behind
+[18Apr2025 15:40:56.401] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: CRATER2134 lost connection: Disconnected
+[18Apr2025 15:40:56.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CRATER2134 left the game
+[18Apr2025 15:40:56.401] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1cd4a5da-f66a-3903-b27b-8cd8177ab5d8 was unloaded
+[18Apr2025 15:40:56.440] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of CRATER2134
+[18Apr2025 15:40:56.440] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CRATER2134
+[18Apr2025 15:40:56.441] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player CRATER2134[1cd4a5da-f66a-3903-b27b-8cd8177ab5d8]
+[18Apr2025 15:41:13.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[18Apr2025 15:41:34.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[18Apr2025 15:41:41.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[18Apr2025 15:42:15.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock has made the advancement [Ol' Betsy]
+[18Apr2025 15:42:19.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ has made the advancement [Ol' Betsy]
+[18Apr2025 15:42:23.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[18Apr2025 15:42:26.837] [Server thread/ERROR] [noobanidus.mods.lootr.Lootr/]: replacement Block{lootr:lootr_barrel}[facing=up,open=false] is not an ILootTile ResourceKey[minecraft:dimension / minecraft:overworld] at BlockPos{x=-79, y=16, z=467}
+[18Apr2025 15:42:26.837] [Server thread/ERROR] [noobanidus.mods.lootr.Lootr/]: replacement Block{lootr:lootr_trapped_chest}[facing=south,type=single,waterlogged=false] is not an ILootTile ResourceKey[minecraft:dimension / minecraft:overworld] at BlockPos{x=-71, y=40, z=468}
+[18Apr2025 15:42:26.838] [Server thread/ERROR] [noobanidus.mods.lootr.Lootr/]: replacement Block{lootr:lootr_barrel}[facing=north,open=false] is not an ILootTile ResourceKey[minecraft:dimension / minecraft:overworld] at BlockPos{x=-68, y=40, z=471}
+[18Apr2025 15:42:27.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[18Apr2025 15:43:15.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock has reached the goal [Postmortal]
+[18Apr2025 15:43:19.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: imsxs has made the advancement [Disme A Dozen]
+[18Apr2025 15:43:30.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: imsxs has made the advancement [The Beginning of An Adventure]
+[18Apr2025 15:43:30.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: imsxs has made the advancement [Cover Me In Emeralds]
+[18Apr2025 15:43:50.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock has made the advancement [Disme A Dozen]
+[18Apr2025 15:43:54.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ has made the advancement [Disme A Dozen]
+[18Apr2025 15:43:56.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: imsxs has made the advancement [Suit Up]
+[18Apr2025 15:44:09.609] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[18Apr2025 15:44:09.622] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[18Apr2025 15:44:27.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: imsxs has made the advancement [Acquire Hardware]
+[18Apr2025 15:44:57.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[18Apr2025 15:45:38.687] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at xyz.pixelatedw.mineminenomi.packets.client.entity.CSwitchVehicleModePacket.lambda$handle$0(CSwitchVehicleModePacket.java:29) ~[mineminenomi:0.10.5]
+	at net.minecraftforge.fml.network.NetworkEvent$Context.enqueueWork(NetworkEvent.java:201) ~[forge:?]
+	at xyz.pixelatedw.mineminenomi.packets.client.entity.CSwitchVehicleModePacket.handle(CSwitchVehicleModePacket.java:26) ~[mineminenomi:0.10.5]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.lambda$tryDecode$3(IndexedMessageCodec.java:114) ~[forge:?]
+	at java.util.Optional.ifPresent(Optional.java:183) ~[?:?]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.tryDecode(IndexedMessageCodec.java:114) ~[forge:?]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.consume(IndexedMessageCodec.java:148) ~[forge:?]
+	at net.minecraftforge.fml.network.simple.SimpleChannel.networkEventListener(SimpleChannel.java:66) ~[forge:?]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.fml.network.NetworkInstance.dispatch(NetworkInstance.java:72) ~[forge:?]
+	at net.minecraftforge.fml.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:77) ~[forge:?]
+	at java.util.Optional.map(Optional.java:265) ~[?:?]
+	at net.minecraftforge.fml.network.NetworkHooks.onCustomPayload(NetworkHooks.java:77) ~[forge:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147349_a(ServerPlayNetHandler.java:1413) ~[?:?]
+	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:42) ~[?:?]
+	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:12) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[18Apr2025 15:46:12.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[18Apr2025 15:46:16.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[18Apr2025 15:47:07.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock has made the advancement [We do a little trolling...]
+[18Apr2025 15:47:22.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock has made the advancement [Pic-A-Nic Basket?]
+[18Apr2025 15:49:06.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: imsxs has made the advancement [Getting an Upgrade]
+[18Apr2025 15:49:09.163] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[18Apr2025 15:49:09.173] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

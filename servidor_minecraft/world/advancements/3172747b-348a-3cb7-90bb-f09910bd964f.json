@@ -467,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-04-18 15:43:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/tools/lead_from_rope": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
@@ -704,6 +710,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pulley_block": {
+    "criteria": {
+      "has_plank": "2025-04-18 15:44:27 +0000"
     },
     "done": true
   },
@@ -3035,6 +3047,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-18 15:44:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
@@ -3044,6 +3062,12 @@
   "create:recipes/create.palettes/dark_scoria_cobblestone_stairs_from_dark_scoria_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2025-04-18 15:43:30 +0000"
     },
     "done": true
   },
@@ -3671,6 +3695,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-18 15:39:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
@@ -3836,10 +3866,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-18 15:29:32 +0000",
+      "minecraft:zoglin": "2025-04-18 15:45:41 +0000",
       "minecraft:vindicator": "2025-04-18 15:29:40 +0000",
       "minecraft:spider": "2025-04-18 14:55:08 +0000",
       "minecraft:cave_spider": "2025-04-18 15:06:40 +0000",
-      "minecraft:vex": "2025-04-18 15:31:28 +0000"
+      "minecraft:vex": "2025-04-18 15:31:28 +0000",
+      "minecraft:zombie": "2025-04-18 15:42:04 +0000"
     },
     "done": false
   },
@@ -4632,6 +4664,12 @@
   "create:recipes/create.palettes/layered_scoria_from_scoria_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_item": "2025-04-18 15:41:47 +0000"
     },
     "done": true
   },
@@ -7887,6 +7925,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-04-18 15:41:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/rice_from_bag": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
@@ -8403,6 +8447,12 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-04-18 15:43:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
@@ -8616,6 +8666,12 @@
   "framedblocks:recipes/framed_blocks/framed_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-18 15:49:06 +0000"
     },
     "done": true
   },
@@ -9240,6 +9296,12 @@
   "create:recipes/decorations/smelting/glass_pane_from_vertical_framed_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "corrupted_eye": "2025-04-18 15:43:30 +0000"
     },
     "done": true
   },
@@ -11025,6 +11087,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-04-18 15:41:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_piston": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
@@ -11195,9 +11263,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-18 15:39:16 +0000",
       "cookie": "2025-04-18 15:26:37 +0000",
       "sweet_berries": "2025-04-18 14:52:14 +0000",
-      "bread": "2025-04-18 15:28:29 +0000"
+      "bread": "2025-04-18 15:28:29 +0000",
+      "cooked_rabbit": "2025-04-18 15:41:13 +0000"
     },
     "done": false
   },

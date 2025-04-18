@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_dark_oak": {
+    "criteria": {
+      "has_plank": "2025-04-18 15:49:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/light_gray_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -755,6 +761,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_plank": "2025-04-18 15:49:02 +0000"
+    },
+    "done": true
+  },
   "chisel:recipes/chisel/laboratory/wallpanel": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:13 +0000"
@@ -1052,6 +1064,12 @@
   "cavesandcliffs:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-18 15:39:20 +0000"
     },
     "done": true
   },
@@ -5973,6 +5991,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-04-18 15:42:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -8526,6 +8550,12 @@
   "aquaculture:recipes/aquaculture/neptunes_bounty": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-04-18 15:43:54 +0000"
     },
     "done": true
   },
