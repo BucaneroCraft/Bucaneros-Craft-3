@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-04-18 15:27:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -464,6 +470,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-04-16 17:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-04-18 15:29:49 +0000"
     },
     "done": true
   },
@@ -3901,8 +3913,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-18 15:29:33 +0000",
       "minecraft:spider": "2025-04-18 14:55:37 +0000",
       "minecraft:cave_spider": "2025-04-18 15:06:15 +0000",
+      "minecraft:vex": "2025-04-18 15:32:38 +0000",
       "minecraft:zombie": "2025-04-18 14:35:28 +0000"
     },
     "done": false
@@ -9217,6 +9231,12 @@
     },
     "done": true
   },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-diamond": "2025-04-18 15:33:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_limestone_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -11889,6 +11909,12 @@
   "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-18 15:33:57 +0000"
     },
     "done": true
   },

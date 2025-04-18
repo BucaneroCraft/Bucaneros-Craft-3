@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-04-18 15:28:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:10 +0000"
@@ -188,6 +194,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-04-18 15:29:20 +0000"
     },
     "done": true
   },
@@ -971,6 +983,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-18 15:30:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:10 +0000"
@@ -995,6 +1013,12 @@
     },
     "done": true
   },
+  "idas:pillager_fortress": {
+    "criteria": {
+      "in_pillager_fortress": "2025-04-18 15:28:40 +0000"
+    },
+    "done": true
+  },
   "cavesandcliffs:recipes/decorations/red_candle": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:10 +0000"
@@ -1016,6 +1040,12 @@
   "cavesandcliffs:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-18 15:29:53 +0000"
     },
     "done": true
   },
@@ -3647,6 +3677,12 @@
     },
     "done": true
   },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2025-04-18 15:30:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_scoria_slab_from_polished_scoria_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
@@ -3847,8 +3883,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-18 15:29:11 +0000",
+      "minecraft:vindicator": "2025-04-18 15:31:28 +0000",
       "minecraft:spider": "2025-04-18 15:12:34 +0000",
-      "minecraft:cave_spider": "2025-04-18 15:06:56 +0000"
+      "minecraft:evoker": "2025-04-18 15:30:41 +0000",
+      "minecraft:cave_spider": "2025-04-18 15:06:56 +0000",
+      "minecraft:vex": "2025-04-18 15:30:19 +0000"
     },
     "done": false
   },
@@ -6510,6 +6550,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_plank": "2025-04-18 15:34:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
@@ -6893,6 +6939,12 @@
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-04-18 15:29:20 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
@@ -9126,6 +9178,12 @@
     },
     "done": true
   },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-diamond": "2025-04-18 15:29:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_limestone_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
@@ -9261,6 +9319,12 @@
   "create:recipes/decorations/smelting/glass_pane_from_vertical_framed_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "magical_eye": "2025-04-18 15:30:41 +0000"
     },
     "done": true
   },
@@ -11346,6 +11410,12 @@
     },
     "done": true
   },
+  "create:its_alive": {
+    "criteria": {
+      "0": "2025-04-18 15:26:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
@@ -11772,6 +11842,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-18 15:29:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
@@ -12009,6 +12085,12 @@
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_spruce": {
+    "criteria": {
+      "has_plank": "2025-04-18 15:34:55 +0000"
     },
     "done": true
   },

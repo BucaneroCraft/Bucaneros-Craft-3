@@ -551,6 +551,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_birch": {
+    "criteria": {
+      "has_plank": "2025-04-18 15:27:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/andesite_casing": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:56:20 +0000"
@@ -701,6 +707,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pulley_block": {
+    "criteria": {
+      "has_plank": "2025-04-18 15:29:59 +0000"
+    },
+    "done": true
+  },
   "cavesandcliffs:recipes/decorations/purple_candle": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:56:20 +0000"
@@ -746,6 +758,12 @@
   "create:recipes/create.palettes/andesite_cobblestone_from_andesite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:56:20 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:adventure/subtle_tweaks": {
+    "criteria": {
+      "subtle_tweaks": "2025-04-18 15:25:34 +0000"
     },
     "done": true
   },
@@ -968,6 +986,12 @@
   "mineminenomi:recipes/weapons/sorcery_clima_tact": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-18 15:28:16 +0000"
     },
     "done": true
   },
@@ -3035,6 +3059,18 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-18 15:29:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_birch": {
+    "criteria": {
+      "has_plank": "2025-04-18 15:27:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:56:19 +0000"
@@ -4634,6 +4670,12 @@
   "create:recipes/create.palettes/layered_scoria_from_scoria_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:56:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_item": "2025-04-18 15:32:39 +0000"
     },
     "done": true
   },
@@ -6482,6 +6524,12 @@
   "create:recipes/create.base/smelting/brass_ingot_from_crushed": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:56:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_plank": "2025-04-18 15:38:00 +0000"
     },
     "done": true
   },
@@ -8408,6 +8456,12 @@
   "aquaculture:recipes/aquaculture/neptunes_bounty": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:56:20 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-04-18 15:29:30 +0000"
     },
     "done": true
   },
@@ -10659,6 +10713,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-04-18 15:11:06 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-18 15:12:24 +0000",
+      "minecraft:beach": "2025-04-18 15:34:35 +0000",
       "minecraft:plains": "2025-04-18 14:56:20 +0000"
     },
     "done": false
@@ -11984,6 +12039,12 @@
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:56:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_spruce": {
+    "criteria": {
+      "has_plank": "2025-04-18 15:38:00 +0000"
     },
     "done": true
   },

@@ -2654,3 +2654,77 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Apr2025 15:28:30.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: imsxs has completed the challenge [Pillager Fortress]
 [18Apr2025 15:28:39.530] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
 [18Apr2025 15:28:40.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock has completed the challenge [Pillager Fortress]
+[18Apr2025 15:28:50.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5308ms or 106 ticks behind
+[18Apr2025 15:28:54.985] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 15:29:05.474] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[18Apr2025 15:29:05.476] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[18Apr2025 15:29:05.476] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[18Apr2025 15:29:05.476] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[18Apr2025 15:29:05.476] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[18Apr2025 15:29:05.476] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[18Apr2025 15:29:10.712] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5667ms or 113 ticks behind
+[18Apr2025 15:29:14.645] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 15:29:18.159] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 15:29:20.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock has made the advancement ['X' Marks the Spot]
+[18Apr2025 15:29:29.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock has made the advancement [Diamonds!]
+[18Apr2025 15:29:30.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CRATER2134 has made the advancement [Disme A Dozen]
+[18Apr2025 15:29:34.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8575ms or 171 ticks behind
+[18Apr2025 15:29:34.387] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 15:29:37.311] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 15:29:49.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ has made the advancement [Suit Up]
+[18Apr2025 15:29:53.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4468ms or 89 ticks behind
+[18Apr2025 15:29:53.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock has made the advancement [Isn't It Iron Pick]
+[18Apr2025 15:29:59.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CRATER2134 has made the advancement [Acquire Hardware]
+[18Apr2025 15:30:12.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3711ms or 74 ticks behind
+[18Apr2025 15:30:21.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: imsxs has made the advancement [Diamonds!]
+[18Apr2025 15:30:23.263] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 15:30:32.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5204ms or 104 ticks behind
+[18Apr2025 15:30:41.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock has made the advancement [The Beginning of An Adventure]
+[18Apr2025 15:30:41.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock has made the advancement [Fallen Sorcerer]
+[18Apr2025 15:30:45.544] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 15:30:52.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4657ms or 93 ticks behind
+[18Apr2025 15:30:55.166] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 15:30:57.617] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 15:31:02.560] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 15:31:05.082] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 15:31:08.622] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 15:31:08.642] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 15:31:13.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5961ms or 119 ticks behind
+[18Apr2025 15:31:16.676] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 15:31:36.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8130ms or 162 ticks behind
+[18Apr2025 15:31:40.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[18Apr2025 15:31:45.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Gamerule doFireTick is now set to: false]
+[18Apr2025 15:31:46.070] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 15:31:52.306] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 15:32:00.094] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8798ms or 175 ticks behind
+[18Apr2025 15:32:11.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CRATER2134 was killed by Pirate Brute
+[18Apr2025 15:32:20.028] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4983ms or 99 ticks behind
+[18Apr2025 15:32:37.488] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2493ms or 49 ticks behind
+[18Apr2025 15:32:45.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock was slain by Vex
+[18Apr2025 15:32:52.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: imsxs has made the advancement [Ol' Betsy]
+[18Apr2025 15:32:55.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3125ms or 62 ticks behind
+[18Apr2025 15:33:13.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[18Apr2025 15:33:31.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2742ms or 54 ticks behind
+[18Apr2025 15:33:49.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3719ms or 74 ticks behind
+[18Apr2025 15:33:57.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ has made the advancement [Diamonds!]
+[18Apr2025 15:34:08.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3969ms or 79 ticks behind
+[18Apr2025 15:34:28.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4640ms or 92 ticks behind
+[18Apr2025 15:34:48.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5217ms or 104 ticks behind
+[18Apr2025 15:35:07.908] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4313ms or 86 ticks behind
+[18Apr2025 15:35:19.795] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 15:35:26.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3190ms or 63 ticks behind
+[18Apr2025 15:35:46.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5127ms or 102 ticks behind
+[18Apr2025 15:35:48.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Killed 127 entities]
+[18Apr2025 15:36:05.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4104ms or 82 ticks behind
+[18Apr2025 15:36:20.536] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 15:36:21.334] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 15:36:24.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4736ms or 94 ticks behind
+[18Apr2025 15:36:34.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CRATER2134 was killed by Pirate Brute using Shi Shishi Sonson
+[18Apr2025 15:36:44.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4828ms or 96 ticks behind
+[18Apr2025 15:37:03.513] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3768ms or 75 ticks behind
+[18Apr2025 15:37:22.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4123ms or 82 ticks behind
+[18Apr2025 15:37:41.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3426ms or 68 ticks behind
+[18Apr2025 15:37:59.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3977ms or 79 ticks behind
+[18Apr2025 15:38:20.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5265ms or 105 ticks behind
+[18Apr2025 15:38:41.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6006ms or 120 ticks behind
+[18Apr2025 15:38:44.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
