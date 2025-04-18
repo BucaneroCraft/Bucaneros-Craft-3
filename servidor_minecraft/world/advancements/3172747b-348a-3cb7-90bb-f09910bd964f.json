@@ -935,6 +935,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-18 16:02:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/chiseled_weathered_limestone_from_weathered_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
@@ -3878,6 +3884,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-18 15:29:32 +0000",
+      "minecraft:skeleton": "2025-04-18 16:02:16 +0000",
       "minecraft:zoglin": "2025-04-18 15:45:41 +0000",
       "minecraft:vindicator": "2025-04-18 15:29:40 +0000",
       "minecraft:spider": "2025-04-18 14:55:08 +0000",
@@ -5168,6 +5175,12 @@
   "create:recipes/create.palettes/andesite_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
+    },
+    "done": true
+  },
+  "create:chocolate": {
+    "criteria": {
+      "0": "2025-04-18 16:01:16 +0000"
     },
     "done": true
   },
@@ -7070,6 +7083,12 @@
   "aquaculture:recipes/tools/neptunium_shovel": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "way_sign": "2025-04-18 16:03:32 +0000"
     },
     "done": true
   },

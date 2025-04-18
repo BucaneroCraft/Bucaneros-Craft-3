@@ -3914,6 +3914,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-18 15:29:11 +0000",
+      "minecraft:skeleton": "2025-04-18 16:04:28 +0000",
       "minecraft:zoglin": "2025-04-18 15:45:43 +0000",
       "minecraft:ravager": "2025-04-18 15:49:14 +0000",
       "minecraft:vindicator": "2025-04-18 15:31:28 +0000",
@@ -5223,6 +5224,12 @@
   "create:recipes/create.palettes/andesite_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
+    },
+    "done": true
+  },
+  "create:chocolate": {
+    "criteria": {
+      "0": "2025-04-18 16:01:17 +0000"
     },
     "done": true
   },
