@@ -17118,3 +17118,204 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Apr2025 16:53:04.226] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
 [18Apr2025 16:53:08.104] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
 [18Apr2025 16:53:10.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11747ms or 234 ticks behind
+[18Apr2025 16:53:11.469] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:53:11.581] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:53:11.783] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:53:14.632] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:53:15.148] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:53:15.302] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:53:15.307] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:53:17.915] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:53:18.303] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:53:20.724] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:53:21.538] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:53:23.537] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:53:23.539] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:53:32.117] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:53:33.259] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:53:39.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[18Apr2025 16:53:39.985] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:53:40.917] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:53:42.192] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:53:42.193] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:53:42.808] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:53:42.896] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17929ms or 358 ticks behind
+[18Apr2025 16:53:43.014] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:53:43.016] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:53:44.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: funmastergen has made the advancement [Alex's Mobs]
+[18Apr2025 16:53:45.336] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:53:46.446] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:53:46.647] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:53:47.225] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:53:47.704] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:53:48.424] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:53:57.022] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:54:11.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13647ms or 272 ticks behind
+[18Apr2025 16:54:14.446] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:54:26.584] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:54:38.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12065ms or 241 ticks behind
+[18Apr2025 16:54:45.253] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:54:46.075] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:54:47.241] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:54:47.653] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:54:49.801] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:54:52.092] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:54:54.452] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:54:55.187] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:54:58.915] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:54:59.566] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:55:00.925] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:55:04.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: funmastergen has made the advancement [A Sunken Ship]
+[18Apr2025 16:55:08.823] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:55:09.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15630ms or 312 ticks behind
+[18Apr2025 16:55:12.537] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:55:14.970] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:55:17.708] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:55:23.871] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:55:24.687] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:55:37.258] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Lapahn stopped Leap at tick 380
+[18Apr2025 16:55:40.994] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16877ms or 337 ticks behind
+[18Apr2025 16:55:41.461] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:55:48.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported Miglaitor_ to -299.0, 68.0, 134.0]
+[18Apr2025 16:55:49.161] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:55:49.294] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:55:49.546] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:55:49.883] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:55:49.890] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:55:49.997] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:55:50.136] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:55:50.660] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:55:50.778] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:55:50.906] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:55:50.913] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:55:51.388] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:55:51.392] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:55:51.397] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:55:51.563] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:55:51.710] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:55:51.712] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:55:53.335] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:55:55.279] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:55:57.586] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:55:58.610] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:55:58.713] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:56:03.077] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:56:17.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: marcosbigpapa has made the advancement [Isn't It Iron Pick]
+[18Apr2025 16:56:18.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22194ms or 443 ticks behind
+[18Apr2025 16:56:26.016] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:56:29.336] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:56:33.368] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:56:37.632] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:56:52.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19297ms or 385 ticks behind
+[18Apr2025 16:56:53.877] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:57:05.192] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:57:05.876] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:57:16.276] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:57:19.393] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:57:25.941] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:57:26.250] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:57:27.526] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:57:27.663] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:57:27.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20534ms or 410 ticks behind
+[18Apr2025 16:57:34.565] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:57:38.600] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:57:39.607] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:57:44.234] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:57:44.242] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:57:44.244] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:57:47.153] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of funmastergen: {disabled=false, disconnected=false, uuid=6071125a-e539-3cad-9f16-fe75f51ffd91, name=funmastergen, group=null}
+[18Apr2025 16:57:51.093] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:57:55.529] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:58:00.013] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:58:16.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 33821ms or 676 ticks behind
+[18Apr2025 16:58:17.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: marcosbigpapa has made the advancement [Diamonds!]
+[18Apr2025 16:58:23.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock has made the advancement [Stone Age]
+[18Apr2025 16:58:25.737] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:58:37.318] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:58:48.020] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16353ms or 327 ticks behind
+[18Apr2025 16:58:49.407] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:58:49.740] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:58:57.510] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:58:57.643] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:58:58.746] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:59:01.913] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:59:03.353] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:59:03.637] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:59:04.237] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:59:04.583] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:59:04.690] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:59:05.324] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:59:07.613] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:59:07.781] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:59:16.926] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:59:22.386] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:59:23.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20818ms or 416 ticks behind
+[18Apr2025 16:59:33.301] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:59:33.305] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:59:35.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: funmastergen has made the advancement ['X' Marks the Spot]
+[18Apr2025 16:59:39.442] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:59:56.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17702ms or 354 ticks behind
+[18Apr2025 16:59:57.882] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 17:00:06.669] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 17:00:06.673] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 17:00:08.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported Miglaitor_ to 131.0, 63.0, 162.0]
+[18Apr2025 17:00:09.265] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 17:00:09.550] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 17:00:10.170] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 17:00:16.250] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 17:00:21.772] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 17:00:24.406] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 17:00:24.824] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 17:00:26.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: marcosbigpapa was slain by Great Thrasher
+[18Apr2025 17:00:31.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20203ms or 404 ticks behind
+[18Apr2025 17:00:32.138] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 17:01:06.331] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19614ms or 392 ticks behind
+[18Apr2025 17:01:39.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18616ms or 372 ticks behind
+[18Apr2025 17:01:57.024] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 17:02:00.426] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 17:02:14.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19188ms or 383 ticks behind
+[18Apr2025 17:02:16.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported Miglaitor_ to imsxs]
+[18Apr2025 17:02:32.026] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 17:02:52.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23512ms or 470 ticks behind
+[18Apr2025 17:03:11.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: funmastergen has made the advancement [Monster Hunter]
+[18Apr2025 17:03:17.360] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at xyz.pixelatedw.mineminenomi.packets.client.entity.CSwitchVehicleModePacket.lambda$handle$0(CSwitchVehicleModePacket.java:29) ~[mineminenomi:0.10.5]
+	at net.minecraftforge.fml.network.NetworkEvent$Context.enqueueWork(NetworkEvent.java:201) ~[forge:?]
+	at xyz.pixelatedw.mineminenomi.packets.client.entity.CSwitchVehicleModePacket.handle(CSwitchVehicleModePacket.java:26) ~[mineminenomi:0.10.5]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.lambda$tryDecode$3(IndexedMessageCodec.java:114) ~[forge:?]
+	at java.util.Optional.ifPresent(Optional.java:183) ~[?:?]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.tryDecode(IndexedMessageCodec.java:114) ~[forge:?]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.consume(IndexedMessageCodec.java:148) ~[forge:?]
+	at net.minecraftforge.fml.network.simple.SimpleChannel.networkEventListener(SimpleChannel.java:66) ~[forge:?]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.fml.network.NetworkInstance.dispatch(NetworkInstance.java:72) ~[forge:?]
+	at net.minecraftforge.fml.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:77) ~[forge:?]
+	at java.util.Optional.map(Optional.java:265) ~[?:?]
+	at net.minecraftforge.fml.network.NetworkHooks.onCustomPayload(NetworkHooks.java:77) ~[forge:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147349_a(ServerPlayNetHandler.java:1413) ~[?:?]
+	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:42) ~[?:?]
+	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:12) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[18Apr2025 17:03:23.863] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[18Apr2025 17:03:23.875] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[18Apr2025 17:03:24.198] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 17:03:24.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17179ms or 343 ticks behind
+[18Apr2025 17:03:32.198] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 17:03:34.690] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
