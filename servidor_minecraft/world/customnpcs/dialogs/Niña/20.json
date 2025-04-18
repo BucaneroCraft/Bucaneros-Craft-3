@@ -39,7 +39,7 @@
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
     "DialogTitle": "1",
-    "AvailabilityDialog": 1,
+    "AvailabilityDialog": 2,
     "AvailabilityScoreboard2Type": 1,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1744988544589L,
+        "TimePast": 1744988597659L,
         "Time": 0L,
         "Subject": ""
     }

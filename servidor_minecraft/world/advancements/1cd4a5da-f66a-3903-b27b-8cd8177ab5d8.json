@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-04-18 15:07:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:56:20 +0000"
@@ -2006,6 +2012,12 @@
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:56:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-04-18 15:09:05 +0000"
     },
     "done": true
   },
@@ -5165,6 +5177,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-18 14:59:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/curiosities/brown_toolbox": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:56:20 +0000"
@@ -6832,6 +6850,12 @@
       "has_the_recipe": "2025-04-18 14:56:20 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-04-18 15:07:12 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
@@ -8615,6 +8639,12 @@
     },
     "done": true
   },
+  "mineminenomi:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-18 15:00:59 +0000"
+    },
+    "done": true
+  },
   "xercamusic:recipes/sansula": {
     "criteria": {
       "has_item": "2025-04-18 14:56:19 +0000"
@@ -9863,6 +9893,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-18 15:00:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:56:20 +0000"
@@ -11099,6 +11135,20 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-04-18 15:07:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "sweet_berries": "2025-04-18 15:08:42 +0000",
+      "bread": "2025-04-18 14:59:41 +0000",
+      "beetroot": "2025-04-18 15:09:14 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:56:20 +0000"
@@ -11228,6 +11278,12 @@
   "minecraft:recipes/building_blocks/prismarine_brick_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:56:20 +0000"
+    },
+    "done": true
+  },
+  "create:its_alive": {
+    "criteria": {
+      "0": "2025-04-18 15:04:28 +0000"
     },
     "done": true
   },

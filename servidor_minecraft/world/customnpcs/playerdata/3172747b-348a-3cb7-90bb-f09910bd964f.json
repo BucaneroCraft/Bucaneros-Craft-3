@@ -93,6 +93,10 @@
     ],
     "QuestData": {
         "CompletedQuests": [
+            {
+                "Quest": 10,
+                "Date": 461374L
+            }
         ],
         "ActiveQuests": [
             {
@@ -106,6 +110,12 @@
                 "ExtraData": {
                 },
                 "Quest": 7
+            },
+            {
+                "QuestCompleted": 1b,
+                "ExtraData": {
+                },
+                "Quest": 8
             }
         ]
     },
@@ -115,7 +125,19 @@
             "Dialog": 18
         },
         {
+            "Dialog": 19
+        },
+        {
+            "Dialog": 20
+        },
+        {
+            "Dialog": 21
+        },
+        {
             "Dialog": 8
+        },
+        {
+            "Dialog": 24
         },
         {
             "Dialog": 10

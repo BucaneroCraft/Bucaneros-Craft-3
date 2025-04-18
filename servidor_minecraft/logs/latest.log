@@ -2703,3 +2703,63 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Apr2025 15:02:03.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CRATER2134> miguel puedo hacer el molino en la aldea?
 [18Apr2025 15:02:13.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Miglaitor_> te la detono?
 [18Apr2025 15:02:24.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CRATER2134> el molino o ami?
+[18Apr2025 15:03:41.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[18Apr2025 15:03:58.454] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[18Apr2025 15:03:58.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: imsxs has made the advancement [Cobweb Entanglement]
+[18Apr2025 15:04:00.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock has made the advancement [Cobweb Entanglement]
+[18Apr2025 15:04:19.960] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[18Apr2025 15:05:09.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ has made the advancement [Stone Age]
+[18Apr2025 15:05:09.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CRATER2134 was slain by eldanidani
+[18Apr2025 15:05:20.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18Apr2025 15:05:38.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2660ms or 53 ticks behind
+[18Apr2025 15:05:56.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3618ms or 72 ticks behind
+[18Apr2025 15:06:10.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DALHENO_MR has made the advancement ['X' Marks the Spot]
+[18Apr2025 15:06:14.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2693ms or 53 ticks behind
+[18Apr2025 15:06:18.147] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eldanidani was killed by Bandit Grunt
+[18Apr2025 15:06:31.973] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2624ms or 52 ticks behind
+[18Apr2025 15:06:33.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DALHENO_MR was killed by Bandit Grunt
+[18Apr2025 15:06:49.961] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3011ms or 60 ticks behind
+[18Apr2025 15:06:56.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock has made the advancement [Monster Hunter]
+[18Apr2025 15:07:07.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[18Apr2025 15:07:09.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CRATER2134 was killed by Bandit Grunt
+[18Apr2025 15:07:12.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CRATER2134 has made the advancement ['X' Marks the Spot]
+[18Apr2025 15:07:15.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[18Apr2025 15:07:15.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DALHENO_MR was killed by Bandit Grunt
+[18Apr2025 15:07:22.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[18Apr2025 15:07:25.419] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3369ms or 67 ticks behind
+[18Apr2025 15:07:35.670] [Worker-Main-12/INFO] [bettercaves/]: CREATING AND INIT'ING CARVER W DIMENSION minecraft:overworld...
+[18Apr2025 15:07:35.672] [Worker-Main-12/INFO] [bettercaves/]: Better Caves config file for dimension minecraft:overworld not found. Using global config...
+[18Apr2025 15:07:35.708] [Worker-Main-12/INFO] [bettercaves/]: Using block 'minecraft:lava' as lava in cave generation for dimension minecraft:overworld
+[18Apr2025 15:07:35.709] [Worker-Main-12/INFO] [bettercaves/]: Using block 'Block{minecraft:water}[level=0]' as water in cave generation for dimension minecraft:overworld
+[18Apr2025 15:07:44.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3611ms or 72 ticks behind
+[18Apr2025 15:07:50.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eldanidani was killed by Bandit Grunt
+[18Apr2025 15:08:01.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2546ms or 50 ticks behind
+[18Apr2025 15:08:15.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DALHENO_MR> se pierde el doriki?
+[18Apr2025 15:08:21.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[18Apr2025 15:08:26.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CRATER2134> tengo una pipa
+[18Apr2025 15:08:44.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> migelito
+[18Apr2025 15:08:48.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[18Apr2025 15:08:50.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> se peirde el doriki? al morir
+[18Apr2025 15:08:55.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> parte
+[18Apr2025 15:08:55.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Miglaitor_> claro
+[18Apr2025 15:09:03.662] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 7221810a-dc46-411c-8e00-a369fa1967e6. Existing customnpcs:customnpc#52, new: customnpcs:customnpc#8626
+[18Apr2025 15:09:05.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind
+[18Apr2025 15:09:13.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[18Apr2025 15:10:14.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[18Apr2025 15:10:19.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eldanidani has made the advancement [Mine? Mine? Mine?]
+[18Apr2025 15:10:28.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eldanidani has made the advancement [Not Today, Thank You]
+[18Apr2025 15:10:33.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eldanidani has made the advancement [Monster Hunter]
+[18Apr2025 15:10:33.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3654ms or 73 ticks behind
+[18Apr2025 15:10:41.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[18Apr2025 15:10:42.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[18Apr2025 15:10:46.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[18Apr2025 15:10:54.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DALHENO_MR has made the advancement [Monster Hunter]
+[18Apr2025 15:10:54.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6692ms or 133 ticks behind
+[18Apr2025 15:11:09.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[18Apr2025 15:11:11.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DALHENO_MR has made the advancement [Not Today, Thank You]
+[18Apr2025 15:11:15.826] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID e14c82eb-5458-4508-b727-0d2f709aeae2. Existing customnpcs:customnpc#208, new: customnpcs:customnpc#10483
+[18Apr2025 15:11:17.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7342ms or 146 ticks behind
+[18Apr2025 15:11:41.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9465ms or 189 ticks behind
+[18Apr2025 15:12:02.533] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5934ms or 118 ticks behind
+[18Apr2025 15:12:24.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7262ms or 145 ticks behind
+[18Apr2025 15:12:47.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8037ms or 160 ticks behind
