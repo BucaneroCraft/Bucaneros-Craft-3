@@ -2551,3 +2551,155 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Apr2025 14:50:40.352] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@295ee981[id=<null>,name=Freacklock,properties={},legacy=false] (/100.121.40.72:63113) lost connection: Connection closed - mismatched mod channel list
 [18Apr2025 14:51:56.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
 [18Apr2025 14:52:13.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[18Apr2025 14:52:37.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[18Apr2025 14:53:04.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[18Apr2025 14:54:09.080] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@11265854
+[18Apr2025 14:54:09.085] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Freacklock[/100.121.40.72:63600] logged in with entity id 2765 at (300.5, 68.0, 116.5)
+[18Apr2025 14:54:09.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock joined the game
+[18Apr2025 14:54:09.223] [Server thread/INFO] [Waila/]: Syncing config to Freacklock (f32b1d7a-5eef-3918-8041-62708bf3cf92)
+[18Apr2025 14:54:10.157] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Freacklock just logged in with id f32b1d7a-5eef-3918-8041-62708bf3cf92
+[18Apr2025 14:54:10.158] [ForkJoinPool-4-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/Freacklock
+[18Apr2025 14:54:10.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock has made the advancement [Integrated Dungeons and Structures]
+[18Apr2025 14:54:10.513] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Freacklock (18)
+[18Apr2025 14:54:10.513] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Freacklock
+[18Apr2025 14:54:10.632] [ForkJoinPool-4-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Freacklock downloaded
+[18Apr2025 14:54:10.633] [ForkJoinPool-4-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://crafatar.com/skins/cd99f4ef-6f60-4c48-ab18-6b4a50132fd1
+[18Apr2025 14:54:10.795] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f32b1d7a-5eef-3918-8041-62708bf3cf92 was loaded
+[18Apr2025 14:54:10.901] [ForkJoinPool-4-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://crafatar.com/skins/cd99f4ef-6f60-4c48-ab18-6b4a50132fd1 downloaded
+[18Apr2025 14:54:10.901] [ForkJoinPool-4-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loaded skin for player Freacklock[f32b1d7a-5eef-3918-8041-62708bf3cf92]
+[18Apr2025 14:54:10.903] [ForkJoinPool-4-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/Freacklock
+[18Apr2025 14:54:10.903] [ForkJoinPool-4-worker-7/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Caching file ./world/skin_changer/skins/f32b1d7a-5eef-3918-8041-62708bf3cf92
+[18Apr2025 14:54:10.927] [ForkJoinPool-4-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Freacklock downloaded
+[18Apr2025 14:54:10.928] [ForkJoinPool-4-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://crafatar.com/capes/cd99f4ef-6f60-4c48-ab18-6b4a50132fd1
+[18Apr2025 14:54:16.935] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f32b1d7a-5eef-3918-8041-62708bf3cf92
+[18Apr2025 14:54:17.938] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f32b1d7a-5eef-3918-8041-62708bf3cf92
+[18Apr2025 14:54:17.938] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Freacklock (f32b1d7a-5eef-3918-8041-62708bf3cf92) successfully connected to voice chat
+[18Apr2025 14:54:35.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[18Apr2025 14:55:08.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: imsxs has made the advancement [Monster Hunter]
+[18Apr2025 14:55:42.327] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1de0ec29
+[18Apr2025 14:55:42.332] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: eldanidani[/100.104.37.94:57217] logged in with entity id 3255 at (300.5, 68.0, 114.5)
+[18Apr2025 14:55:42.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eldanidani joined the game
+[18Apr2025 14:55:42.468] [Server thread/INFO] [Waila/]: Syncing config to eldanidani (3ac838e5-80f8-31b8-82e4-34ac0c5befe4)
+[18Apr2025 14:55:43.434] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player eldanidani just logged in with id 3ac838e5-80f8-31b8-82e4-34ac0c5befe4
+[18Apr2025 14:55:43.436] [ForkJoinPool-4-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/eldanidani
+[18Apr2025 14:55:43.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eldanidani has made the advancement [Integrated Dungeons and Structures]
+[18Apr2025 14:55:44.051] [ForkJoinPool-4-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/eldanidani downloaded
+[18Apr2025 14:55:44.051] [ForkJoinPool-4-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://crafatar.com/skins/1c1d82a4-b89b-446c-a97a-f3c8afaed2c8
+[18Apr2025 14:55:44.312] [ForkJoinPool-4-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://crafatar.com/skins/1c1d82a4-b89b-446c-a97a-f3c8afaed2c8 downloaded
+[18Apr2025 14:55:44.313] [ForkJoinPool-4-worker-7/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loaded skin for player eldanidani[3ac838e5-80f8-31b8-82e4-34ac0c5befe4]
+[18Apr2025 14:55:44.313] [ForkJoinPool-4-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/eldanidani
+[18Apr2025 14:55:44.315] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Caching file ./world/skin_changer/skins/3ac838e5-80f8-31b8-82e4-34ac0c5befe4
+[18Apr2025 14:55:44.336] [ForkJoinPool-4-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/eldanidani downloaded
+[18Apr2025 14:55:44.336] [ForkJoinPool-4-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://crafatar.com/capes/1c1d82a4-b89b-446c-a97a-f3c8afaed2c8
+[18Apr2025 14:55:44.808] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of eldanidani (18)
+[18Apr2025 14:55:44.808] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to eldanidani
+[18Apr2025 14:55:45.282] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3ac838e5-80f8-31b8-82e4-34ac0c5befe4 was loaded
+[18Apr2025 14:55:56.338] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3ac838e5-80f8-31b8-82e4-34ac0c5befe4
+[18Apr2025 14:55:57.302] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3ac838e5-80f8-31b8-82e4-34ac0c5befe4
+[18Apr2025 14:55:57.302] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player eldanidani (3ac838e5-80f8-31b8-82e4-34ac0c5befe4) successfully connected to voice chat
+[18Apr2025 14:56:19.627] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@314016af
+[18Apr2025 14:56:19.631] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: CRATER2134[/100.70.251.8:59490] logged in with entity id 3431 at (316.5, 65.0, 114.5)
+[18Apr2025 14:56:19.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CRATER2134 joined the game
+[18Apr2025 14:56:19.767] [Server thread/INFO] [Waila/]: Syncing config to CRATER2134 (1cd4a5da-f66a-3903-b27b-8cd8177ab5d8)
+[18Apr2025 14:56:20.731] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player CRATER2134 just logged in with id 1cd4a5da-f66a-3903-b27b-8cd8177ab5d8
+[18Apr2025 14:56:20.733] [ForkJoinPool-4-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/CRATER2134
+[18Apr2025 14:56:20.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CRATER2134 has made the advancement [Integrated Dungeons and Structures]
+[18Apr2025 14:56:20.897] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CRATER2134 (18)
+[18Apr2025 14:56:20.897] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CRATER2134
+[18Apr2025 14:56:21.099] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1cd4a5da-f66a-3903-b27b-8cd8177ab5d8 was loaded
+[18Apr2025 14:56:21.471] [ForkJoinPool-4-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/CRATER2134 downloaded
+[18Apr2025 14:56:21.472] [ForkJoinPool-4-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://crafatar.com/skins/d56f2b69-901a-4758-a9f7-c8c233f8fed8
+[18Apr2025 14:56:21.734] [ForkJoinPool-4-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://crafatar.com/skins/d56f2b69-901a-4758-a9f7-c8c233f8fed8 downloaded
+[18Apr2025 14:56:21.734] [ForkJoinPool-4-worker-7/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loaded skin for player CRATER2134[1cd4a5da-f66a-3903-b27b-8cd8177ab5d8]
+[18Apr2025 14:56:21.735] [ForkJoinPool-4-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/CRATER2134
+[18Apr2025 14:56:21.736] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Caching file ./world/skin_changer/skins/1cd4a5da-f66a-3903-b27b-8cd8177ab5d8
+[18Apr2025 14:56:21.773] [ForkJoinPool-4-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/CRATER2134 downloaded
+[18Apr2025 14:56:21.773] [ForkJoinPool-4-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://crafatar.com/capes/d56f2b69-901a-4758-a9f7-c8c233f8fed8
+[18Apr2025 14:56:25.019] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1cd4a5da-f66a-3903-b27b-8cd8177ab5d8
+[18Apr2025 14:56:26.019] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1cd4a5da-f66a-3903-b27b-8cd8177ab5d8
+[18Apr2025 14:56:26.019] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CRATER2134 (1cd4a5da-f66a-3903-b27b-8cd8177ab5d8) successfully connected to voice chat
+[18Apr2025 14:56:34.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ has made the advancement [Sweet Dreams]
+[18Apr2025 14:57:02.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eldanidani has made the advancement [Sweet Dreams]
+[18Apr2025 14:57:12.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eldanidani has made the advancement ['X' Marks the Spot]
+[18Apr2025 14:57:22.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CRATER2134 has made the advancement [Sweet Dreams]
+[18Apr2025 14:57:42.032] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: imsxs lost connection: Kicked by an operator
+[18Apr2025 14:57:42.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: imsxs left the game
+[18Apr2025 14:57:42.034] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3172747b-348a-3cb7-90bb-f09910bd964f was unloaded
+[18Apr2025 14:57:42.067] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client imsxs
+[18Apr2025 14:57:42.068] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player imsxs[3172747b-348a-3cb7-90bb-f09910bd964f]
+[18Apr2025 14:57:42.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Kicked imsxs: Kicked by an operator]
+[18Apr2025 14:57:42.151] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[18Apr2025 14:57:49.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Kicked Freacklock: Kicked by an operator]
+[18Apr2025 14:57:49.875] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Freacklock lost connection: Kicked by an operator
+[18Apr2025 14:57:49.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock left the game
+[18Apr2025 14:57:49.876] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f32b1d7a-5eef-3918-8041-62708bf3cf92 was unloaded
+[18Apr2025 14:57:49.907] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Freacklock
+[18Apr2025 14:57:49.908] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Freacklock[f32b1d7a-5eef-3918-8041-62708bf3cf92]
+[18Apr2025 14:57:49.977] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10288 in minecraft:the_nether
+[18Apr2025 14:57:49.978] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10288 in minecraft:the_end
+[18Apr2025 14:57:49.978] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10288 in mineminenomi:challenges
+[18Apr2025 14:57:49.980] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10288 in minecraft:overworld
+[18Apr2025 14:59:02.590] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5b30d891
+[18Apr2025 14:59:02.625] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: imsxs[/100.91.3.75:61774] logged in with entity id 4244 at (357.1103816737284, 70.0, 140.13816157180787)
+[18Apr2025 14:59:02.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: imsxs joined the game
+[18Apr2025 14:59:02.726] [Server thread/INFO] [Waila/]: Syncing config to imsxs (3172747b-348a-3cb7-90bb-f09910bd964f)
+[18Apr2025 14:59:02.735] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player imsxs just logged in with id 3172747b-348a-3cb7-90bb-f09910bd964f
+[18Apr2025 14:59:02.736] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player imsxs[3172747b-348a-3cb7-90bb-f09910bd964f]
+[18Apr2025 14:59:02.738] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/imsxs
+[18Apr2025 14:59:02.789] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/imsxs downloaded
+[18Apr2025 14:59:02.790] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://crafatar.com/capes/138b6212-14da-4be6-8bfb-6b3a2d7f514f
+[18Apr2025 14:59:02.998] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of imsxs (18)
+[18Apr2025 14:59:02.998] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to imsxs
+[18Apr2025 14:59:03.127] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3172747b-348a-3cb7-90bb-f09910bd964f was loaded
+[18Apr2025 14:59:04.978] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3172747b-348a-3cb7-90bb-f09910bd964f
+[18Apr2025 14:59:05.979] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3172747b-348a-3cb7-90bb-f09910bd964f
+[18Apr2025 14:59:05.979] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player imsxs (3172747b-348a-3cb7-90bb-f09910bd964f) successfully connected to voice chat
+[18Apr2025 14:59:34.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[18Apr2025 14:59:37.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[18Apr2025 14:59:45.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[18Apr2025 15:00:13.039] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5ab8b54d
+[18Apr2025 15:00:13.042] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DALHENO_MR[/100.75.196.56:59609] logged in with entity id 4697 at (305.5, 68.0, 114.5)
+[18Apr2025 15:00:13.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DALHENO_MR joined the game
+[18Apr2025 15:00:13.209] [Server thread/INFO] [Waila/]: Syncing config to DALHENO_MR (73ddd7fa-c8a0-36e5-a365-6e025dd6cd7d)
+[18Apr2025 15:00:14.139] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player DALHENO_MR just logged in with id 73ddd7fa-c8a0-36e5-a365-6e025dd6cd7d
+[18Apr2025 15:00:14.141] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/DALHENO_MR
+[18Apr2025 15:00:14.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DALHENO_MR has made the advancement [Integrated Dungeons and Structures]
+[18Apr2025 15:00:14.423] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/DALHENO_MR downloaded
+[18Apr2025 15:00:14.423] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://crafatar.com/skins/1bd134e5-6d49-40ec-82db-18cd5d8aab3c
+[18Apr2025 15:00:14.802] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DALHENO_MR (18)
+[18Apr2025 15:00:14.802] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DALHENO_MR
+[18Apr2025 15:00:14.896] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://crafatar.com/skins/1bd134e5-6d49-40ec-82db-18cd5d8aab3c downloaded
+[18Apr2025 15:00:14.897] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loaded skin for player DALHENO_MR[73ddd7fa-c8a0-36e5-a365-6e025dd6cd7d]
+[18Apr2025 15:00:14.898] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/DALHENO_MR
+[18Apr2025 15:00:14.898] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Caching file ./world/skin_changer/skins/73ddd7fa-c8a0-36e5-a365-6e025dd6cd7d
+[18Apr2025 15:00:14.935] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/DALHENO_MR downloaded
+[18Apr2025 15:00:14.936] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://crafatar.com/capes/1bd134e5-6d49-40ec-82db-18cd5d8aab3c
+[18Apr2025 15:00:15.044] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 73ddd7fa-c8a0-36e5-a365-6e025dd6cd7d was loaded
+[18Apr2025 15:00:17.200] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@36329678
+[18Apr2025 15:00:17.237] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Freacklock[/100.121.40.72:63758] logged in with entity id 4720 at (313.98848736857315, 70.0, 151.63013182157556)
+[18Apr2025 15:00:17.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock joined the game
+[18Apr2025 15:00:17.332] [Server thread/INFO] [Waila/]: Syncing config to Freacklock (f32b1d7a-5eef-3918-8041-62708bf3cf92)
+[18Apr2025 15:00:17.340] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Freacklock just logged in with id f32b1d7a-5eef-3918-8041-62708bf3cf92
+[18Apr2025 15:00:17.345] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Freacklock[f32b1d7a-5eef-3918-8041-62708bf3cf92]
+[18Apr2025 15:00:17.347] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/Freacklock
+[18Apr2025 15:00:17.373] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Freacklock downloaded
+[18Apr2025 15:00:17.374] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://crafatar.com/capes/cd99f4ef-6f60-4c48-ab18-6b4a50132fd1
+[18Apr2025 15:00:17.614] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Freacklock (18)
+[18Apr2025 15:00:17.615] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Freacklock
+[18Apr2025 15:00:17.832] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f32b1d7a-5eef-3918-8041-62708bf3cf92 was loaded
+[18Apr2025 15:00:20.536] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f32b1d7a-5eef-3918-8041-62708bf3cf92
+[18Apr2025 15:00:21.537] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f32b1d7a-5eef-3918-8041-62708bf3cf92
+[18Apr2025 15:00:21.537] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Freacklock (f32b1d7a-5eef-3918-8041-62708bf3cf92) successfully connected to voice chat
+[18Apr2025 15:00:23.666] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 73ddd7fa-c8a0-36e5-a365-6e025dd6cd7d
+[18Apr2025 15:00:24.661] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 73ddd7fa-c8a0-36e5-a365-6e025dd6cd7d
+[18Apr2025 15:00:24.662] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DALHENO_MR (73ddd7fa-c8a0-36e5-a365-6e025dd6cd7d) successfully connected to voice chat
+[18Apr2025 15:00:50.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[18Apr2025 15:01:09.890] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 7221810a-dc46-411c-8e00-a369fa1967e6. Existing customnpcs:customnpc#52, new: customnpcs:customnpc#5099
+[18Apr2025 15:01:12.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CRATER2134> quiere galletita?
+[18Apr2025 15:01:15.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> vale
+[18Apr2025 15:01:19.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[18Apr2025 15:01:22.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CRATER2134> con leche de fernando
+[18Apr2025 15:01:34.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> que te calles puta perra
+[18Apr2025 15:02:03.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CRATER2134> miguel puedo hacer el molino en la aldea?
+[18Apr2025 15:02:13.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Miglaitor_> te la detono?
+[18Apr2025 15:02:24.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CRATER2134> el molino o ami?

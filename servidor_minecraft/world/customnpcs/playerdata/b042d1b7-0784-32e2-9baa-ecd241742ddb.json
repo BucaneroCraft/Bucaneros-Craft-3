@@ -209,6 +209,18 @@
             }
         ],
         "ActiveQuests": [
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
+                "Quest": 2
+            },
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
+                "Quest": 7
+            }
         ]
     },
     "PlayerCompanionId": 0,

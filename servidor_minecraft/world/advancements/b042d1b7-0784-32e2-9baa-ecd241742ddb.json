@@ -3713,6 +3713,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-18 14:56:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:13 +0000"
@@ -3877,6 +3883,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-04-18 14:55:37 +0000",
       "minecraft:zombie": "2025-04-18 14:35:28 +0000"
     },
     "done": false
