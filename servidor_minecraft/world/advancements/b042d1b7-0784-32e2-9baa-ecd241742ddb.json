@@ -4540,6 +4540,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-18 17:33:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:11 +0000"
@@ -11453,6 +11459,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-18 17:23:36 +0000",
       "cooked_beef": "2025-04-18 16:56:51 +0000",
       "apple": "2025-04-18 17:03:16 +0000",
       "bread": "2025-04-18 14:47:25 +0000",

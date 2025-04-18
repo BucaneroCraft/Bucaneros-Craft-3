@@ -5613,7 +5613,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sweet_berries": "2025-04-18 14:52:14 +0000"
+      "sweet_berries": "2025-04-18 14:52:14 +0000",
+      "wheat": "2025-04-18 17:21:37 +0000"
     },
     "done": false
   },
@@ -10951,6 +10952,12 @@
   "minecraft:recipes/redstone/redstone_from_smelting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-18 17:21:37 +0000"
     },
     "done": true
   },
