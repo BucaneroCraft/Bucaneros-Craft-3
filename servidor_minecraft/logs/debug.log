@@ -17964,3 +17964,44 @@ java.lang.NullPointerException: null
 [18Apr2025 17:34:43.175] [Server thread/DEBUG] [org.valkyrienskies.core.networking.NetworkChannel/]: Server received packet of type: PacketType(channel=org.valkyrienskies.core.networking.NetworkChannel@7e2ddb63, id=8, name=SimplePacket - class org.valkyrienskies.mod.common.networking.PacketPlayerDriving)
 [18Apr2025 17:34:43.234] [Server thread/DEBUG] [org.valkyrienskies.core.networking.NetworkChannel/]: Server received packet of type: PacketType(channel=org.valkyrienskies.core.networking.NetworkChannel@7e2ddb63, id=8, name=SimplePacket - class org.valkyrienskies.mod.common.networking.PacketPlayerDriving)
 [18Apr2025 17:34:46.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4419ms or 88 ticks behind
+[18Apr2025 17:35:07.333] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5716ms or 114 ticks behind
+[18Apr2025 17:35:22.713] [Server thread/DEBUG] [com.blackgear.platform.core.util.config.ConfigLoader/]: Found existing serverconfig directory : ./world/serverconfig
+[18Apr2025 17:35:22.713] [Server thread/DEBUG] [com.blackgear.platform.core.util.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[18Apr2025 17:35:22.713] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[18Apr2025 17:35:22.717] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[18Apr2025 17:35:22.722] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: 3172747b-348a-3cb7-90bb-f09910bd964f
+[18Apr2025 17:35:22.722] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: f32b1d7a-5eef-3918-8041-62708bf3cf92
+[18Apr2025 17:35:22.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Apr2025 17:35:22.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Apr2025 17:35:22.750] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSPhysicsPipelineBackgroundTask/]: Physics pipeline ending
+[18Apr2025 17:35:22.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Apr2025 17:35:22.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Apr2025 17:35:25.148] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Apr2025 17:35:25.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Apr2025 17:35:25.838] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Apr2025 17:35:25.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Apr2025 17:35:25.839] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Apr2025 17:35:25.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mineminenomi:challenges
+[18Apr2025 17:35:25.839] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (challenges): All chunks are saved
+[18Apr2025 17:35:25.840] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[18Apr2025 17:35:25.852] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[18Apr2025 17:35:25.880] [Server thread/DEBUG] [bettercaves/]: UNLOADING WORLD
+[18Apr2025 17:35:25.880] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[18Apr2025 17:35:25.880] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[18Apr2025 17:35:25.892] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Apr2025 17:35:26.023] [Server thread/DEBUG] [bettercaves/]: UNLOADING WORLD
+[18Apr2025 17:35:26.023] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[18Apr2025 17:35:26.023] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[18Apr2025 17:35:26.024] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Apr2025 17:35:26.027] [Server thread/DEBUG] [bettercaves/]: UNLOADING WORLD
+[18Apr2025 17:35:26.027] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[18Apr2025 17:35:26.027] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[18Apr2025 17:35:26.027] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Apr2025 17:35:26.027] [Server thread/DEBUG] [bettercaves/]: UNLOADING WORLD
+[18Apr2025 17:35:26.028] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for mineminenomi:challenges
+[18Apr2025 17:35:26.028] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for mineminenomi:challenges
+[18Apr2025 17:35:26.028] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (challenges): All chunks are saved
+[18Apr2025 17:35:26.030] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[18Apr2025 17:35:26.030] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[18Apr2025 17:35:26.031] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file /workspaces/Bucaneros-Craft-3/servidor_minecraft/config/waystones-server.toml changed, sending notifies
+[18Apr2025 17:35:26.031] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file comforts-server.toml changed, sending notifies
