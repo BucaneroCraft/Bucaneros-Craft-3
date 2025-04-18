@@ -7168,6 +7168,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "way_sign": "2025-04-18 16:19:50 +0000"
+    },
+    "done": true
+  },
   "cavesandcliffs:recipes/decorations/green_candle": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -11052,6 +11058,12 @@
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-04-18 16:20:56 +0000"
     },
     "done": true
   },

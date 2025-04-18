@@ -7154,6 +7154,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "way_sign": "2025-04-18 16:20:05 +0000"
+    },
+    "done": true
+  },
   "cavesandcliffs:recipes/decorations/green_candle": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
