@@ -12880,6 +12880,12 @@
     },
     "done": true
   },
+  "mineminenomi:challenges/root": {
+    "criteria": {
+      "unlock_challenge": "2025-04-18 16:11:32 +0000"
+    },
+    "done": true
+  },
   "mineminenomi:recipes/equipment/medic_bag": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"

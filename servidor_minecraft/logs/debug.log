@@ -17502,3 +17502,51 @@ java.lang.NullPointerException: null
 [18Apr2025 16:09:04.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> me cago en dios
 [18Apr2025 16:09:06.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4661ms or 93 ticks behind
 [18Apr2025 16:09:26.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[18Apr2025 16:09:47.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5883ms or 117 ticks behind
+[18Apr2025 16:10:07.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4982ms or 99 ticks behind
+[18Apr2025 16:10:24.423] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:10:25.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2864ms or 57 ticks behind
+[18Apr2025 16:10:42.504] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:10:43.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3625ms or 72 ticks behind
+[18Apr2025 16:10:51.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> vuestros muertos
+[18Apr2025 16:11:04.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5791ms or 115 ticks behind
+[18Apr2025 16:11:24.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5396ms or 107 ticks behind
+[18Apr2025 16:11:40.321] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[18Apr2025 16:11:40.333] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[18Apr2025 16:11:47.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7338ms or 146 ticks behind
+[18Apr2025 16:11:50.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eldanidani was killed by Pirate Captain using Jishin Ho
+[18Apr2025 16:11:51.004] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Genkotsu Meteor at tick 1642
+[18Apr2025 16:11:51.004] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Jishin Ho at tick 1642
+[18Apr2025 16:12:09.452] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Freacklock: {disabled=false, disconnected=false, uuid=f32b1d7a-5eef-3918-8041-62708bf3cf92, name=Freacklock, group=null}
+[18Apr2025 16:12:17.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[18Apr2025 16:12:35.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2894ms or 57 ticks behind
+[18Apr2025 16:12:52.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2353ms or 47 ticks behind
+[18Apr2025 16:13:12.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4859ms or 97 ticks behind
+[18Apr2025 16:13:32.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4682ms or 93 ticks behind
+[18Apr2025 16:13:34.622] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Sea Cow stopped Tail Spin at tick 5014
+[18Apr2025 16:13:50.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3326ms or 66 ticks behind
+[18Apr2025 16:13:51.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: imsxs has made the advancement [Take Aim]
+[18Apr2025 16:14:05.746] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Sea Cow stopped Tail Spin at tick 5516
+[18Apr2025 16:14:06.289] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Sea Cow stopped Tackle at tick 5525
+[18Apr2025 16:14:09.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3965ms or 79 ticks behind
+[18Apr2025 16:14:28.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3644ms or 72 ticks behind
+[18Apr2025 16:14:47.422] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Sea Cow stopped Tail Spin at tick 6173
+[18Apr2025 16:14:47.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4539ms or 90 ticks behind
+[18Apr2025 16:15:06.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4322ms or 86 ticks behind
+[18Apr2025 16:15:26.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4630ms or 92 ticks behind
+[18Apr2025 16:15:45.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3684ms or 73 ticks behind
+[18Apr2025 16:15:58.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported Miglaitor_ to imsxs]
+[18Apr2025 16:16:02.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[18Apr2025 16:16:03.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3138ms or 62 ticks behind
+[18Apr2025 16:16:21.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3014ms or 60 ticks behind
+[18Apr2025 16:16:26.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[18Apr2025 16:16:29.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock has made the advancement [Take Aim]
+[18Apr2025 16:16:33.439] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[18Apr2025 16:16:52.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Killed 137 entities]
+[18Apr2025 16:17:01.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[18Apr2025 16:17:21.492] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of imsxs: {disabled=true, disconnected=false, uuid=3172747b-348a-3cb7-90bb-f09910bd964f, name=imsxs, group=null}
+[18Apr2025 16:17:27.915] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of imsxs: {disabled=false, disconnected=false, uuid=3172747b-348a-3cb7-90bb-f09910bd964f, name=imsxs, group=null}
+[18Apr2025 16:17:28.383] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of imsxs: {disabled=true, disconnected=false, uuid=3172747b-348a-3cb7-90bb-f09910bd964f, name=imsxs, group=null}
+[18Apr2025 16:17:36.236] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[18Apr2025 16:17:36.247] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[18Apr2025 16:17:49.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> soi nobio?

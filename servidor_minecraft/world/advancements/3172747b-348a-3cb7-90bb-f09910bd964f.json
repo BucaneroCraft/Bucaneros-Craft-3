@@ -467,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-18 16:08:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-04-18 15:43:56 +0000"
@@ -950,6 +956,12 @@
   "cavesandcliffs:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-18 16:08:04 +0000"
     },
     "done": true
   },
@@ -1511,9 +1523,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-18 16:08:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-18 16:08:04 +0000"
     },
     "done": true
   },
@@ -2921,6 +2945,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-18 16:13:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/chocolate_pie_from_slices": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
@@ -2954,6 +2984,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-18 16:08:04 +0000"
     },
     "done": true
   },
@@ -3888,6 +3924,7 @@
       "minecraft:zoglin": "2025-04-18 15:45:41 +0000",
       "minecraft:vindicator": "2025-04-18 15:29:40 +0000",
       "minecraft:spider": "2025-04-18 14:55:08 +0000",
+      "minecraft:witch": "2025-04-18 16:07:26 +0000",
       "minecraft:cave_spider": "2025-04-18 15:06:40 +0000",
       "minecraft:vex": "2025-04-18 15:31:28 +0000",
       "minecraft:zombie": "2025-04-18 15:42:04 +0000"
@@ -4407,6 +4444,12 @@
   "cavesandcliffs:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-18 16:08:04 +0000"
     },
     "done": true
   },
@@ -5028,6 +5071,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-18 16:08:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
@@ -5640,6 +5689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-18 16:08:04 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
@@ -5739,6 +5794,12 @@
   "farmersdelight:recipes/farmersdelight/full_tatami_mat": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/witch_eye_recipe": {
+    "criteria": {
+      "witch_pupil": "2025-04-18 16:10:30 +0000"
     },
     "done": true
   },
@@ -6429,6 +6490,12 @@
   "mineminenomi:recipes/weapons/perfect_clima_tact": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-18 16:08:04 +0000"
     },
     "done": true
   },
@@ -7956,6 +8023,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-18 16:08:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-04-18 15:41:10 +0000"
@@ -8103,6 +8176,12 @@
   "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-18 16:08:04 +0000"
     },
     "done": true
   },
@@ -8433,6 +8512,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-18 16:08:04 +0000"
     },
     "done": true
   },
@@ -10314,6 +10399,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-18 16:08:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/adjustable_crate": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
@@ -11307,8 +11398,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-18 15:39:16 +0000",
+      "porkchop": "2025-04-18 16:11:49 +0000",
       "cookie": "2025-04-18 15:26:37 +0000",
       "sweet_berries": "2025-04-18 14:52:14 +0000",
+      "apple": "2025-04-18 16:05:22 +0000",
       "bread": "2025-04-18 15:28:29 +0000",
       "cooked_rabbit": "2025-04-18 15:41:13 +0000"
     },
@@ -11938,6 +12031,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-18 16:08:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
@@ -11977,6 +12076,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-18 16:08:04 +0000"
     },
     "done": true
   },
