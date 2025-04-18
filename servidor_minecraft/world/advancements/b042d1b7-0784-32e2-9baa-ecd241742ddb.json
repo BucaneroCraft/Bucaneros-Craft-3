@@ -3875,6 +3875,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-04-18 14:35:28 +0000"
+    },
+    "done": false
+  },
   "cavesandcliffs:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -5240,6 +5246,12 @@
   "create:recipes/create.base/crafting/curiosities/brown_toolbox": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-18 14:47:25 +0000"
     },
     "done": true
   },
@@ -8687,6 +8699,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-18 14:34:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/orange_canvas_sign": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:13 +0000"
@@ -10703,6 +10721,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-04-18 14:35:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/limestone_cobblestone_slab_from_limestone_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -11265,6 +11289,12 @@
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-04-18 14:47:25 +0000"
+    },
+    "done": false
   },
   "cavesandcliffs:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
