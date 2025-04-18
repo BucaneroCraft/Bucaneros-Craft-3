@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-04-18 16:47:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/diorite_cobblestone_slab_from_diorite_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
@@ -290,6 +296,12 @@
   "cavesandcliffs:recipes/decorations/white_candle": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
+    },
+    "done": true
+  },
+  "idas:sunken_ship": {
+    "criteria": {
+      "in_sunken_ship": "2025-04-18 16:47:47 +0000"
     },
     "done": true
   },
@@ -461,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-04-18 16:50:22 +0000"
+    },
+    "done": true
+  },
   "cavesandcliffs:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
@@ -554,6 +572,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_birch": {
+    "criteria": {
+      "has_plank": "2025-04-18 16:47:14 +0000"
     },
     "done": true
   },
@@ -974,6 +998,12 @@
   "mineminenomi:recipes/weapons/sorcery_clima_tact": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-18 16:49:17 +0000"
     },
     "done": true
   },
@@ -3050,6 +3080,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-04-16 22:12:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_birch": {
+    "criteria": {
+      "has_plank": "2025-04-18 16:47:14 +0000"
     },
     "done": true
   },
@@ -6881,6 +6917,13 @@
     },
     "done": true
   },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-04-18 16:50:15 +0000",
+      "opened_chest": "2025-04-18 16:47:54 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
@@ -8678,6 +8721,12 @@
   "mineminenomi:adventure/root": {
     "criteria": {
       "killed_something": "2025-04-16 20:36:39 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-04-18 16:50:15 +0000"
     },
     "done": true
   },
