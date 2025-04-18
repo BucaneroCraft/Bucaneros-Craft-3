@@ -731,6 +731,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pulley_block": {
+    "criteria": {
+      "has_plank": "2025-04-18 15:56:48 +0000"
+    },
+    "done": true
+  },
   "cavesandcliffs:recipes/decorations/purple_candle": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -2669,6 +2675,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-04-18 15:52:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:13 +0000"
@@ -3119,6 +3131,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-18 15:56:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/dark_scoria_cobblestone_stairs_from_dark_scoria_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -3128,6 +3146,12 @@
   "minecraft:recipes/decorations/light_blue_bed": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2025-04-18 15:51:13 +0000"
     },
     "done": true
   },
@@ -3932,6 +3956,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-18 15:29:33 +0000",
+      "minecraft:skeleton": "2025-04-18 15:50:38 +0000",
       "minecraft:spider": "2025-04-18 14:55:37 +0000",
       "minecraft:cave_spider": "2025-04-18 15:06:15 +0000",
       "minecraft:vex": "2025-04-18 15:32:38 +0000",
@@ -8769,6 +8794,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-04-18 15:56:42 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/framed_blocks/framed_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -9402,6 +9433,12 @@
   "create:recipes/decorations/smelting/glass_pane_from_vertical_framed_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:13 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "corrupted_eye": "2025-04-18 15:51:13 +0000"
     },
     "done": true
   },
@@ -11374,7 +11411,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-04-18 14:47:25 +0000"
+      "bread": "2025-04-18 14:47:25 +0000",
+      "carrot": "2025-04-18 15:52:14 +0000"
     },
     "done": false
   },

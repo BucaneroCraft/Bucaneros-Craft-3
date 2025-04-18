@@ -983,6 +983,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-18 15:54:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
@@ -2600,6 +2606,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-04-18 15:52:29 +0000"
     },
     "done": true
   },
@@ -8663,6 +8675,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-04-18 15:54:00 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/framed_blocks/framed_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
@@ -10598,6 +10616,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-04-18 15:53:02 +0000"
     },
     "done": true
   },

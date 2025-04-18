@@ -713,6 +713,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pulley_block": {
+    "criteria": {
+      "has_plank": "2025-04-18 15:52:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
@@ -806,6 +812,12 @@
   "create:recipes/create.base/crafting/kinetics/orange_seat_from_other_seat": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:10 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-04-18 15:57:38 +0000"
     },
     "done": true
   },
@@ -2627,6 +2639,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-04-18 15:52:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
@@ -3077,6 +3095,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-18 15:52:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
@@ -3086,6 +3110,12 @@
   "create:recipes/create.palettes/dark_scoria_cobblestone_stairs_from_dark_scoria_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:10 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2025-04-18 15:51:58 +0000"
     },
     "done": true
   },
@@ -3885,6 +3915,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-18 15:29:11 +0000",
       "minecraft:zoglin": "2025-04-18 15:45:43 +0000",
+      "minecraft:ravager": "2025-04-18 15:49:14 +0000",
       "minecraft:vindicator": "2025-04-18 15:31:28 +0000",
       "minecraft:spider": "2025-04-18 15:12:34 +0000",
       "minecraft:evoker": "2025-04-18 15:30:41 +0000",
@@ -4694,6 +4725,12 @@
   "create:recipes/create.palettes/layered_scoria_from_scoria_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_item": "2025-04-18 15:57:24 +0000"
     },
     "done": true
   },
@@ -7685,6 +7722,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_plank": "2025-04-18 15:58:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
@@ -8201,6 +8244,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_oak": {
+    "criteria": {
+      "has_plank": "2025-04-18 15:58:10 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/pump_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
@@ -8714,6 +8763,12 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:10 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-04-18 15:56:21 +0000"
     },
     "done": true
   },
@@ -10655,6 +10710,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-04-18 15:52:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:10 +0000"
@@ -11313,7 +11374,8 @@
     "criteria": {
       "pumpkin_pie": "2025-04-18 15:41:32 +0000",
       "bread": "2025-04-18 15:03:43 +0000",
-      "golden_apple": "2025-04-18 15:43:57 +0000"
+      "golden_apple": "2025-04-18 15:43:57 +0000",
+      "carrot": "2025-04-18 15:54:16 +0000"
     },
     "done": false
   },
