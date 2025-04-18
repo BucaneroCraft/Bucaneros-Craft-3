@@ -7978,6 +7978,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-04-18 16:31:05 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/framed_blocks/framed_half_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -8116,6 +8122,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2025-04-18 16:37:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:11 +0000"
@@ -8173,6 +8185,12 @@
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_jungle": {
+    "criteria": {
+      "has_plank": "2025-04-18 16:32:36 +0000"
     },
     "done": true
   },
@@ -10267,6 +10285,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_jungle": {
+    "criteria": {
+      "has_plank": "2025-04-18 16:32:36 +0000"
     },
     "done": true
   },

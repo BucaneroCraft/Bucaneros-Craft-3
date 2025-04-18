@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "idas:sunken_ship": {
+    "criteria": {
+      "in_sunken_ship": "2025-04-18 16:26:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:42 +0000"
@@ -467,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-04-18 16:26:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/tools/lead_from_rope": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:42 +0000"
@@ -554,6 +566,12 @@
   "create:recipes/create.base/crafting/kinetics/deployer": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_birch": {
+    "criteria": {
+      "has_plank": "2025-04-18 16:33:25 +0000"
     },
     "done": true
   },
@@ -704,6 +722,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pulley_block": {
+    "criteria": {
+      "has_plank": "2025-04-18 16:26:51 +0000"
     },
     "done": true
   },
@@ -3044,6 +3068,18 @@
   "create:recipes/create.palettes/diorite_bricks_from_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-18 16:26:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_birch": {
+    "criteria": {
+      "has_plank": "2025-04-18 16:33:25 +0000"
     },
     "done": true
   },
@@ -6897,6 +6933,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-04-18 16:26:13 +0000",
       "opened_chest": "2025-04-18 14:57:12 +0000"
     },
     "done": false
@@ -8698,6 +8735,12 @@
   "mineminenomi:adventure/root": {
     "criteria": {
       "killed_something": "2025-04-18 15:05:09 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-04-18 16:26:13 +0000"
     },
     "done": true
   },

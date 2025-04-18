@@ -7957,6 +7957,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-04-18 16:26:42 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/framed_blocks/framed_half_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
@@ -8158,6 +8164,12 @@
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_jungle": {
+    "criteria": {
+      "has_plank": "2025-04-18 16:33:52 +0000"
     },
     "done": true
   },
@@ -10240,6 +10252,12 @@
   "cavesandcliffs:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_honeycomb": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_jungle": {
+    "criteria": {
+      "has_plank": "2025-04-18 16:33:52 +0000"
     },
     "done": true
   },
