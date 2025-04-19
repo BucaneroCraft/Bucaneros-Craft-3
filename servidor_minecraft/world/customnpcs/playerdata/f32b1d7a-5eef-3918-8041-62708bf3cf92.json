@@ -98,6 +98,22 @@
                 "Date": 1745066525986L
             },
             {
+                "Quest": 3,
+                "Date": 871558L
+            },
+            {
+                "Quest": 4,
+                "Date": 872232L
+            },
+            {
+                "Quest": 5,
+                "Date": 872694L
+            },
+            {
+                "Quest": 6,
+                "Date": 873397L
+            },
+            {
                 "Quest": 10,
                 "Date": 461560L
             }
@@ -154,6 +170,12 @@
         },
         {
             "Dialog": 13
+        },
+        {
+            "Dialog": 14
+        },
+        {
+            "Dialog": 15
         }
     ],
     "ItemGiverChained": [
