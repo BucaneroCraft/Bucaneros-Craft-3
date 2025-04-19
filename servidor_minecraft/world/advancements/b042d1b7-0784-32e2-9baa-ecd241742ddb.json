@@ -1235,6 +1235,12 @@
     },
     "done": true
   },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2025-04-19 13:41:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -5623,6 +5629,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-04-19 13:43:52 +0000"
     },
     "done": true
   },
@@ -11500,6 +11512,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-04-19 13:43:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -11512,6 +11530,8 @@
       "cooked_beef": "2025-04-18 16:56:51 +0000",
       "apple": "2025-04-18 17:03:16 +0000",
       "bread": "2025-04-18 14:47:25 +0000",
+      "cooked_chicken": "2025-04-19 13:55:08 +0000",
+      "rabbit_stew": "2025-04-19 13:43:52 +0000",
       "carrot": "2025-04-18 15:52:14 +0000"
     },
     "done": false

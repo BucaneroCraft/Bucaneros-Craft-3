@@ -20,22 +20,32 @@
     "QuestData": {
         "CompletedQuests": [
             {
+                "Quest": 2,
+                "Date": 1745069788492L
+            },
+            {
                 "Quest": 10,
                 "Date": 711034L
             }
         ],
         "ActiveQuests": [
             {
-                "QuestCompleted": 1b,
+                "QuestCompleted": 0b,
                 "ExtraData": {
                 },
-                "Quest": 2
+                "Quest": 7
             },
             {
                 "QuestCompleted": 1b,
                 "ExtraData": {
                 },
                 "Quest": 8
+            },
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
+                "Quest": 11
             }
         ]
     },
@@ -60,7 +70,16 @@
             "Dialog": 24
         },
         {
+            "Dialog": 25
+        },
+        {
             "Dialog": 10
+        },
+        {
+            "Dialog": 12
+        },
+        {
+            "Dialog": 13
         }
     ],
     "ItemGiverChained": [

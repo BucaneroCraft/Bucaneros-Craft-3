@@ -1307,6 +1307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 14:08:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_dolomite_bricks_wall_from_fancy_dolomite_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:08 +0000"
@@ -1556,6 +1562,12 @@
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 14:08:42 +0000"
     },
     "done": true
   },
@@ -2030,6 +2042,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-19 14:08:42 +0000"
     },
     "done": true
   },
@@ -3734,6 +3752,12 @@
   "create:recipes/create.palettes/dolomite_bricks_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-19 13:38:54 +0000"
     },
     "done": true
   },
@@ -6553,6 +6577,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_plank": "2025-04-19 13:58:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
@@ -7739,6 +7769,12 @@
   "create:recipes/create.palettes/scoria": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 14:08:42 +0000"
     },
     "done": true
   },
@@ -10646,6 +10682,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-04-19 13:59:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:06 +0000"
@@ -11312,8 +11354,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "beetroot_soup": "2025-04-19 13:31:51 +0000",
       "apple": "2025-04-18 17:00:25 +0000",
       "golden_apple": "2025-04-19 12:58:37 +0000",
+      "bread": "2025-04-19 13:43:49 +0000",
       "mushroom_stew": "2025-04-19 13:03:36 +0000",
       "carrot": "2025-04-18 16:31:26 +0000"
     },
@@ -11727,6 +11771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 14:08:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/adjustable_pulse_repeater": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
@@ -12111,6 +12161,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_spruce": {
+    "criteria": {
+      "has_plank": "2025-04-19 13:58:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
@@ -12144,6 +12200,12 @@
   "create:recipes/decorations/smelting/glass_pane_from_tiled_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 14:08:42 +0000"
     },
     "done": true
   },

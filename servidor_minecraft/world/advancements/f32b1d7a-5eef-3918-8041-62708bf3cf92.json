@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_dark_oak": {
+    "criteria": {
+      "has_plank": "2025-04-19 13:31:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/light_gray_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
@@ -752,6 +758,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_plank": "2025-04-19 13:31:14 +0000"
     },
     "done": true
   },
@@ -5669,7 +5681,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sugar_cane": "2025-04-18 18:09:09 +0000"
+      "sugar_cane": "2025-04-18 18:09:09 +0000",
+      "carrot": "2025-04-19 13:33:05 +0000"
     },
     "done": false
   },

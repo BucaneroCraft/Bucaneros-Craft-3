@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-04-19 13:35:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/diorite_cobblestone_slab_from_diorite_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-19 12:48:20 +0000"
@@ -713,6 +719,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pulley_block": {
+    "criteria": {
+      "has_plank": "2025-04-19 13:53:03 +0000"
+    },
+    "done": true
+  },
   "cavesandcliffs:recipes/decorations/purple_candle": {
     "criteria": {
       "has_the_recipe": "2025-04-19 12:48:20 +0000"
@@ -1112,6 +1124,12 @@
   "create:recipes/create.palettes/fancy_andesite_bricks_stairs_from_fancy_andesite_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-19 12:48:20 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/black_eye": {
+    "criteria": {
+      "black_eye": "2025-04-19 13:53:35 +0000"
     },
     "done": true
   },
@@ -3077,6 +3095,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-19 13:53:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed": {
     "criteria": {
       "has_the_recipe": "2025-04-19 12:48:20 +0000"
@@ -3878,7 +3902,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-04-19 13:08:50 +0000",
-      "minecraft:zombie": "2025-04-19 13:09:05 +0000"
+      "minecraft:zombie": "2025-04-19 13:09:05 +0000",
+      "minecraft:drowned": "2025-04-19 13:48:52 +0000"
     },
     "done": false
   },
@@ -6936,6 +6961,12 @@
     },
     "done": true
   },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-04-19 13:35:55 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-19 12:48:21 +0000"
@@ -7662,6 +7693,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_plank": "2025-04-19 13:37:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-19 12:48:20 +0000"
@@ -8184,6 +8221,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_oak": {
+    "criteria": {
+      "has_plank": "2025-04-19 13:37:08 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/pump_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-04-19 12:48:20 +0000"
@@ -8475,6 +8518,12 @@
   "aquaculture:recipes/aquaculture/neptunes_bounty": {
     "criteria": {
       "has_the_recipe": "2025-04-19 12:48:20 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-04-19 13:52:44 +0000"
     },
     "done": true
   },
@@ -9180,6 +9229,12 @@
     },
     "done": true
   },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-diamond": "2025-04-19 13:53:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_limestone_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-19 12:48:20 +0000"
@@ -9315,6 +9370,12 @@
   "create:recipes/decorations/smelting/glass_pane_from_vertical_framed_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-19 12:48:21 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "black_eye": "2025-04-19 13:53:35 +0000"
     },
     "done": true
   },
@@ -10620,6 +10681,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-04-19 13:37:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-19 12:48:21 +0000"
@@ -10742,6 +10809,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-04-19 13:46:42 +0000",
+      "minecraft:beach": "2025-04-19 13:34:25 +0000",
       "minecraft:plains": "2025-04-19 12:48:21 +0000"
     },
     "done": false
@@ -11270,6 +11339,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-04-19 13:56:12 +0000",
+      "cooked_cod": "2025-04-19 13:59:28 +0000",
       "bread": "2025-04-19 13:03:59 +0000"
     },
     "done": false
@@ -11835,6 +11906,12 @@
   "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-19 12:48:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-19 13:53:35 +0000"
     },
     "done": true
   },

@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "idas:sunken_ship": {
+    "criteria": {
+      "in_sunken_ship": "2025-04-19 14:08:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
@@ -374,6 +380,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-04-19 13:40:01 +0000"
     },
     "done": true
   },
@@ -3969,7 +3981,8 @@
       "minecraft:witch": "2025-04-18 16:07:26 +0000",
       "minecraft:cave_spider": "2025-04-18 15:06:40 +0000",
       "minecraft:vex": "2025-04-18 15:31:28 +0000",
-      "minecraft:zombie": "2025-04-18 15:42:04 +0000"
+      "minecraft:zombie": "2025-04-18 15:42:04 +0000",
+      "minecraft:drowned": "2025-04-19 13:34:16 +0000"
     },
     "done": false
   },
@@ -7066,6 +7079,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-04-19 13:40:11 +0000",
       "opened_chest": "2025-04-18 14:46:45 +0000"
     },
     "done": false
@@ -8933,6 +8947,12 @@
   "mineminenomi:adventure/root": {
     "criteria": {
       "killed_something": "2025-04-18 14:55:08 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-04-19 13:40:11 +0000"
     },
     "done": true
   },
