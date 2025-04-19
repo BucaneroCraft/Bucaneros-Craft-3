@@ -1187,6 +1187,12 @@
     },
     "done": true
   },
+  "endrem:main/black_eye": {
+    "criteria": {
+      "black_eye": "2025-04-19 22:02:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
@@ -2528,6 +2534,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/end_crystal_eye": {
+    "criteria": {
+      "end_crystal_eye": "2025-04-19 22:01:33 +0000"
     },
     "done": true
   },
@@ -4010,6 +4022,7 @@
       "minecraft:guardian": "2025-04-19 17:51:48 +0000",
       "minecraft:vindicator": "2025-04-18 15:29:40 +0000",
       "minecraft:spider": "2025-04-18 14:55:08 +0000",
+      "minecraft:phantom": "2025-04-19 22:09:24 +0000",
       "minecraft:witch": "2025-04-18 16:07:26 +0000",
       "minecraft:cave_spider": "2025-04-18 15:06:40 +0000",
       "minecraft:vex": "2025-04-18 15:31:28 +0000",

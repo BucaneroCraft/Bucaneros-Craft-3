@@ -791,6 +791,12 @@
     },
     "done": true
   },
+  "mineminenomi:adventure/subtle_tweaks": {
+    "criteria": {
+      "subtle_tweaks": "2025-04-19 21:57:54 +0000"
+    },
+    "done": true
+  },
   "cavesandcliffs:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
@@ -8021,6 +8027,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-04-19 21:58:43 +0000"
     },
     "done": true
   },

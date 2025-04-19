@@ -2669,6 +2669,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-04-19 22:05:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:42 +0000"
@@ -11362,6 +11368,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "beetroot_soup": "2025-04-19 22:13:36 +0000",
       "apple": "2025-04-19 13:14:12 +0000",
       "bread": "2025-04-18 15:04:13 +0000",
       "golden_apple": "2025-04-19 13:47:14 +0000",

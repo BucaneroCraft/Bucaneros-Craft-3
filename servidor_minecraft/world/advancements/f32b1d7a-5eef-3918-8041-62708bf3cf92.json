@@ -3095,6 +3095,12 @@
     },
     "done": true
   },
+  "mineminenomi:adventure/why_is_the_rum_gone": {
+    "criteria": {
+      "the_rum_is_indeed_gone": "2025-04-19 22:15:03 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/framed_blocks/framed_prism": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"

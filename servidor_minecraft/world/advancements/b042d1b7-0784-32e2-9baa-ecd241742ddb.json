@@ -3983,9 +3983,11 @@
       "minecraft:skeleton": "2025-04-18 15:50:38 +0000",
       "minecraft:guardian": "2025-04-19 17:43:12 +0000",
       "minecraft:spider": "2025-04-18 14:55:37 +0000",
+      "minecraft:phantom": "2025-04-19 21:57:42 +0000",
       "minecraft:cave_spider": "2025-04-18 15:06:15 +0000",
       "minecraft:vex": "2025-04-18 15:32:38 +0000",
-      "minecraft:zombie": "2025-04-18 14:35:28 +0000"
+      "minecraft:zombie": "2025-04-18 14:35:28 +0000",
+      "minecraft:drowned": "2025-04-19 21:58:09 +0000"
     },
     "done": false
   },
@@ -9278,6 +9280,12 @@
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-19 21:58:21 +0000"
     },
     "done": true
   },
