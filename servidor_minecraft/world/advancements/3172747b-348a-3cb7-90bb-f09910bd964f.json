@@ -1319,6 +1319,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 13:11:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_dolomite_bricks_wall_from_fancy_dolomite_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
@@ -1580,6 +1586,12 @@
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 13:11:23 +0000"
     },
     "done": true
   },
@@ -2054,6 +2066,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-19 13:11:23 +0000"
     },
     "done": true
   },
@@ -3620,6 +3638,12 @@
   "create:recipes/create.palettes/granite_pillar_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
+    },
+    "done": true
+  },
+  "create:windmill": {
+    "criteria": {
+      "0": "2025-04-19 13:18:51 +0000"
     },
     "done": true
   },
@@ -7850,6 +7874,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 13:11:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/schematics/schematicannon": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
@@ -10898,6 +10928,12 @@
     },
     "done": true
   },
+  "create:millstone": {
+    "criteria": {
+      "0": "2025-04-19 13:18:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/limestone_cobblestone_slab_from_limestone_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
@@ -11487,15 +11523,15 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-18 15:39:16 +0000",
+      "sweet_berries": "2025-04-18 14:52:14 +0000",
       "beef": "2025-04-18 16:22:07 +0000",
       "baked_potato": "2025-04-18 17:03:10 +0000",
       "porkchop": "2025-04-18 16:11:49 +0000",
-      "cookie": "2025-04-18 15:26:37 +0000",
-      "sweet_berries": "2025-04-18 14:52:14 +0000",
       "beetroot_soup": "2025-04-18 16:20:28 +0000",
       "apple": "2025-04-18 16:05:22 +0000",
       "cooked_cod": "2025-04-18 17:11:10 +0000",
       "bread": "2025-04-18 15:28:29 +0000",
+      "cookie": "2025-04-18 15:26:37 +0000",
       "cooked_rabbit": "2025-04-18 15:41:13 +0000",
       "carrot": "2025-04-18 17:20:24 +0000"
     },
@@ -11906,6 +11942,12 @@
   "framedblocks:recipes/framed_blocks/framed_slope_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 13:11:23 +0000"
     },
     "done": true
   },
@@ -12350,6 +12392,12 @@
   "create:recipes/decorations/smelting/glass_pane_from_tiled_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 13:11:23 +0000"
     },
     "done": true
   },

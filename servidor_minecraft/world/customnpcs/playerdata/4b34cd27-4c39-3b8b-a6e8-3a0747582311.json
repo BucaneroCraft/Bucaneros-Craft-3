@@ -5,6 +5,10 @@
     ],
     "FactionData": [
         {
+            "Points": 2000,
+            "Faction": 0
+        },
+        {
             "Points": 1000,
             "Faction": 1
         }
@@ -15,12 +19,49 @@
     ],
     "QuestData": {
         "CompletedQuests": [
+            {
+                "Quest": 10,
+                "Date": 711034L
+            }
         ],
         "ActiveQuests": [
+            {
+                "QuestCompleted": 1b,
+                "ExtraData": {
+                },
+                "Quest": 2
+            },
+            {
+                "QuestCompleted": 1b,
+                "ExtraData": {
+                },
+                "Quest": 8
+            }
         ]
     },
     "PlayerCompanionId": 0,
     "DialogData": [
+        {
+            "Dialog": 19
+        },
+        {
+            "Dialog": 20
+        },
+        {
+            "Dialog": 21
+        },
+        {
+            "Dialog": 23
+        },
+        {
+            "Dialog": 8
+        },
+        {
+            "Dialog": 24
+        },
+        {
+            "Dialog": 10
+        }
     ],
     "ItemGiverChained": [
     ],

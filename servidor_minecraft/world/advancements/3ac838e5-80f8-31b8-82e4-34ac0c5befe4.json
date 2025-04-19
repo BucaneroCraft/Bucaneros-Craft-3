@@ -785,6 +785,12 @@
     },
     "done": true
   },
+  "mineminenomi:adventure/subtle_tweaks": {
+    "criteria": {
+      "subtle_tweaks": "2025-04-19 13:17:59 +0000"
+    },
+    "done": true
+  },
   "cavesandcliffs:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:42 +0000"
@@ -11276,8 +11282,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "mushroom_stew": "2025-04-18 17:02:23 +0000",
-      "bread": "2025-04-18 15:04:13 +0000"
+      "apple": "2025-04-19 13:14:12 +0000",
+      "bread": "2025-04-18 15:04:13 +0000",
+      "mushroom_stew": "2025-04-18 17:02:23 +0000"
     },
     "done": false
   },
@@ -12250,6 +12257,12 @@
   "framedblocks:recipes/framed_blocks/framed_double_slope_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-19 13:20:29 +0000"
     },
     "done": true
   },

@@ -1199,6 +1199,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-04-19 13:13:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/overgrown_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:06 +0000"
@@ -3896,7 +3902,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:guardian": "2025-04-19 12:45:15 +0000",
-      "minecraft:spider": "2025-04-18 16:28:45 +0000"
+      "minecraft:spider": "2025-04-18 16:28:45 +0000",
+      "minecraft:drowned": "2025-04-19 13:08:17 +0000"
     },
     "done": false
   },
@@ -5517,6 +5524,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-04-19 13:03:36 +0000"
     },
     "done": true
   },
@@ -8683,6 +8696,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-04-19 13:20:44 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/framed_blocks/framed_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
@@ -10750,6 +10769,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-04-18 16:36:20 +0000",
+      "minecraft:deep_cold_ocean": "2025-04-19 12:54:24 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-18 16:36:47 +0000",
       "minecraft:beach": "2025-04-18 16:34:13 +0000",
       "minecraft:plains": "2025-04-16 20:35:08 +0000"
@@ -11278,6 +11298,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2025-04-19 13:03:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
@@ -11287,6 +11313,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-04-18 17:00:25 +0000",
+      "golden_apple": "2025-04-19 12:58:37 +0000",
+      "mushroom_stew": "2025-04-19 13:03:36 +0000",
       "carrot": "2025-04-18 16:31:26 +0000"
     },
     "done": false
