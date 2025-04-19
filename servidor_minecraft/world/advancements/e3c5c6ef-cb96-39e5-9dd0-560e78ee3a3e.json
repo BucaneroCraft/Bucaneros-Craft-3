@@ -3047,6 +3047,12 @@
     },
     "done": true
   },
+  "idas:apothecary_abode": {
+    "criteria": {
+      "in_apothecary_abode": "2025-04-19 18:10:40 +0000"
+    },
+    "done": true
+  },
   "cavesandcliffs:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
@@ -3961,6 +3967,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-19 18:11:55 +0000",
       "minecraft:skeleton": "2025-04-19 14:48:34 +0000",
       "minecraft:guardian": "2025-04-19 12:45:15 +0000",
       "minecraft:spider": "2025-04-18 16:28:45 +0000",
@@ -6038,6 +6045,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/inception_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-04-19 18:16:17 +0000"
     },
     "done": true
   },
@@ -11476,6 +11489,7 @@
       "apple": "2025-04-18 17:00:25 +0000",
       "golden_apple": "2025-04-19 12:58:37 +0000",
       "bread": "2025-04-19 13:43:49 +0000",
+      "rotten_flesh": "2025-04-19 18:11:12 +0000",
       "cooked_chicken": "2025-04-19 17:44:28 +0000",
       "mushroom_stew": "2025-04-19 13:03:36 +0000",
       "carrot": "2025-04-18 16:31:26 +0000"
