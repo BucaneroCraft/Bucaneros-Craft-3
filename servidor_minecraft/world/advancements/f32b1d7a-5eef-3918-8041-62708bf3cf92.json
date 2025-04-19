@@ -4000,6 +4000,7 @@
       "minecraft:vindicator": "2025-04-18 15:31:28 +0000",
       "minecraft:spider": "2025-04-18 15:12:34 +0000",
       "minecraft:evoker": "2025-04-18 15:30:41 +0000",
+      "minecraft:witch": "2025-04-19 22:40:48 +0000",
       "minecraft:cave_spider": "2025-04-18 15:06:56 +0000",
       "minecraft:enderman": "2025-04-18 16:37:55 +0000",
       "minecraft:vex": "2025-04-18 15:30:19 +0000",
@@ -5896,6 +5897,12 @@
   "farmersdelight:recipes/farmersdelight/full_tatami_mat": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/witch_eye_recipe": {
+    "criteria": {
+      "witch_pupil": "2025-04-19 22:42:37 +0000"
     },
     "done": true
   },

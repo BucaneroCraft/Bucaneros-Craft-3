@@ -3494,3 +3494,42 @@ java.lang.NullPointerException: null
 [19Apr2025 22:43:10.820] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3669ms or 73 ticks behind
 [19Apr2025 22:43:28.922] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3121ms or 62 ticks behind
 [19Apr2025 22:43:46.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2136ms or 42 ticks behind
+[19Apr2025 22:44:01.808] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Miglaitor_ lost connection: Disconnected
+[19Apr2025 22:44:01.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ left the game
+[19Apr2025 22:44:01.808] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b042d1b7-0784-32e2-9baa-ecd241742ddb was unloaded
+[19Apr2025 22:44:01.848] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Miglaitor_
+[19Apr2025 22:44:01.849] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Miglaitor_[b042d1b7-0784-32e2-9baa-ecd241742ddb]
+[19Apr2025 22:44:03.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2551ms or 51 ticks behind
+[19Apr2025 22:44:37.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] voy a cerrar cerrar el server ya mismo
+[19Apr2025 22:44:39.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20906ms or 418 ticks behind
+[19Apr2025 22:44:45.905] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Freacklock lost connection: Disconnected
+[19Apr2025 22:44:45.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock left the game
+[19Apr2025 22:44:45.905] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f32b1d7a-5eef-3918-8041-62708bf3cf92 was unloaded
+[19Apr2025 22:44:45.965] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Freacklock
+[19Apr2025 22:44:45.966] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Freacklock[f32b1d7a-5eef-3918-8041-62708bf3cf92]
+[19Apr2025 22:44:49.612] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: marcosbigpapa lost connection: Disconnected
+[19Apr2025 22:44:49.612] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: marcosbigpapa left the game
+[19Apr2025 22:44:49.612] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e was unloaded
+[19Apr2025 22:44:49.690] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client marcosbigpapa
+[19Apr2025 22:44:49.691] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player marcosbigpapa[e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e]
+[19Apr2025 22:44:51.753] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: eldanidani lost connection: Disconnected
+[19Apr2025 22:44:51.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eldanidani left the game
+[19Apr2025 22:44:51.754] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3ac838e5-80f8-31b8-82e4-34ac0c5befe4 was unloaded
+[19Apr2025 22:44:51.910] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client eldanidani
+[19Apr2025 22:44:51.910] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player eldanidani[3ac838e5-80f8-31b8-82e4-34ac0c5befe4]
+[19Apr2025 22:45:14.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Apr2025 22:45:14.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Apr2025 22:45:14.447] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSPhysicsPipelineBackgroundTask/]: Physics pipeline ending
+[19Apr2025 22:45:14.576] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Exception stopping the server
+java.lang.NullPointerException: null
+	at net.minecraft.network.play.ServerPlayNetHandler.handler$zlm000$onDisconnect(ServerPlayNetHandler.java:3125) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147231_a(ServerPlayNetHandler.java) ~[?:?]
+	at net.minecraft.network.NetworkManager.func_179293_l(NetworkManager.java:366) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213167_f(SourceFile:79) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_194028_b(ServerPlayNetHandler.java:296) ~[?:?]
+	at net.minecraft.server.management.PlayerList.func_72392_r(PlayerList.java:742) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:557) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71260_j(DedicatedServer.java:514) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:679) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
