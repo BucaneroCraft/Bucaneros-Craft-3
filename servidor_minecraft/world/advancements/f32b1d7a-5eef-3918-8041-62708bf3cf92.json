@@ -773,6 +773,12 @@
     },
     "done": true
   },
+  "mineminenomi:adventure/subtle_tweaks": {
+    "criteria": {
+      "subtle_tweaks": "2025-04-18 18:10:43 +0000"
+    },
+    "done": true
+  },
   "cavesandcliffs:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
@@ -3785,6 +3791,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-18 18:00:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
@@ -4053,6 +4065,12 @@
     },
     "done": true
   },
+  "mineminenomi:challenges/morgan": {
+    "criteria": {
+      "unlock_challenge": "2025-04-18 18:47:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/horizontal_framed_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
@@ -4068,6 +4086,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:challenges/arlong": {
+    "criteria": {
+      "unlock_challenge": "2025-04-18 18:41:22 +0000"
     },
     "done": true
   },
@@ -5642,6 +5666,12 @@
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-04-18 18:09:09 +0000"
+    },
+    "done": false
   },
   "create:recipes/create.palettes/scoria_bricks_wall": {
     "criteria": {
@@ -10914,6 +10944,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-04-18 16:59:09 +0000",
+      "minecraft:deep_cold_ocean": "2025-04-18 17:52:31 +0000",
+      "minecraft:deep_frozen_ocean": "2025-04-18 17:54:37 +0000",
       "minecraft:beach": "2025-04-18 16:57:23 +0000",
       "minecraft:plains": "2025-04-18 14:54:10 +0000"
     },
@@ -11195,6 +11227,12 @@
     },
     "done": true
   },
+  "mineminenomi:challenges/nyanban_brothers": {
+    "criteria": {
+      "unlock_challenge": "2025-04-18 18:46:18 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/framed_blocks/framed_inverse_double_slope_slab_from_inverse_double_slope_panel": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
@@ -11455,6 +11493,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-04-18 17:41:45 +0000",
       "cookie": "2025-04-18 16:10:29 +0000",
       "pumpkin_pie": "2025-04-18 15:41:32 +0000",
       "bread": "2025-04-18 15:03:43 +0000",
@@ -12924,6 +12963,12 @@
   "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:challenges/root": {
+    "criteria": {
+      "unlock_challenge": "2025-04-18 18:36:18 +0000"
     },
     "done": true
   },

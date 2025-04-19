@@ -14,17 +14,101 @@
         }
     ],
     "BankData": [
+        {
+            "BankInv": [
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 0
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 1
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 2
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 3
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 4
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 5
+                }
+            ],
+            "UpdatedSlots": [
+                {
+                    "Slot": 0,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 1,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 2,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 3,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 4,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 5,
+                    "Boolean": 0b
+                }
+            ],
+            "DataBankId": 1,
+            "UnlockedSlots": 1
+        }
     ],
     "ItemGiversList": [
     ],
     "QuestData": {
         "CompletedQuests": [
             {
+                "Quest": 2,
+                "Date": 1745066525986L
+            },
+            {
                 "Quest": 10,
                 "Date": 461560L
             }
         ],
         "ActiveQuests": [
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
+                "Quest": 7
+            },
             {
                 "QuestCompleted": 1b,
                 "ExtraData": {
@@ -49,6 +133,18 @@
         },
         {
             "Dialog": 24
+        },
+        {
+            "Dialog": 8
+        },
+        {
+            "Dialog": 10
+        },
+        {
+            "Dialog": 12
+        },
+        {
+            "Dialog": 13
         }
     ],
     "ItemGiverChained": [

@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_dark_oak": {
+    "criteria": {
+      "has_plank": "2025-04-18 18:03:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/light_gray_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
@@ -752,6 +758,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_plank": "2025-04-18 18:03:08 +0000"
     },
     "done": true
   },
@@ -4018,6 +4030,12 @@
   "framedblocks:recipes/framed_blocks/framed_soul_torch": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:challenges/morgan": {
+    "criteria": {
+      "unlock_challenge": "2025-04-18 18:47:30 +0000"
     },
     "done": true
   },
@@ -7754,6 +7772,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_plank": "2025-04-18 17:59:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
@@ -8285,6 +8309,12 @@
   "create:recipes/create.palettes/overgrown_limestone_from_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_oak": {
+    "criteria": {
+      "has_plank": "2025-04-18 17:59:49 +0000"
     },
     "done": true
   },
@@ -9263,6 +9293,12 @@
   "aquaculture:recipes/decorations/dark_oak_fish_mount": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:devil_fruits/root": {
+    "criteria": {
+      "eat_fruit": "2025-04-18 18:04:57 +0000"
     },
     "done": true
   },
@@ -10346,6 +10382,12 @@
     },
     "done": true
   },
+  "mineminenomi:challenges/chew": {
+    "criteria": {
+      "unlock_challenge": "2025-04-18 18:33:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_limestone_slab_from_paved_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
@@ -10877,6 +10919,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-04-18 17:04:04 +0000",
+      "minecraft:deep_cold_ocean": "2025-04-18 17:50:27 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-18 17:10:49 +0000",
       "minecraft:beach": "2025-04-18 17:04:02 +0000",
       "minecraft:plains": "2025-04-18 14:46:16 +0000"
@@ -11168,6 +11211,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:challenges/nyanban_brothers": {
+    "criteria": {
+      "unlock_challenge": "2025-04-18 18:46:18 +0000"
     },
     "done": true
   },
@@ -11953,6 +12002,12 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:challenges/pearl": {
+    "criteria": {
+      "unlock_challenge": "2025-04-18 18:22:52 +0000"
     },
     "done": true
   },

@@ -959,6 +959,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-18 18:41:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/chiseled_weathered_limestone_from_weathered_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -4180,6 +4186,12 @@
     },
     "done": true
   },
+  "mineminenomi:challenges/gin": {
+    "criteria": {
+      "unlock_challenge": "2025-04-18 18:28:31 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:13 +0000"
@@ -5644,6 +5656,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-04-18 18:07:07 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/scoria_bricks_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -6928,6 +6946,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-18 19:05:05 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:13 +0000"
@@ -7987,6 +8011,12 @@
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-04-18 16:31:05 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:challenges/don_krieg": {
+    "criteria": {
+      "unlock_challenge": "2025-04-18 18:20:13 +0000"
     },
     "done": true
   },
@@ -9226,6 +9256,12 @@
     },
     "done": true
   },
+  "mineminenomi:challenges/higuma": {
+    "criteria": {
+      "unlock_challenge": "2025-04-18 18:44:23 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_red_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -9295,6 +9331,12 @@
   "aquaculture:recipes/decorations/dark_oak_fish_mount": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:devil_fruits/root": {
+    "criteria": {
+      "eat_fruit": "2025-04-18 18:34:11 +0000"
     },
     "done": true
   },
@@ -10921,6 +10963,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-04-17 10:30:20 +0000",
+      "minecraft:deep_cold_ocean": "2025-04-18 17:52:31 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-17 10:49:43 +0000",
       "minecraft:warm_ocean": "2025-04-17 11:20:49 +0000",
       "minecraft:beach": "2025-04-16 23:32:57 +0000",
@@ -10992,6 +11035,12 @@
   "minecraft:recipes/redstone/redstone_from_smelting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-18 18:07:07 +0000"
     },
     "done": true
   },
