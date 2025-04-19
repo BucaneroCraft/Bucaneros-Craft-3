@@ -5512,6 +5512,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-19 17:26:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -6673,6 +6679,12 @@
   "create:recipes/create.base/smelting/brass_ingot_from_crushed": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_plank": "2025-04-19 17:23:06 +0000"
     },
     "done": true
   },
@@ -12343,6 +12355,12 @@
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_spruce": {
+    "criteria": {
+      "has_plank": "2025-04-19 17:23:06 +0000"
     },
     "done": true
   },
