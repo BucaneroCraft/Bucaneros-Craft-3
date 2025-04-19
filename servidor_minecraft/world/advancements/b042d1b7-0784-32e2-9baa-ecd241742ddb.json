@@ -791,6 +791,12 @@
     },
     "done": true
   },
+  "mineminenomi:adventure/subtle_tweaks": {
+    "criteria": {
+      "subtle_tweaks": "2025-04-19 17:42:29 +0000"
+    },
+    "done": true
+  },
   "cavesandcliffs:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -3975,6 +3981,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-18 15:29:33 +0000",
       "minecraft:skeleton": "2025-04-18 15:50:38 +0000",
+      "minecraft:guardian": "2025-04-19 17:43:12 +0000",
       "minecraft:spider": "2025-04-18 14:55:37 +0000",
       "minecraft:cave_spider": "2025-04-18 15:06:15 +0000",
       "minecraft:vex": "2025-04-18 15:32:38 +0000",

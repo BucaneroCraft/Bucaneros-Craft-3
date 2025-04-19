@@ -1223,6 +1223,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-04-19 17:46:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/granite_bricks_slab_from_granite_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
@@ -3977,6 +3983,7 @@
       "minecraft:skeleton": "2025-04-18 16:04:28 +0000",
       "minecraft:zoglin": "2025-04-18 15:45:43 +0000",
       "minecraft:ravager": "2025-04-18 15:49:14 +0000",
+      "minecraft:guardian": "2025-04-19 17:51:55 +0000",
       "minecraft:vindicator": "2025-04-18 15:31:28 +0000",
       "minecraft:spider": "2025-04-18 15:12:34 +0000",
       "minecraft:evoker": "2025-04-18 15:30:41 +0000",
@@ -5647,6 +5654,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-04-19 17:47:27 +0000"
     },
     "done": true
   },
@@ -11514,6 +11527,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-04-18 17:41:45 +0000",
+      "beetroot_soup": "2025-04-19 17:47:27 +0000",
       "cooked_cod": "2025-04-19 14:43:32 +0000",
       "pumpkin_pie": "2025-04-18 15:41:32 +0000",
       "bread": "2025-04-18 15:03:43 +0000",
