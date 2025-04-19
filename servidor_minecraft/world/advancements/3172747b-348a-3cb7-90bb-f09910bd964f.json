@@ -12069,6 +12069,12 @@
     },
     "done": true
   },
+  "mineminenomi:adventure/priceless_blade": {
+    "criteria": {
+      "obtain_supreme_grade": "2025-04-19 21:56:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/dark_scoria_cobblestone_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
