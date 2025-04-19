@@ -2969,6 +2969,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-19 14:53:06 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/chocolate_pie_from_slices": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:43 +0000"
@@ -3934,7 +3940,8 @@
       "minecraft:skeleton": "2025-04-18 15:10:33 +0000",
       "minecraft:spider": "2025-04-18 15:10:39 +0000",
       "minecraft:zombie": "2025-04-18 15:12:54 +0000",
-      "minecraft:drowned": "2025-04-19 13:48:35 +0000"
+      "minecraft:drowned": "2025-04-19 13:48:35 +0000",
+      "minecraft:zombie_villager": "2025-04-19 14:51:36 +0000"
     },
     "done": false
   },

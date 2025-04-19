@@ -953,6 +953,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-19 17:15:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/chiseled_weathered_limestone_from_weathered_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:08 +0000"
@@ -3925,9 +3931,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-19 14:48:34 +0000",
       "minecraft:guardian": "2025-04-19 12:45:15 +0000",
       "minecraft:spider": "2025-04-18 16:28:45 +0000",
-      "minecraft:drowned": "2025-04-19 13:08:17 +0000"
+      "minecraft:witch": "2025-04-19 17:17:12 +0000",
+      "minecraft:zombie": "2025-04-19 14:49:09 +0000",
+      "minecraft:drowned": "2025-04-19 13:08:17 +0000",
+      "minecraft:zombie_villager": "2025-04-19 14:52:00 +0000"
     },
     "done": false
   },
@@ -12812,6 +12822,12 @@
   "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:06 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:challenges/root": {
+    "criteria": {
+      "unlock_challenge": "2025-04-19 14:38:41 +0000"
     },
     "done": true
   },
