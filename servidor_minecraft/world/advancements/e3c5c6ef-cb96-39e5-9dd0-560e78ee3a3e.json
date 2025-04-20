@@ -8636,6 +8636,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-04-20 16:58:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
@@ -11006,8 +11012,11 @@
       "minecraft:forest": "2025-04-19 17:32:20 +0000",
       "minecraft:deep_cold_ocean": "2025-04-19 12:54:24 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-18 16:36:47 +0000",
+      "minecraft:birch_forest": "2025-04-20 16:35:22 +0000",
       "minecraft:snowy_beach": "2025-04-19 17:28:38 +0000",
+      "minecraft:warm_ocean": "2025-04-20 16:30:13 +0000",
       "minecraft:beach": "2025-04-18 16:34:13 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-20 16:29:36 +0000",
       "minecraft:plains": "2025-04-16 20:35:08 +0000"
     },
     "done": false
@@ -11219,6 +11228,12 @@
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:08 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-04-20 16:39:08 +0000"
     },
     "done": true
   },

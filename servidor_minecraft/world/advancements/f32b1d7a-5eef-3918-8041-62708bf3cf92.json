@@ -971,6 +971,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-20 16:37:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/chiseled_weathered_limestone_from_weathered_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:10 +0000"
@@ -1497,10 +1503,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-04-20 15:58:43 +0000",
       "minecraft:nether_wastes": "2025-04-20 15:29:55 +0000",
+      "minecraft:soul_sand_valley": "2025-04-20 16:21:29 +0000",
       "minecraft:warped_forest": "2025-04-20 15:59:43 +0000",
       "minecraft:basalt_deltas": "2025-04-20 15:28:25 +0000"
     },
-    "done": false
+    "done": true
   },
   "create:recipes/create.palettes/fancy_granite_bricks_stairs": {
     "criteria": {
@@ -2225,6 +2232,12 @@
   "cavesandcliffs:recipes/building_blocks/exposed_cut_copper_from_exposed_copper_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed": "2025-04-20 16:23:28 +0000"
     },
     "done": true
   },
@@ -4024,6 +4037,7 @@
       "minecraft:zoglin": "2025-04-18 15:45:43 +0000",
       "minecraft:elder_guardian": "2025-04-19 17:56:07 +0000",
       "minecraft:ravager": "2025-04-18 15:49:14 +0000",
+      "minecraft:hoglin": "2025-04-20 16:30:19 +0000",
       "minecraft:guardian": "2025-04-19 17:51:55 +0000",
       "minecraft:vindicator": "2025-04-18 15:31:28 +0000",
       "minecraft:magma_cube": "2025-04-20 15:29:06 +0000",
@@ -4278,6 +4292,12 @@
   "create:recipes/create.palettes/polished_scoria_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_crimson": {
+    "criteria": {
+      "has_plank": "2025-04-20 16:25:50 +0000"
     },
     "done": true
   },
@@ -8555,6 +8575,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_crimson": {
+    "criteria": {
+      "has_plank": "2025-04-20 16:25:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_limestone_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
@@ -9068,6 +9094,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-04-20 16:16:36 +0000"
     },
     "done": true
   },
@@ -11679,6 +11711,12 @@
   "minecraft:recipes/building_blocks/red_nether_brick_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-04-20 16:38:18 +0000"
     },
     "done": true
   },
