@@ -18336,3 +18336,69 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Apr2025 15:53:31.284] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 1527
 [20Apr2025 15:53:31.992] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 1538
 [20Apr2025 15:53:32.712] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 1549
+[20Apr2025 15:53:40.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5558ms or 111 ticks behind
+[20Apr2025 15:53:41.910] [Server thread/INFO] [explorerscompass/]: Starting search: 5000 max radius, 50000 max samples
+[20Apr2025 15:53:42.218] [Server thread/INFO] [explorerscompass/]: Search succeeded: 1074 radius, 1377 samples
+[20Apr2025 15:53:48.366] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 1750
+[20Apr2025 15:53:49.194] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 1761
+[20Apr2025 15:53:50.015] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 1772
+[20Apr2025 15:53:50.703] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 1783
+[20Apr2025 15:53:51.397] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 1794
+[20Apr2025 15:54:03.738] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8382ms or 167 ticks behind
+[20Apr2025 15:54:15.869] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Brute stopped Charged Punch at tick 1981
+[20Apr2025 15:54:24.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5542ms or 110 ticks behind
+[20Apr2025 15:54:42.396] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Brute stopped Charged Cleave at tick 2394
+[20Apr2025 15:54:42.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3558ms or 71 ticks behind
+[20Apr2025 15:54:56.024] [Server thread/INFO] [explorerscompass/]: Starting search: 5000 max radius, 50000 max samples
+[20Apr2025 15:54:56.138] [Server thread/INFO] [explorerscompass/]: Search succeeded: 1944 radius, 3356 samples
+[20Apr2025 15:55:01.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4121ms or 82 ticks behind
+[20Apr2025 15:55:09.409] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Brute stopped Charged Punch at tick 2814
+[20Apr2025 15:55:20.909] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4052ms or 81 ticks behind
+[20Apr2025 15:55:26.591] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Apr2025 15:55:26.602] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Apr2025 15:55:41.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5963ms or 119 ticks behind
+[20Apr2025 15:55:59.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2862ms or 57 ticks behind
+[20Apr2025 15:56:14.136] [Server thread/INFO] [explorerscompass/]: Starting search: 5000 max radius, 50000 max samples
+[20Apr2025 15:56:14.185] [Server thread/INFO] [explorerscompass/]: Search succeeded: 1944 radius, 3356 samples
+[20Apr2025 15:56:16.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[20Apr2025 15:56:35.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3649ms or 72 ticks behind
+[20Apr2025 15:56:54.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3782ms or 75 ticks behind
+[20Apr2025 15:57:14.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5380ms or 107 ticks behind
+[20Apr2025 15:57:41.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11932ms or 238 ticks behind
+[20Apr2025 15:57:58.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[20Apr2025 15:57:59.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock has made the advancement [Hidden in the Depths]
+[20Apr2025 15:58:17.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3769ms or 75 ticks behind
+[20Apr2025 15:58:39.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6960ms or 139 ticks behind
+[20Apr2025 15:58:57.908] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3852ms or 77 ticks behind
+[20Apr2025 15:59:15.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2434ms or 48 ticks behind
+[20Apr2025 15:59:33.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3593ms or 71 ticks behind
+[20Apr2025 15:59:50.804] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Brute stopped Tackle at tick 1463
+[20Apr2025 15:59:52.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3624ms or 72 ticks behind
+[20Apr2025 16:00:04.641] [Server thread/DEBUG] [com.blackgear.platform.core.util.config.ConfigLoader/]: Found existing serverconfig directory : ./world/serverconfig
+[20Apr2025 16:00:04.641] [Server thread/DEBUG] [com.blackgear.platform.core.util.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[20Apr2025 16:00:04.641] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[20Apr2025 16:00:04.645] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[20Apr2025 16:00:04.651] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e
+[20Apr2025 16:00:04.651] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: 3172747b-348a-3cb7-90bb-f09910bd964f
+[20Apr2025 16:00:04.652] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: f32b1d7a-5eef-3918-8041-62708bf3cf92
+[20Apr2025 16:00:04.652] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: b042d1b7-0784-32e2-9baa-ecd241742ddb
+[20Apr2025 16:00:04.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Apr2025 16:00:04.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Apr2025 16:00:04.673] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSPhysicsPipelineBackgroundTask/]: Physics pipeline ending
+[20Apr2025 16:00:04.779] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Exception stopping the server
+java.lang.NullPointerException: null
+	at net.minecraft.network.play.ServerPlayNetHandler.handler$zlm000$onDisconnect(ServerPlayNetHandler.java:3125) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147231_a(ServerPlayNetHandler.java) ~[?:?]
+	at net.minecraft.network.NetworkManager.func_179293_l(NetworkManager.java:366) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213167_f(SourceFile:79) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_194028_b(ServerPlayNetHandler.java:296) ~[?:?]
+	at net.minecraft.server.management.PlayerList.func_72392_r(PlayerList.java:742) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:557) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71260_j(DedicatedServer.java:514) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:679) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[20Apr2025 16:00:04.780] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[20Apr2025 16:00:04.780] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[20Apr2025 16:00:04.780] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file /workspaces/Bucaneros-Craft-3/servidor_minecraft/config/waystones-server.toml changed, sending notifies
+[20Apr2025 16:00:04.781] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file comforts-server.toml changed, sending notifies
