@@ -4502,6 +4502,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-04-20 23:22:14 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/framed_blocks/framed_slope": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:43 +0000"

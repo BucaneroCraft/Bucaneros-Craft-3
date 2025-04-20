@@ -10353,6 +10353,12 @@
     },
     "done": true
   },
+  "mineminenomi:challenges/mr_1": {
+    "criteria": {
+      "unlock_challenge": "2025-04-20 23:13:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
@@ -10362,6 +10368,12 @@
   "aquaculture:recipes/decorations/acacia_fish_mount": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:challenges/mr_3": {
+    "criteria": {
+      "unlock_challenge": "2025-04-20 23:14:42 +0000"
     },
     "done": true
   },

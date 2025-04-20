@@ -7161,6 +7161,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-04-20 23:16:46 +0000",
       "opened_chest": "2025-04-16 17:52:33 +0000"
     },
     "done": false
@@ -9061,6 +9062,12 @@
     },
     "done": true
   },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-04-20 23:16:46 +0000"
+    },
+    "done": true
+  },
   "xercamusic:recipes/sansula": {
     "criteria": {
       "has_item": "2025-04-16 16:50:11 +0000"
@@ -10375,6 +10382,12 @@
     },
     "done": true
   },
+  "mineminenomi:challenges/mr_1": {
+    "criteria": {
+      "unlock_challenge": "2025-04-20 23:13:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -11417,6 +11430,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:challenges/nyanban_brothers": {
+    "criteria": {
+      "unlock_challenge": "2025-04-20 23:11:26 +0000"
     },
     "done": true
   },
