@@ -4048,6 +4048,7 @@
       "minecraft:witch": "2025-04-19 22:40:48 +0000",
       "minecraft:wither_skeleton": "2025-04-20 15:46:03 +0000",
       "minecraft:cave_spider": "2025-04-18 15:06:56 +0000",
+      "minecraft:piglin": "2025-04-20 19:48:11 +0000",
       "minecraft:enderman": "2025-04-18 16:37:55 +0000",
       "minecraft:vex": "2025-04-18 15:30:19 +0000",
       "minecraft:zombie": "2025-04-18 16:05:43 +0000",
@@ -4556,6 +4557,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/in_nether": {
+    "criteria": {
+      "end_crystal_fragment": "2025-04-20 19:58:19 +0000"
     },
     "done": true
   },
@@ -8473,6 +8480,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-04-20 19:56:57 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/pump_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
@@ -9025,6 +9038,12 @@
     },
     "done": true
   },
+  "endrem:main/end_crystal_fragment": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-20 19:58:19 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_void_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
@@ -9511,6 +9530,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_hoglin_stable": "2025-04-20 19:56:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_limestone_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
@@ -9694,6 +9719,12 @@
   "cavesandcliffs:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/checker_block": {
+    "criteria": {
+      "has_plank": "2025-04-20 19:58:22 +0000"
     },
     "done": true
   },
@@ -11169,6 +11200,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-04-20 19:56:31 +0000"
     },
     "done": true
   },

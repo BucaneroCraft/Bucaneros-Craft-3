@@ -7138,6 +7138,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "way_sign": "2025-04-20 19:45:19 +0000"
+    },
+    "done": true
+  },
   "cavesandcliffs:recipes/decorations/green_candle": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:42 +0000"
@@ -8497,6 +8503,12 @@
   "create:recipes/create.palettes/gabbro_bricks_wall_from_gabbro_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-04-20 20:01:57 +0000"
     },
     "done": true
   },

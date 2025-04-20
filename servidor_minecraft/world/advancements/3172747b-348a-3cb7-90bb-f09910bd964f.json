@@ -1513,6 +1513,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-04-20 19:53:39 +0000",
       "minecraft:nether_wastes": "2025-04-20 15:29:45 +0000",
       "minecraft:basalt_deltas": "2025-04-20 15:28:21 +0000"
     },
@@ -4280,6 +4281,12 @@
   "create:recipes/create.palettes/polished_scoria_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_crimson": {
+    "criteria": {
+      "has_plank": "2025-04-20 20:01:52 +0000"
     },
     "done": true
   },
@@ -8545,6 +8552,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_crimson": {
+    "criteria": {
+      "has_plank": "2025-04-20 20:01:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_limestone_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
@@ -11639,6 +11652,7 @@
       "cookie": "2025-04-18 15:26:37 +0000",
       "suspicious_stew": "2025-04-19 17:26:18 +0000",
       "cooked_rabbit": "2025-04-18 15:41:13 +0000",
+      "mushroom_stew": "2025-04-20 19:49:05 +0000",
       "cod": "2025-04-19 17:58:28 +0000",
       "cooked_salmon": "2025-04-19 18:30:36 +0000",
       "carrot": "2025-04-18 17:20:24 +0000"

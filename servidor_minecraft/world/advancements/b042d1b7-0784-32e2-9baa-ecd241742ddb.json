@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "mineminenomi:adventure/haki_master": {
+    "criteria": {
+      "unlock_kenbunshoku_aura": "2025-04-20 19:57:56 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -3357,6 +3363,12 @@
     },
     "done": true
   },
+  "mineminenomi:adventure/whats_kairoseki": {
+    "criteria": {
+      "unlock_kenbunshoku_aura": "2025-04-20 19:57:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -4017,9 +4029,11 @@
       "minecraft:blaze": "2025-04-20 15:49:03 +0000",
       "minecraft:skeleton": "2025-04-18 15:50:38 +0000",
       "minecraft:ghast": "2025-04-20 15:25:16 +0000",
+      "minecraft:hoglin": "2025-04-20 19:58:00 +0000",
       "minecraft:guardian": "2025-04-19 17:43:12 +0000",
       "minecraft:magma_cube": "2025-04-20 15:26:12 +0000",
       "minecraft:spider": "2025-04-18 14:55:37 +0000",
+      "minecraft:piglin_brute": "2025-04-20 19:57:12 +0000",
       "minecraft:phantom": "2025-04-19 21:57:42 +0000",
       "minecraft:zombified_piglin": "2025-04-20 15:58:02 +0000",
       "minecraft:wither_skeleton": "2025-04-20 15:42:52 +0000",
@@ -8447,6 +8461,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-04-20 19:57:01 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/pump_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -9482,6 +9502,12 @@
   "toms_storage:unlock_dia_pearl": {
     "criteria": {
       "inv_changed-diamond": "2025-04-18 15:33:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_hoglin_stable": "2025-04-20 19:56:48 +0000"
     },
     "done": true
   },
@@ -11163,6 +11189,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-04-20 19:56:24 +0000"
     },
     "done": true
   },
