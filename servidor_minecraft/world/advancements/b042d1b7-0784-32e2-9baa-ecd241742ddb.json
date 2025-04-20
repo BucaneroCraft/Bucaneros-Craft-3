@@ -4165,6 +4165,12 @@
     },
     "done": true
   },
+  "mineminenomi:challenges/arlong": {
+    "criteria": {
+      "unlock_challenge": "2025-04-20 23:06:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"

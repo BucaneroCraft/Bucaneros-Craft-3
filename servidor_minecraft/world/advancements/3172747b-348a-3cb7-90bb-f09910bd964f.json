@@ -4177,6 +4177,12 @@
     },
     "done": true
   },
+  "mineminenomi:challenges/arlong": {
+    "criteria": {
+      "unlock_challenge": "2025-04-20 23:06:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
@@ -5921,6 +5927,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:challenges/mr_5_and_miss_valentine": {
+    "criteria": {
+      "unlock_challenge": "2025-04-20 23:08:17 +0000"
     },
     "done": true
   },
