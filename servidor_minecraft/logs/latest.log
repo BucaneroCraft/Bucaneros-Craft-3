@@ -2961,3 +2961,72 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Apr2025 15:43:03.701] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@4f05c42e[id=<null>,name=Kirolaid,properties={},legacy=false] (/100.123.52.67:50229) lost connection: Disconnected
 [20Apr2025 15:43:06.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2812ms or 56 ticks behind
 [20Apr2025 15:43:14.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock has made the advancement [Stare Into Despair]
+[20Apr2025 15:43:21.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ has made the advancement [Stare Into Despair]
+[20Apr2025 15:43:25.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[20Apr2025 15:43:36.272] [Server thread/INFO] [mineminenomi/]: marcosbigpapa's challenge stopped.
+[20Apr2025 15:43:36.639] [Server thread/INFO] [mineminenomi/]: marcosbigpapa's challenge stopped.
+[20Apr2025 15:43:49.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9061ms or 181 ticks behind
+[20Apr2025 15:44:02.416] [Server thread/INFO] [mineminenomi/]: marcosbigpapa started CHEW_HARD challenge.
+[20Apr2025 15:44:06.301] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/14825, l='ServerLevel[world]', x=-6.51, y=52.01, z=8.98]
+[20Apr2025 15:44:06.302] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/14827, l='ServerLevel[world]', x=-6.16, y=51.41, z=7.89]
+[20Apr2025 15:44:06.302] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/14826, l='ServerLevel[world]', x=-6.70, y=51.40, z=7.63]
+[20Apr2025 15:44:06.302] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/14824, l='ServerLevel[world]', x=-3.64, y=52.72, z=13.45]
+[20Apr2025 15:44:06.303] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/14822, l='ServerLevel[world]', x=-1.27, y=52.97, z=14.73]
+[20Apr2025 15:44:06.303] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/14738, l='ServerLevel[world]', x=-3.02, y=55.25, z=30.80]
+[20Apr2025 15:44:06.303] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/14736, l='ServerLevel[world]', x=-1.44, y=56.80, z=30.54]
+[20Apr2025 15:44:06.303] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/14732, l='ServerLevel[world]', x=-7.52, y=48.50, z=30.54]
+[20Apr2025 15:44:06.304] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/14737, l='ServerLevel[world]', x=-3.11, y=56.93, z=30.24]
+[20Apr2025 15:44:06.304] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/14731, l='ServerLevel[world]', x=-5.61, y=49.33, z=31.46]
+[20Apr2025 15:44:06.304] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/14721, l='ServerLevel[world]', x=7.45, y=69.91, z=12.46]
+[20Apr2025 15:44:06.304] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/14718, l='ServerLevel[world]', x=5.84, y=63.66, z=12.48]
+[20Apr2025 15:44:06.305] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/14717, l='ServerLevel[world]', x=6.50, y=70.76, z=10.54]
+[20Apr2025 15:44:06.305] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/14719, l='ServerLevel[world]', x=5.24, y=62.54, z=11.32]
+[20Apr2025 15:44:06.305] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/14720, l='ServerLevel[world]', x=4.52, y=63.24, z=10.34]
+[20Apr2025 15:44:06.305] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/14821, l='ServerLevel[world]', x=2.44, y=48.07, z=10.55]
+[20Apr2025 15:44:06.305] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/13812, l='ServerLevel[world]', x=4.03, y=48.04, z=11.62]
+[20Apr2025 15:44:06.306] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/13813, l='ServerLevel[world]', x=4.57, y=47.72, z=10.47]
+[20Apr2025 15:44:06.306] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/13815, l='ServerLevel[world]', x=8.41, y=58.74, z=0.61]
+[20Apr2025 15:44:10.243] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5787ms or 115 ticks behind
+[20Apr2025 15:44:43.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20Apr2025 15:46:03.008] [Server thread/INFO] [mineminenomi/]: marcosbigpapa's challenge stopped.
+[20Apr2025 15:46:22.008] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20Apr2025 15:46:30.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock has made the advancement [Into Fire]
+[20Apr2025 15:46:39.943] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2937ms or 58 ticks behind
+[20Apr2025 15:46:58.394] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3487ms or 69 ticks behind
+[20Apr2025 15:47:16.234] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2877ms or 57 ticks behind
+[20Apr2025 15:47:34.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3597ms or 71 ticks behind
+[20Apr2025 15:47:54.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4673ms or 93 ticks behind
+[20Apr2025 15:47:57.736] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> miguel
+[20Apr2025 15:48:00.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Miglaitor_> q
+[20Apr2025 15:48:08.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> hay que meter el polymorph
+[20Apr2025 15:48:10.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Spectator Mode]
+[20Apr2025 15:48:13.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4280ms or 85 ticks behind
+[20Apr2025 15:48:17.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Miglaitor_> q es esa mrd
+[20Apr2025 15:48:18.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> no puedo craftear las balas de cañon bruh
+[20Apr2025 15:48:32.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3996ms or 79 ticks behind
+[20Apr2025 15:48:33.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported Miglaitor_ to Freacklock]
+[20Apr2025 15:48:39.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[20Apr2025 15:48:43.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> es un switch que cuando hay cosas con el mismo crafteo puedes cambiar entre ellas
+[20Apr2025 15:48:47.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> no se si me entiendes
+[20Apr2025 15:48:50.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3060ms or 61 ticks behind
+[20Apr2025 15:48:55.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Miglaitor_> se llama jei
+[20Apr2025 15:49:01.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> el jei no deja bruh
+[20Apr2025 15:49:13.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7667ms or 153 ticks behind
+[20Apr2025 15:49:30.907] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2601ms or 52 ticks behind
+[20Apr2025 15:49:42.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[20Apr2025 15:49:48.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3013ms or 60 ticks behind
+[20Apr2025 15:49:52.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[20Apr2025 15:50:06.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2517ms or 50 ticks behind
+[20Apr2025 15:50:24.422] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3015ms or 60 ticks behind
+[20Apr2025 15:50:41.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ has made the advancement [Into Fire]
+[20Apr2025 15:50:42.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20Apr2025 15:51:00.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2484ms or 49 ticks behind
+[20Apr2025 15:51:18.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2868ms or 57 ticks behind
+[20Apr2025 15:51:27.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Spectator Mode]
+[20Apr2025 15:51:38.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5143ms or 102 ticks behind
+[20Apr2025 15:51:59.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5814ms or 116 ticks behind
+[20Apr2025 15:52:03.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[20Apr2025 15:52:19.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5179ms or 103 ticks behind
+[20Apr2025 15:52:39.008] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4801ms or 96 ticks behind
+[20Apr2025 15:52:59.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5529ms or 110 ticks behind
+[20Apr2025 15:53:19.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5325ms or 106 ticks behind
