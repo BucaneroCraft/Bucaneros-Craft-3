@@ -1871,6 +1871,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-04-20 22:05:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
@@ -5717,6 +5723,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "rice": "2025-04-20 22:05:21 +0000",
       "potato": "2025-04-19 21:54:43 +0000",
       "wheat": "2025-04-16 21:53:56 +0000"
     },
