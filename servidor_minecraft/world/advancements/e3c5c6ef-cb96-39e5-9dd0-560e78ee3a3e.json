@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_dark_oak": {
+    "criteria": {
+      "has_plank": "2025-04-20 20:07:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/light_gray_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
@@ -779,6 +785,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_plank": "2025-04-20 20:07:15 +0000"
+    },
+    "done": true
+  },
   "chisel:recipes/chisel/laboratory/wallpanel": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
@@ -1058,6 +1070,12 @@
   "create:recipes/create.base/crafting/kinetics/stressometerfrom_conversion": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
+    },
+    "done": true
+  },
+  "idas:pillager_fortress": {
+    "criteria": {
+      "in_pillager_fortress": "2025-04-20 20:07:07 +0000"
     },
     "done": true
   },
@@ -3185,6 +3203,12 @@
     },
     "done": true
   },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2025-04-20 20:12:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
@@ -3779,6 +3803,12 @@
     },
     "done": true
   },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2025-04-20 20:14:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_scoria_slab_from_polished_scoria_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
@@ -3988,8 +4018,11 @@
       "minecraft:pillager": "2025-04-19 18:11:55 +0000",
       "minecraft:skeleton": "2025-04-19 14:48:34 +0000",
       "minecraft:guardian": "2025-04-19 12:45:15 +0000",
+      "minecraft:vindicator": "2025-04-20 20:07:37 +0000",
       "minecraft:spider": "2025-04-18 16:28:45 +0000",
+      "minecraft:evoker": "2025-04-20 20:11:23 +0000",
       "minecraft:witch": "2025-04-19 17:17:12 +0000",
+      "minecraft:vex": "2025-04-20 20:11:46 +0000",
       "minecraft:zombie": "2025-04-19 14:49:09 +0000",
       "minecraft:drowned": "2025-04-19 13:08:17 +0000",
       "minecraft:zombie_villager": "2025-04-19 14:52:00 +0000"
@@ -9563,6 +9596,12 @@
   "create:recipes/decorations/smelting/glass_pane_from_vertical_framed_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "corrupted_eye": "2025-04-20 20:12:49 +0000"
     },
     "done": true
   },

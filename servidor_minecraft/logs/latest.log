@@ -4412,3 +4412,103 @@ Attribute | Current Value / Base Value
 [20Apr2025 20:08:43.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Miglaitor_> te voy a detoten
 [20Apr2025 20:09:06.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10557ms or 211 ticks behind
 [20Apr2025 20:09:13.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported imsxs to Miglaitor_]
+[20Apr2025 20:09:21.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eldanidani has completed the challenge [Centennial]
+[20Apr2025 20:09:32.601] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11436ms or 228 ticks behind
+[20Apr2025 20:10:07.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19603ms or 392 ticks behind
+[20Apr2025 20:10:13.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Spectator Mode]
+[20Apr2025 20:10:22.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[20Apr2025 20:10:41.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18892ms or 377 ticks behind
+[20Apr2025 20:11:06.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10546ms or 210 ticks behind
+[20Apr2025 20:11:26.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eldanidani has made the advancement [Fallen Sorcerer]
+[20Apr2025 20:11:26.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eldanidani has made the advancement [The Beginning of An Adventure]
+[20Apr2025 20:11:28.199] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: imsxs lost connection: Disconnected
+[20Apr2025 20:11:28.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: imsxs left the game
+[20Apr2025 20:11:28.200] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3172747b-348a-3cb7-90bb-f09910bd964f was unloaded
+[20Apr2025 20:11:28.200] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client imsxs
+[20Apr2025 20:11:28.201] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player imsxs[3172747b-348a-3cb7-90bb-f09910bd964f]
+[20Apr2025 20:11:31.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10204ms or 204 ticks behind
+[20Apr2025 20:11:55.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8975ms or 179 ticks behind
+[20Apr2025 20:12:21.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10733ms or 214 ticks behind
+[20Apr2025 20:12:45.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9357ms or 187 ticks behind
+[20Apr2025 20:12:49.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: marcosbigpapa has made the advancement [Cover Me In Emeralds]
+[20Apr2025 20:12:49.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: marcosbigpapa has made the advancement [The Beginning of An Adventure]
+[20Apr2025 20:12:56.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eldanidani has made the advancement [Cover Me In Emeralds]
+[20Apr2025 20:13:13.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13145ms or 262 ticks behind
+[20Apr2025 20:13:36.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7898ms or 157 ticks behind
+[20Apr2025 20:14:01.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9761ms or 195 ticks behind
+[20Apr2025 20:14:07.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: marcosbigpapa has made the advancement [Fallen Sorcerer]
+[20Apr2025 20:14:26.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10413ms or 208 ticks behind
+[20Apr2025 20:14:53.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12086ms or 241 ticks behind
+[20Apr2025 20:15:21.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12547ms or 250 ticks behind
+[20Apr2025 20:15:44.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8285ms or 165 ticks behind
+[20Apr2025 20:16:07.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8146ms or 162 ticks behind
+[20Apr2025 20:16:17.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock tried to swim in lava to escape Bone Serpent
+[20Apr2025 20:16:22.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported Freacklock to Miglaitor_]
+[20Apr2025 20:16:29.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Alethyss> por manco
+[20Apr2025 20:16:30.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7914ms or 158 ticks behind
+[20Apr2025 20:16:53.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8222ms or 164 ticks behind
+[20Apr2025 20:16:58.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: +300 doriki for Freacklock]
+[20Apr2025 20:17:07.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock was slain by Bone Serpent
+[20Apr2025 20:17:17.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9112ms or 182 ticks behind
+[20Apr2025 20:17:18.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[20Apr2025 20:17:23.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> illo el alex mob lo vamos a quitar
+[20Apr2025 20:17:44.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11679ms or 233 ticks behind
+[20Apr2025 20:17:56.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported Freacklock to Miglaitor_]
+[20Apr2025 20:18:10.182] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10617ms or 212 ticks behind
+[20Apr2025 20:18:11.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alethyss has made the advancement [Ice Bucket Challenge]
+[20Apr2025 20:18:27.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Adventure Mode]
+[20Apr2025 20:18:29.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Spectator Mode]
+[20Apr2025 20:18:32.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7114ms or 142 ticks behind
+[20Apr2025 20:18:32.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[20Apr2025 20:18:53.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6227ms or 124 ticks behind
+[20Apr2025 20:18:54.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: +200 doriki for Freacklock]
+[20Apr2025 20:19:01.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: +200 doriki for Freacklock]
+[20Apr2025 20:19:10.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: +200 doriki for Freacklock]
+[20Apr2025 20:19:13.958] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5493ms or 109 ticks behind
+[20Apr2025 20:19:35.059] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6144ms or 122 ticks behind
+[20Apr2025 20:19:50.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Spectator Mode]
+[20Apr2025 20:19:55.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[20Apr2025 20:19:59.806] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9791ms or 195 ticks behind
+[20Apr2025 20:20:24.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9374ms or 187 ticks behind
+[20Apr2025 20:20:47.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8440ms or 168 ticks behind
+[20Apr2025 20:21:14.943] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12429ms or 248 ticks behind
+[20Apr2025 20:21:37.499] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7584ms or 151 ticks behind
+[20Apr2025 20:21:42.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Alethyss> sv de mierda va como un ojete
+[20Apr2025 20:21:44.904] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: eldanidani lost connection: Disconnected
+[20Apr2025 20:21:44.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eldanidani left the game
+[20Apr2025 20:21:44.905] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3ac838e5-80f8-31b8-82e4-34ac0c5befe4 was unloaded
+[20Apr2025 20:21:44.905] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client eldanidani
+[20Apr2025 20:21:44.906] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player eldanidani[3ac838e5-80f8-31b8-82e4-34ac0c5befe4]
+[20Apr2025 20:21:49.255] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: marcosbigpapa lost connection: Disconnected
+[20Apr2025 20:21:49.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: marcosbigpapa left the game
+[20Apr2025 20:21:49.256] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e was unloaded
+[20Apr2025 20:21:49.256] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client marcosbigpapa
+[20Apr2025 20:21:49.257] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player marcosbigpapa[e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e]
+[20Apr2025 20:21:56.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3938ms or 78 ticks behind
+[20Apr2025 20:21:57.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alethyss has made the advancement [Who is Cutting Onions?]
+[20Apr2025 20:22:24.620] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Miglaitor_ lost connection: Disconnected
+[20Apr2025 20:22:24.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ left the game
+[20Apr2025 20:22:24.620] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b042d1b7-0784-32e2-9baa-ecd241742ddb was unloaded
+[20Apr2025 20:22:24.621] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Miglaitor_
+[20Apr2025 20:22:24.622] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Miglaitor_[b042d1b7-0784-32e2-9baa-ecd241742ddb]
+[20Apr2025 20:22:26.508] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Freacklock lost connection: Disconnected
+[20Apr2025 20:22:26.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock left the game
+[20Apr2025 20:22:26.508] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f32b1d7a-5eef-3918-8041-62708bf3cf92 was unloaded
+[20Apr2025 20:22:26.509] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Freacklock
+[20Apr2025 20:22:26.509] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Freacklock[f32b1d7a-5eef-3918-8041-62708bf3cf92]
+[20Apr2025 20:22:35.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Apr2025 20:22:35.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Apr2025 20:22:35.357] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Exception stopping the server
+java.lang.NullPointerException: null
+	at net.minecraft.network.play.ServerPlayNetHandler.handler$zmf000$onDisconnect(ServerPlayNetHandler.java:3125) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147231_a(ServerPlayNetHandler.java) ~[?:?]
+	at net.minecraft.network.NetworkManager.func_179293_l(NetworkManager.java:366) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213167_f(SourceFile:79) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_194028_b(ServerPlayNetHandler.java:296) ~[?:?]
+	at net.minecraft.server.management.PlayerList.func_72392_r(PlayerList.java:742) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:557) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71260_j(DedicatedServer.java:514) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:679) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[20Apr2025 20:22:35.408] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSPhysicsPipelineBackgroundTask/]: Physics pipeline ending

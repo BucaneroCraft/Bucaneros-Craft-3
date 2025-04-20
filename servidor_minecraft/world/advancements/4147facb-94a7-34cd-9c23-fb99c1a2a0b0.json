@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-04-20 20:21:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-20 16:25:29 +0000"
@@ -1046,6 +1052,12 @@
   "cavesandcliffs:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_the_recipe": "2025-04-20 16:25:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-20 20:05:17 +0000"
     },
     "done": true
   },
@@ -8054,6 +8066,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_jungle": {
+    "criteria": {
+      "has_plank": "2025-04-20 20:19:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-20 16:25:29 +0000"
@@ -9056,6 +9074,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-20 20:18:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
     "criteria": {
       "has_the_recipe": "2025-04-20 16:25:29 +0000"
@@ -9167,6 +9191,12 @@
   "farmersdelight:recipes/farmersdelight/half_tatami_mat": {
     "criteria": {
       "has_the_recipe": "2025-04-20 16:25:29 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-diamond": "2025-04-20 20:05:24 +0000"
     },
     "done": true
   },
@@ -10121,6 +10151,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-20 16:25:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_jungle": {
+    "criteria": {
+      "has_plank": "2025-04-20 20:19:29 +0000"
     },
     "done": true
   },
@@ -11835,6 +11871,12 @@
   "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-20 16:25:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-20 20:05:24 +0000"
     },
     "done": true
   },
