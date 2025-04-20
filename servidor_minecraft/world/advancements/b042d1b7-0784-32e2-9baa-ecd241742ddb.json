@@ -7433,6 +7433,12 @@
     },
     "done": true
   },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-04-20 19:29:39 +0000"
+    },
+    "done": true
+  },
   "cavesandcliffs:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"

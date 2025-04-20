@@ -7477,6 +7477,12 @@
     },
     "done": true
   },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-04-20 19:29:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_dark_scoria_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
