@@ -2906,3 +2906,58 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Apr2025 15:32:03.325] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
 [20Apr2025 15:32:04.325] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
 [20Apr2025 15:32:05.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8888ms or 177 ticks behind
+[20Apr2025 15:32:46.379] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@2a39ea83[id=<null>,name=Kirolaid,properties={},legacy=false] (/100.123.52.67:63897) lost connection: Disconnected
+[20Apr2025 15:33:43.035] [Server thread/INFO] [mineminenomi/]: marcosbigpapa's challenge stopped.
+[20Apr2025 15:34:19.297] [Server thread/INFO] [mineminenomi/]: marcosbigpapa started KURO challenge.
+[20Apr2025 15:34:24.462] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[20Apr2025 15:34:25.462] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[20Apr2025 15:34:26.463] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[20Apr2025 15:34:27.463] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[20Apr2025 15:34:27.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8178ms or 163 ticks behind
+[20Apr2025 15:34:30.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Killed 20 entities]
+[20Apr2025 15:34:53.977] [Server thread/INFO] [explorerscompass/]: Starting search: 5000 max radius, 50000 max samples
+[20Apr2025 15:34:54.024] [Server thread/INFO] [explorerscompass/]: Search succeeded: 161 radius, 0 samples
+[20Apr2025 15:35:00.884] [Server thread/INFO] [mineminenomi/]: marcosbigpapa's challenge stopped.
+[20Apr2025 15:35:14.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ has made the advancement [A Terrible Fortress]
+[20Apr2025 15:35:22.607] [Server thread/INFO] [mineminenomi/]: marcosbigpapa started KURO challenge.
+[20Apr2025 15:35:27.870] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[20Apr2025 15:35:28.870] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[20Apr2025 15:35:29.871] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[20Apr2025 15:35:30.849] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9142ms or 182 ticks behind
+[20Apr2025 15:36:27.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock has made the advancement [A Terrible Fortress]
+[20Apr2025 15:37:01.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: imsxs has made the advancement [A Terrible Fortress]
+[20Apr2025 15:37:37.489] [Server thread/INFO] [mineminenomi/]: marcosbigpapa's challenge stopped.
+[20Apr2025 15:37:37.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4817ms or 96 ticks behind
+[20Apr2025 15:37:37.704] [Server thread/INFO] [mineminenomi/]: marcosbigpapa's challenge stopped.
+[20Apr2025 15:37:58.301] [Server thread/INFO] [mineminenomi/]: marcosbigpapa started KURO challenge.
+[20Apr2025 15:38:03.493] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[20Apr2025 15:38:04.015] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5659ms or 113 ticks behind
+[20Apr2025 15:38:57.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Miglaitor_> lo estoy diciendo
+[20Apr2025 15:38:58.344] [Server thread/INFO] [mineminenomi/]: marcosbigpapa's challenge stopped.
+[20Apr2025 15:39:23.637] [Server thread/INFO] [mineminenomi/]: marcosbigpapa started KURO challenge.
+[20Apr2025 15:39:28.843] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[20Apr2025 15:39:29.843] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[20Apr2025 15:39:30.844] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[20Apr2025 15:39:31.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8101ms or 162 ticks behind
+[20Apr2025 15:40:14.499] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [skin_changer:mbechannel,parcool:message,sophisticatedbackpacks:channel,toms_storage:main,flywheel:network,autoreglib:main,create:network,cataclysm:main_channel,unusualend:unusualend,alexsmobs:main_channel,chiselsandbits:chiselsandbits,mowziesmobs:net,cosmeticarmorreworked:main,valkyrienskies:vs_packet,lootr:main_network_channel,sereneseasons:main_channel,mineminenomi:main_channel,comforts:main,carryon:carryonpackets,citadel:main_channel,minecraft_shenanigansbc:minecraft_shenanigansbc,abnormals_core:net,curios:main,framedblocks:main,selene:network,quark:main,customnpcs:packets,supplementaries:network,xercamusic:main_channel,chisel:main,artifacts:main,amfd:amfd,geckolib3:main,waystones:network] rejected vanilla connections
+[20Apr2025 15:40:14.499] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[20Apr2025 15:40:16.277] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [skin_changer:mbechannel,parcool:message,sophisticatedbackpacks:channel,toms_storage:main,flywheel:network,autoreglib:main,create:network,cataclysm:main_channel,unusualend:unusualend,alexsmobs:main_channel,chiselsandbits:chiselsandbits,mowziesmobs:net,cosmeticarmorreworked:main,valkyrienskies:vs_packet,lootr:main_network_channel,sereneseasons:main_channel,mineminenomi:main_channel,comforts:main,carryon:carryonpackets,citadel:main_channel,minecraft_shenanigansbc:minecraft_shenanigansbc,abnormals_core:net,curios:main,framedblocks:main,selene:network,quark:main,customnpcs:packets,supplementaries:network,xercamusic:main_channel,chisel:main,artifacts:main,amfd:amfd,geckolib3:main,waystones:network] rejected vanilla connections
+[20Apr2025 15:40:16.278] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[20Apr2025 15:40:34.585] [Server thread/INFO] [mineminenomi/]: marcosbigpapa's challenge stopped.
+[20Apr2025 15:40:34.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4716ms or 94 ticks behind
+[20Apr2025 15:40:34.808] [Server thread/INFO] [mineminenomi/]: marcosbigpapa's challenge stopped.
+[20Apr2025 15:40:36.848] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [skin_changer:mbechannel,parcool:message,sophisticatedbackpacks:channel,toms_storage:main,flywheel:network,autoreglib:main,create:network,cataclysm:main_channel,unusualend:unusualend,alexsmobs:main_channel,chiselsandbits:chiselsandbits,mowziesmobs:net,cosmeticarmorreworked:main,valkyrienskies:vs_packet,lootr:main_network_channel,sereneseasons:main_channel,mineminenomi:main_channel,comforts:main,carryon:carryonpackets,citadel:main_channel,minecraft_shenanigansbc:minecraft_shenanigansbc,abnormals_core:net,curios:main,framedblocks:main,selene:network,quark:main,customnpcs:packets,supplementaries:network,xercamusic:main_channel,chisel:main,artifacts:main,amfd:amfd,geckolib3:main,waystones:network] rejected vanilla connections
+[20Apr2025 15:40:36.848] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[20Apr2025 15:40:55.302] [Server thread/INFO] [mineminenomi/]: marcosbigpapa started HIGUMA challenge.
+[20Apr2025 15:40:57.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20Apr2025 15:41:19.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6365ms or 127 ticks behind
+[20Apr2025 15:41:27.994] [Server thread/INFO] [mineminenomi/]: marcosbigpapa's challenge stopped.
+[20Apr2025 15:41:28.170] [Server thread/INFO] [mineminenomi/]: marcosbigpapa's challenge stopped.
+[20Apr2025 15:41:38.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4540ms or 90 ticks behind
+[20Apr2025 15:41:44.277] [Server thread/INFO] [mineminenomi/]: marcosbigpapa started CHEW challenge.
+[20Apr2025 15:42:00.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7277ms or 145 ticks behind
+[20Apr2025 15:42:18.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2689ms or 53 ticks behind
+[20Apr2025 15:42:57.338] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@b8de591[id=<null>,name=Kirolaid,properties={},legacy=false] (/100.123.52.67:50225) lost connection: Disconnected
+[20Apr2025 15:43:03.701] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@4f05c42e[id=<null>,name=Kirolaid,properties={},legacy=false] (/100.123.52.67:50229) lost connection: Disconnected
+[20Apr2025 15:43:06.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2812ms or 56 ticks behind
+[20Apr2025 15:43:14.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock has made the advancement [Stare Into Despair]
