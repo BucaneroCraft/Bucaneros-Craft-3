@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "mineminenomi:adventure/haki_master": {
+    "criteria": {
+      "unlock_kenbunshoku_aura": "2025-04-20 12:42:58 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:06 +0000"
@@ -3329,6 +3335,12 @@
     },
     "done": true
   },
+  "mineminenomi:adventure/whats_kairoseki": {
+    "criteria": {
+      "unlock_kenbunshoku_aura": "2025-04-20 12:42:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
@@ -4191,6 +4203,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:08 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:challenges/gin": {
+    "criteria": {
+      "unlock_challenge": "2025-04-20 12:31:33 +0000"
     },
     "done": true
   },
@@ -10418,6 +10436,12 @@
     },
     "done": true
   },
+  "mineminenomi:challenges/chew": {
+    "criteria": {
+      "unlock_challenge": "2025-04-20 12:21:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_limestone_slab_from_paved_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:06 +0000"
@@ -12929,6 +12953,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:adventure/meat": {
+    "criteria": {
+      "cooked_sea_king_meat": "2025-04-20 12:21:02 +0000"
     },
     "done": true
   },

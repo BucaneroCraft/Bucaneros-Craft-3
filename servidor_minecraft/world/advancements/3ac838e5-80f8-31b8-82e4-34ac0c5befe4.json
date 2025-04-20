@@ -10300,6 +10300,12 @@
     },
     "done": true
   },
+  "mineminenomi:challenges/chew": {
+    "criteria": {
+      "unlock_challenge": "2025-04-20 12:30:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_limestone_slab_from_paved_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:43 +0000"
@@ -12772,6 +12778,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:42 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:adventure/meat": {
+    "criteria": {
+      "cooked_sea_king_meat": "2025-04-20 12:29:24 +0000"
     },
     "done": true
   },

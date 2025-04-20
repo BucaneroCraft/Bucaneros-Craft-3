@@ -231,7 +231,7 @@
 		# STANDARD - Standard red outline 
 		# CUSTOM - Allows the player to customize it using their own client config 
 		# RANDOM - Assignes a random color for each player based on their account's UUID
-		#Default: CUSTOM
+		#Default: STANDARD
 		#Allowed Values: STANDARD, CUSTOM, RANDOM
 		"Haoshoku Haki Coloring Logic" = "CUSTOM"
 

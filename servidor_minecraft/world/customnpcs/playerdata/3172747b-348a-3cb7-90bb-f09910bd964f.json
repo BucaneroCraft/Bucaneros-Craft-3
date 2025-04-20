@@ -134,7 +134,7 @@
                 "Quest": 8
             },
             {
-                "QuestCompleted": 1b,
+                "QuestCompleted": 0b,
                 "ExtraData": {
                 },
                 "Quest": 11
