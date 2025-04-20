@@ -118,7 +118,7 @@
 	#Number of ability bars;
 	#Default: 2
 	#Range: 1 ~ 10
-	"Ability Bars" = 2
+	"Ability Bars" = 3
 	#Enables the shared cooldown between similar abilities
 	#Default: true
 	"Shared Cooldowns" = true
@@ -211,7 +211,7 @@
 		#Sets the % chance for a Devil Fruit to get reincarnated from a fruit inside an entity's inventory
 		#Default: 1
 		#Range: 0 ~ 100
-		"Entity's Inventory Fruit Reincarnation Chance" = 50
+		"Entity's Inventory Fruit Reincarnation Chance" = 70
 		#Sets the % chance for a Devil Fruit to get reincarnated from a dropped fruit
 		#Default: 15
 		#Range: 0 ~ 100
