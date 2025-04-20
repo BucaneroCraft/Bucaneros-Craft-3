@@ -4110,3 +4110,173 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Apr2025 19:36:50.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DALHENO_MR> q vas a hacer, llamar al cartel=
 [20Apr2025 19:36:52.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DALHENO_MR> ??
 [20Apr2025 19:36:55.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24202ms or 484 ticks behind
+[20Apr2025 19:37:35.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Killed 181 entities]
+[20Apr2025 19:37:47.094] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 36130ms or 722 ticks behind
+[20Apr2025 19:38:08.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock was burnt to a crisp whilst fighting Netherite Monstrosity
+[20Apr2025 19:38:08.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alethyss has made the advancement [Penteconter]
+[20Apr2025 19:38:13.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DALHENO_MR> por pancho
+[20Apr2025 19:38:15.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> por pancho
+[20Apr2025 19:38:28.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> sois unos hijos de puta
+[20Apr2025 19:38:30.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: ===============================================
+Name: marcosbigpapa
+Faction: pirate
+Race: fishman
+Style: brawler
+Doriki: 2480.516758450828
+Busoshoku Haki: 21.316305
+Kenbunshoku Haki: 63.670166
+Belly: 4663
+Extol: 0
+Bounty: 16783
+Issued Bounty: 16729
+Crew: DANI EL SUCIO CREW
+Devil Fruit: None
+Damage Multiplier: 1.0
+-----
+Attribute | Current Value / Base Value
+- minecraft:generic.armor | 7.0/0.0
+  Armor modifier | 1.0
+  Armor modifier | 6.0
+- mineminenomi:generic.punch_damage | 3.240258379225414/0.0
+  Brawler Punch Bonus | 3.240258379225414
+- mineminenomi:generic.toughness | 1.9844134067606625/0.0
+  Passive Toughness Bonus | 1.9844134067606625
+- forge:swim_speed | 4.0/1.0
+  Fishman Swim Speed Multiplier | 3.0
+===============================================]
+[20Apr2025 19:38:31.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> hendrix y daniel
+[20Apr2025 19:38:34.973] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32908ms or 658 ticks behind
+[20Apr2025 19:38:37.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DALHENO_MR> yo? si
+[20Apr2025 19:38:41.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> dani espero que tu junto a toda tu familia te mueras de la forma mas horrible conocida POR EL HOMBRE
+[20Apr2025 19:38:54.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DALHENO_MR> llama al cartel pues
+[20Apr2025 19:38:54.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[20Apr2025 19:38:57.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> por que por tu cartel de medellin?
+[20Apr2025 19:38:58.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Alethyss> tengo cofre dorado de fruta ez
+[20Apr2025 19:39:11.470] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21506ms or 430 ticks behind
+[20Apr2025 19:39:36.605] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: marcosbigpapa lost connection: Disconnected
+[20Apr2025 19:39:36.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: marcosbigpapa left the game
+[20Apr2025 19:39:36.605] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e was unloaded
+[20Apr2025 19:39:36.606] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client marcosbigpapa
+[20Apr2025 19:39:36.606] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player marcosbigpapa[e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e]
+[20Apr2025 19:40:02.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 35809ms or 716 ticks behind
+[20Apr2025 19:40:38.577] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21312ms or 426 ticks behind
+[20Apr2025 19:40:41.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[20Apr2025 19:40:47.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported Freacklock to Miglaitor_]
+[20Apr2025 19:41:09.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15936ms or 318 ticks behind
+[20Apr2025 19:41:16.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DALHENO_MR> calladito como un good booy
+[20Apr2025 19:41:28.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> good boy/pancho
+[20Apr2025 19:41:28.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ has completed the challenge [The broken Nether's war machine]
+[20Apr2025 19:41:36.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12295ms or 245 ticks behind
+[20Apr2025 19:41:40.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> hacks
+[20Apr2025 19:41:42.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DALHENO_MR> abuso de creativo
+[20Apr2025 19:41:46.383] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/36382, l='ServerLevel[world]', x=4649.33, y=75.00, z=6729.54]
+[20Apr2025 19:41:46.383] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/36383, l='ServerLevel[world]', x=4649.33, y=75.00, z=6729.54]
+[20Apr2025 19:41:46.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> abusador
+[20Apr2025 19:41:47.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DALHENO_MR> baneenlo
+[20Apr2025 19:41:57.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> no me representa
+[20Apr2025 19:42:04.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13075ms or 261 ticks behind
+[20Apr2025 19:42:12.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Alethyss> quien me regala su sombra :)?
+[20Apr2025 19:42:19.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> mielda
+[20Apr2025 19:42:41.744] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21979ms or 439 ticks behind
+[20Apr2025 19:43:12.449] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15734ms or 314 ticks behind
+[20Apr2025 19:43:20.678] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@792e4cca
+[20Apr2025 19:43:20.712] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: marcosbigpapa[/100.114.182.96:50517] logged in with entity id 39369 at (4583.032803357048, 70.24918707874468, 6629.613949285453)
+[20Apr2025 19:43:20.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: marcosbigpapa joined the game
+[20Apr2025 19:43:20.723] [Server thread/INFO] [Waila/]: Syncing config to marcosbigpapa (e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e)
+[20Apr2025 19:43:20.731] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player marcosbigpapa just logged in with id e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e
+[20Apr2025 19:43:20.738] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player marcosbigpapa[e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e]
+[20Apr2025 19:43:20.740] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/marcosbigpapa
+[20Apr2025 19:43:20.831] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/marcosbigpapa downloaded
+[20Apr2025 19:43:20.832] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://crafatar.com/capes/25f9ad3f-1654-4303-9fb9-dba1cce5f850
+[20Apr2025 19:43:22.592] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of marcosbigpapa (18)
+[20Apr2025 19:43:22.593] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to marcosbigpapa
+[20Apr2025 19:43:24.966] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e was loaded
+[20Apr2025 19:43:34.556] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e
+[20Apr2025 19:43:38.183] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e
+[20Apr2025 19:43:38.183] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player marcosbigpapa (e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e) successfully connected to voice chat
+[20Apr2025 19:43:43.475] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: marcosbigpapa lost connection: Disconnected
+[20Apr2025 19:43:43.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: marcosbigpapa left the game
+[20Apr2025 19:43:43.476] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e was unloaded
+[20Apr2025 19:43:43.476] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client marcosbigpapa
+[20Apr2025 19:43:43.477] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player marcosbigpapa[e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e]
+[20Apr2025 19:43:49.297] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21883ms or 437 ticks behind
+[20Apr2025 19:44:22.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18454ms or 369 ticks behind
+[20Apr2025 19:44:55.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18061ms or 361 ticks behind
+[20Apr2025 19:45:26.871] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16106ms or 322 ticks behind
+[20Apr2025 19:45:49.038] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2e0bd656
+[20Apr2025 19:45:49.071] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: marcosbigpapa[/100.114.182.96:50665] logged in with entity id 43753 at (4583.032803357048, 70.24918707874468, 6629.613949285453)
+[20Apr2025 19:45:49.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: marcosbigpapa joined the game
+[20Apr2025 19:45:49.088] [Server thread/INFO] [Waila/]: Syncing config to marcosbigpapa (e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e)
+[20Apr2025 19:45:49.093] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player marcosbigpapa just logged in with id e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e
+[20Apr2025 19:45:49.096] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player marcosbigpapa[e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e]
+[20Apr2025 19:45:49.096] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/marcosbigpapa
+[20Apr2025 19:45:49.142] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/marcosbigpapa downloaded
+[20Apr2025 19:45:49.143] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://crafatar.com/capes/25f9ad3f-1654-4303-9fb9-dba1cce5f850
+[20Apr2025 19:45:49.526] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9823, y=15, z=-2401}
+[20Apr2025 19:45:49.527] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9822, y=15, z=-2402}
+[20Apr2025 19:45:49.527] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9821, y=15, z=-2402}
+[20Apr2025 19:45:49.527] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9820, y=15, z=-2402}
+[20Apr2025 19:45:49.527] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9819, y=15, z=-2401}
+[20Apr2025 19:45:50.124] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9823, y=15, z=-2402}
+[20Apr2025 19:45:50.124] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9822, y=15, z=-2403}
+[20Apr2025 19:45:50.124] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9821, y=15, z=-2403}
+[20Apr2025 19:45:50.125] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9820, y=15, z=-2403}
+[20Apr2025 19:45:50.125] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9819, y=15, z=-2402}
+[20Apr2025 19:45:50.690] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9823, y=15, z=-2403}
+[20Apr2025 19:45:50.691] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9822, y=15, z=-2404}
+[20Apr2025 19:45:50.691] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9821, y=15, z=-2404}
+[20Apr2025 19:45:51.003] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of marcosbigpapa (18)
+[20Apr2025 19:45:51.004] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to marcosbigpapa
+[20Apr2025 19:45:52.796] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9815, y=15, z=-2406}
+[20Apr2025 19:45:52.796] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9815, y=15, z=-2405}
+[20Apr2025 19:45:52.796] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9814, y=15, z=-2406}
+[20Apr2025 19:45:52.797] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9814, y=15, z=-2405}
+[20Apr2025 19:45:52.797] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9813, y=15, z=-2406}
+[20Apr2025 19:45:52.797] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9813, y=15, z=-2405}
+[20Apr2025 19:45:52.797] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9815, y=15, z=-2404}
+[20Apr2025 19:45:52.798] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9814, y=15, z=-2404}
+[20Apr2025 19:45:52.798] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9814, y=15, z=-2403}
+[20Apr2025 19:45:52.798] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9813, y=15, z=-2404}
+[20Apr2025 19:45:52.798] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9813, y=15, z=-2403}
+[20Apr2025 19:45:52.798] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9812, y=15, z=-2406}
+[20Apr2025 19:45:52.799] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9813, y=15, z=-2407}
+[20Apr2025 19:45:52.799] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9812, y=15, z=-2404}
+[20Apr2025 19:45:52.799] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9812, y=15, z=-2403}
+[20Apr2025 19:45:53.219] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e was loaded
+[20Apr2025 19:45:53.337] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9814, y=15, z=-2407}
+[20Apr2025 19:45:53.338] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9812, y=15, z=-2405}
+[20Apr2025 19:45:53.338] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9811, y=15, z=-2405}
+[20Apr2025 19:45:53.339] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-9811, y=15, z=-2404}
+[20Apr2025 19:45:57.943] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16079ms or 321 ticks behind
+[20Apr2025 19:46:02.644] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e
+[20Apr2025 19:46:03.645] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e
+[20Apr2025 19:46:03.646] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player marcosbigpapa (e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e) successfully connected to voice chat
+[20Apr2025 19:46:26.348] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[20Apr2025 19:46:31.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18286ms or 365 ticks behind
+[20Apr2025 19:46:37.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: +1000 doriki for Freacklock]
+[20Apr2025 19:46:43.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DALHENO_MR has made the advancement [Close Quarters]
+[20Apr2025 19:47:03.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17708ms or 354 ticks behind
+[20Apr2025 19:47:25.253] [Server thread/INFO] [explorerscompass/]: Starting search: 5000 max radius, 50000 max samples
+[20Apr2025 19:47:25.587] [Server thread/INFO] [explorerscompass/]: Search succeeded: 2410 radius, 3240 samples
+[20Apr2025 19:47:38.368] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19504ms or 390 ticks behind
+[20Apr2025 19:47:59.938] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Miglaitor_ lost connection: Disconnected
+[20Apr2025 19:47:59.938] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ left the game
+[20Apr2025 19:47:59.939] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b042d1b7-0784-32e2-9baa-ecd241742ddb was unloaded
+[20Apr2025 19:47:59.939] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Miglaitor_
+[20Apr2025 19:47:59.940] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Miglaitor_[b042d1b7-0784-32e2-9baa-ecd241742ddb]
+[20Apr2025 19:48:06.604] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@76d2f74e
+[20Apr2025 19:48:06.641] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Miglaitor_[/100.73.60.56:59742] logged in with entity id 48071 at (-1179.1545654275728, 34.0, -2761.612323128474)
+[20Apr2025 19:48:06.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ joined the game
+[20Apr2025 19:48:06.705] [Server thread/INFO] [Waila/]: Syncing config to Miglaitor_ (b042d1b7-0784-32e2-9baa-ecd241742ddb)
+[20Apr2025 19:48:06.714] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Miglaitor_ just logged in with id b042d1b7-0784-32e2-9baa-ecd241742ddb
+[20Apr2025 19:48:06.723] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Miglaitor_[b042d1b7-0784-32e2-9baa-ecd241742ddb]
+[20Apr2025 19:48:06.724] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/Miglaitor_
+[20Apr2025 19:48:06.804] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Miglaitor_ downloaded
+[20Apr2025 19:48:06.806] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://crafatar.com/capes/9e64f3ba-7955-4eff-989b-8f92495216b8
+[20Apr2025 19:48:06.989] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Miglaitor_ (18)
+[20Apr2025 19:48:06.990] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Miglaitor_
+[20Apr2025 19:48:07.255] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b042d1b7-0784-32e2-9baa-ecd241742ddb was loaded
+[20Apr2025 19:48:10.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16813ms or 336 ticks behind
+[20Apr2025 19:48:10.327] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b042d1b7-0784-32e2-9baa-ecd241742ddb
+[20Apr2025 19:48:11.326] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b042d1b7-0784-32e2-9baa-ecd241742ddb
+[20Apr2025 19:48:11.327] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Miglaitor_ (b042d1b7-0784-32e2-9baa-ecd241742ddb) successfully connected to voice chat

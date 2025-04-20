@@ -10686,8 +10686,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-04-18 15:13:09 +0000",
+      "minecraft:deep_cold_ocean": "2025-04-20 19:31:28 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-18 15:13:17 +0000",
+      "minecraft:birch_forest": "2025-04-20 19:43:04 +0000",
+      "minecraft:warm_ocean": "2025-04-20 19:38:33 +0000",
       "minecraft:beach": "2025-04-18 15:10:42 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-20 19:37:49 +0000",
       "minecraft:plains": "2025-04-18 15:00:14 +0000"
     },
     "done": false
