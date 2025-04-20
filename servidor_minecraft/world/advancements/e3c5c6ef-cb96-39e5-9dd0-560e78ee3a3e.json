@@ -4104,6 +4104,12 @@
     },
     "done": true
   },
+  "mineminenomi:challenges/arlong": {
+    "criteria": {
+      "unlock_challenge": "2025-04-20 15:21:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
@@ -6340,6 +6346,12 @@
   "create:recipes/create.palettes/paved_dolomite_slab_from_paved_dolomite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:challenges/kuroobi": {
+    "criteria": {
+      "unlock_challenge": "2025-04-20 15:24:01 +0000"
     },
     "done": true
   },

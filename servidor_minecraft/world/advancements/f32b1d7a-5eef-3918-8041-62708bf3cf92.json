@@ -1493,6 +1493,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-04-20 15:29:55 +0000",
+      "minecraft:basalt_deltas": "2025-04-20 15:28:25 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/fancy_granite_bricks_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
@@ -2312,6 +2319,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-20 15:28:24 +0000"
     },
     "done": true
   },
@@ -4004,9 +4017,11 @@
       "minecraft:ravager": "2025-04-18 15:49:14 +0000",
       "minecraft:guardian": "2025-04-19 17:51:55 +0000",
       "minecraft:vindicator": "2025-04-18 15:31:28 +0000",
+      "minecraft:magma_cube": "2025-04-20 15:29:06 +0000",
       "minecraft:spider": "2025-04-18 15:12:34 +0000",
       "minecraft:evoker": "2025-04-18 15:30:41 +0000",
       "minecraft:slime": "2025-04-20 15:14:52 +0000",
+      "minecraft:zombified_piglin": "2025-04-20 15:30:37 +0000",
       "minecraft:witch": "2025-04-19 22:40:48 +0000",
       "minecraft:cave_spider": "2025-04-18 15:06:56 +0000",
       "minecraft:enderman": "2025-04-18 16:37:55 +0000",
@@ -8245,6 +8260,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-20 15:28:24 +0000"
     },
     "done": true
   },

@@ -17690,3 +17690,189 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Apr2025 15:21:46.442] [Server thread/INFO] [mineminenomi/]: marcosbigpapa's challenge stopped.
 [20Apr2025 15:21:46.747] [Server thread/INFO] [mineminenomi/]: marcosbigpapa's challenge stopped.
 [20Apr2025 15:21:51.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9295ms or 185 ticks behind
+[20Apr2025 15:22:21.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15200ms or 304 ticks behind
+[20Apr2025 15:22:46.419] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9762ms or 195 ticks behind
+[20Apr2025 15:22:53.725] [Server thread/INFO] [mineminenomi/]: marcosbigpapa started KUROOBI challenge.
+[20Apr2025 15:22:53.726] [Server thread/DEBUG] [mineminenomi/]: Dimension setup: 0ms
+[20Apr2025 15:22:55.705] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: BUILD TIME: 1.911s
+[20Apr2025 15:22:57.833] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/4290, l='ServerLevel[world]', x=-0.50, y=64.32, z=-0.06]
+[20Apr2025 15:22:57.834] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/4291, l='ServerLevel[world]', x=-0.50, y=63.92, z=-0.05]
+[20Apr2025 15:22:57.834] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/4292, l='ServerLevel[world]', x=-1.50, y=62.85, z=-0.67]
+[20Apr2025 15:22:57.834] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/4383, l='ServerLevel[world]', x=-4.50, y=47.99, z=-0.50]
+[20Apr2025 15:22:57.834] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/4385, l='ServerLevel[world]', x=-3.71, y=47.98, z=-1.47]
+[20Apr2025 15:22:57.835] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/4382, l='ServerLevel[world]', x=-2.51, y=55.83, z=10.16]
+[20Apr2025 15:22:57.835] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/4381, l='ServerLevel[world]', x=-3.50, y=55.84, z=4.50]
+[20Apr2025 15:22:57.835] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/4384, l='ServerLevel[world]', x=-6.50, y=47.83, z=0.50]
+[20Apr2025 15:22:57.836] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/4386, l='ServerLevel[world]', x=1.25, y=47.98, z=-0.50]
+[20Apr2025 15:23:12.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11535ms or 230 ticks behind
+[20Apr2025 15:23:13.144] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Genkotsu Meteor at tick 320
+[20Apr2025 15:23:13.144] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Rankyaku at tick 320
+[20Apr2025 15:23:16.593] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Busoshoku Haki: Hardening at tick 369
+[20Apr2025 15:23:23.532] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuroobi stopped Charged Punch at tick 301
+[20Apr2025 15:23:26.806] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Genkotsu Meteor at tick 517
+[20Apr2025 15:23:26.916] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Busoshoku Haki: Hardening at tick 519
+[20Apr2025 15:23:28.452] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuroobi stopped Samehada Shotei at tick 379
+[20Apr2025 15:23:28.712] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuroobi stopped Kachiage Haisoku at tick 383
+[20Apr2025 15:23:28.781] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuroobi stopped Suplex at tick 384
+[20Apr2025 15:23:33.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5307ms or 106 ticks behind
+[20Apr2025 15:23:52.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4164ms or 83 ticks behind
+[20Apr2025 15:24:01.566] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: CLEAR TIME: 4.593s
+[20Apr2025 15:24:01.582] [Server thread/INFO] [mineminenomi/]: marcosbigpapa's challenge stopped.
+[20Apr2025 15:24:01.932] [Server thread/INFO] [mineminenomi/]: marcosbigpapa's challenge stopped.
+[20Apr2025 15:24:11.083] [Worker-Main-5/DEBUG] [mixin/]: Mixing JigsawManagerAssemblerMixin from mixins.waystones.json into net.minecraft.world.gen.feature.jigsaw.JigsawManager$Assembler
+[20Apr2025 15:24:11.084] [Worker-Main-5/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$2(Lnet/minecraft/world/gen/feature/jigsaw/JigsawPiece;)Z to mdf98f23$lambda$getShuffledPieces$2$0 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[20Apr2025 15:24:11.084] [Worker-Main-5/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$1(Ljava/lang/String;)Z to mdf98f23$lambda$getShuffledPieces$1$1 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[20Apr2025 15:24:11.084] [Worker-Main-5/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$0(Ljava/lang/Object;)Ljava/lang/String; to mdf98f23$lambda$getShuffledPieces$0$2 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[20Apr2025 15:24:11.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ has made the advancement [We Need to Go Deeper]
+[20Apr2025 15:24:12.143] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Genkotsu Meteor at tick 1080
+[20Apr2025 15:24:12.143] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Rankyaku at tick 1080
+[20Apr2025 15:24:12.144] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Busoshoku Haki: Hardening at tick 1080
+[20Apr2025 15:24:23.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15850ms or 317 ticks behind
+[20Apr2025 15:24:25.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Spectator Mode]
+[20Apr2025 15:24:28.391] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Genkotsu Meteor at tick 1292
+[20Apr2025 15:24:32.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[20Apr2025 15:24:32.940] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Genkotsu Meteor at tick 1354
+[20Apr2025 15:24:35.936] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Rankyaku at tick 1395
+[20Apr2025 15:24:37.817] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Busoshoku Haki: Hardening at tick 1422
+[20Apr2025 15:24:43.143] [Server thread/INFO] [mineminenomi/]: marcosbigpapa started KURO challenge.
+[20Apr2025 15:24:43.143] [Server thread/DEBUG] [mineminenomi/]: Dimension setup: 0ms
+[20Apr2025 15:24:43.166] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Genkotsu Meteor at tick 1501
+[20Apr2025 15:24:47.886] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: BUILD TIME: 4.658s
+[20Apr2025 15:24:50.608] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12402ms or 248 ticks behind
+[20Apr2025 15:24:51.088] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/5343, l='ServerLevel[world]', x=-4.47, y=61.08, z=-0.46]
+[20Apr2025 15:24:51.089] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/5342, l='ServerLevel[world]', x=-2.01, y=60.83, z=-0.31]
+[20Apr2025 15:24:51.089] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Smallmouth Bass'/5345, l='ServerLevel[world]', x=-2.76, y=68.07, z=-10.08]
+[20Apr2025 15:24:51.089] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/5380, l='ServerLevel[world]', x=-4.22, y=72.55, z=5.97]
+[20Apr2025 15:24:51.090] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/5339, l='ServerLevel[world]', x=-3.32, y=50.21, z=5.00]
+[20Apr2025 15:24:51.090] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Gar'/5344, l='ServerLevel[world]', x=-4.42, y=44.43, z=8.65]
+[20Apr2025 15:24:51.090] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Smallmouth Bass'/5382, l='ServerLevel[world]', x=-2.68, y=68.91, z=5.60]
+[20Apr2025 15:24:51.090] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/5340, l='ServerLevel[world]', x=-4.33, y=48.66, z=4.54]
+[20Apr2025 15:24:51.091] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/5341, l='ServerLevel[world]', x=-5.23, y=49.67, z=4.38]
+[20Apr2025 15:24:51.091] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/5672, l='ServerLevel[world]', x=-4.05, y=50.82, z=1.97]
+[20Apr2025 15:24:51.091] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/5335, l='ServerLevel[world]', x=-5.65, y=51.43, z=7.87]
+[20Apr2025 15:24:51.091] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/5383, l='ServerLevel[world]', x=-4.06, y=71.73, z=5.27]
+[20Apr2025 15:24:51.092] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Smallmouth Bass'/5333, l='ServerLevel[world]', x=-4.52, y=53.02, z=8.94]
+[20Apr2025 15:24:51.092] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/5666, l='ServerLevel[world]', x=-6.50, y=50.22, z=2.46]
+[20Apr2025 15:24:51.092] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/5381, l='ServerLevel[world]', x=-3.54, y=71.46, z=4.99]
+[20Apr2025 15:24:51.092] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/5379, l='ServerLevel[world]', x=-3.84, y=71.43, z=5.67]
+[20Apr2025 15:24:51.093] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/5377, l='ServerLevel[world]', x=-1.52, y=76.14, z=6.61]
+[20Apr2025 15:24:51.093] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/5668, l='ServerLevel[world]', x=-2.53, y=50.21, z=1.90]
+[20Apr2025 15:24:51.093] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/5669, l='ServerLevel[world]', x=-3.75, y=50.25, z=1.71]
+[20Apr2025 15:24:51.093] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/5670, l='ServerLevel[world]', x=-3.40, y=51.24, z=1.96]
+[20Apr2025 15:24:51.094] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/5671, l='ServerLevel[world]', x=-3.57, y=50.03, z=0.75]
+[20Apr2025 15:24:51.094] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/5665, l='ServerLevel[world]', x=-4.22, y=50.00, z=3.46]
+[20Apr2025 15:24:51.094] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/5334, l='ServerLevel[world]', x=-4.14, y=52.50, z=7.99]
+[20Apr2025 15:24:51.094] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/5667, l='ServerLevel[world]', x=-1.93, y=51.34, z=2.92]
+[20Apr2025 15:24:52.431] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Busoshoku Haki: Hardening at tick 1532
+[20Apr2025 15:24:55.425] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Genkotsu Meteor at tick 1563
+[20Apr2025 15:24:56.725] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 58
+[20Apr2025 15:24:56.841] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Busoshoku Haki: Hardening at tick 1581
+[20Apr2025 15:24:58.658] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[20Apr2025 15:25:01.179] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[20Apr2025 15:25:05.774] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 179
+[20Apr2025 15:25:06.287] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Genkotsu Meteor at tick 1709
+[20Apr2025 15:25:06.287] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Rankyaku at tick 1709
+[20Apr2025 15:25:10.467] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Genkotsu Meteor at tick 1771
+[20Apr2025 15:25:12.111] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Busoshoku Haki: Hardening at tick 1797
+[20Apr2025 15:25:12.458] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 281
+[20Apr2025 15:25:13.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7791ms or 155 ticks behind
+[20Apr2025 15:25:19.084] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 382
+[20Apr2025 15:25:19.853] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Genkotsu Meteor at tick 1916
+[20Apr2025 15:25:22.355] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Rankyaku at tick 1957
+[20Apr2025 15:25:23.348] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Busoshoku Haki: Hardening at tick 1973
+[20Apr2025 15:25:24.944] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Genkotsu Meteor at tick 1998
+[20Apr2025 15:25:25.459] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 484
+[20Apr2025 15:25:29.073] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Genkotsu Meteor at tick 2060
+[20Apr2025 15:25:32.886] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4529ms or 90 ticks behind
+[20Apr2025 15:25:42.082] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 741
+[20Apr2025 15:25:49.634] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 862
+[20Apr2025 15:25:51.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4059ms or 81 ticks behind
+[20Apr2025 15:25:54.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ has made the advancement [Straddle My Ol' Saddle]
+[20Apr2025 15:25:56.676] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 964
+[20Apr2025 15:26:03.900] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 1065
+[20Apr2025 15:26:07.710] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Apr2025 15:26:07.724] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Apr2025 15:26:13.238] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6331ms or 126 ticks behind
+[20Apr2025 15:26:40.418] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[20Apr2025 15:26:52.021] [Server thread/INFO] [mineminenomi/]: marcosbigpapa's challenge stopped.
+[20Apr2025 15:26:58.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2990ms or 59 ticks behind
+[20Apr2025 15:27:15.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2591ms or 51 ticks behind
+[20Apr2025 15:27:16.827] [Server thread/INFO] [mineminenomi/]: marcosbigpapa started KURO challenge.
+[20Apr2025 15:27:16.827] [Server thread/DEBUG] [mineminenomi/]: Dimension setup: 0ms
+[20Apr2025 15:27:21.742] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: EMERGENCY CLEAR TIME: 4.854s
+[20Apr2025 15:27:21.964] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[20Apr2025 15:27:22.964] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[20Apr2025 15:27:24.029] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[20Apr2025 15:27:24.941] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: BUILD TIME: 3.198s
+[20Apr2025 15:27:32.716] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 59
+[20Apr2025 15:27:39.026] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 180
+[20Apr2025 15:27:43.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12580ms or 251 ticks behind
+[20Apr2025 15:27:45.591] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 302
+[20Apr2025 15:27:51.135] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 404
+[20Apr2025 15:27:56.406] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 505
+[20Apr2025 15:28:02.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Spectator Mode]
+[20Apr2025 15:28:02.849] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 626
+[20Apr2025 15:28:06.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[20Apr2025 15:28:06.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
+[20Apr2025 15:28:15.197] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 805
+[20Apr2025 15:28:21.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: imsxs has made the advancement [We Need to Go Deeper]
+[20Apr2025 15:28:24.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock has made the advancement [We Need to Go Deeper]
+[20Apr2025 15:28:25.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3855ms or 77 ticks behind
+[20Apr2025 15:28:28.396] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 1044
+[20Apr2025 15:28:33.685] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 1151
+[20Apr2025 15:28:38.732] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 1252
+[20Apr2025 15:28:39.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ has made the advancement [Amateur Archaeologist]
+[20Apr2025 15:28:43.775] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 1353
+[20Apr2025 15:28:51.427] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 1506
+[20Apr2025 15:28:58.321] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 1644
+[20Apr2025 15:29:05.963] [Server thread/INFO] [mineminenomi/]: marcosbigpapa's challenge stopped.
+[20Apr2025 15:29:32.812] [Server thread/INFO] [mineminenomi/]: marcosbigpapa started KURO challenge.
+[20Apr2025 15:29:32.812] [Server thread/DEBUG] [mineminenomi/]: Dimension setup: 0ms
+[20Apr2025 15:29:37.774] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: EMERGENCY CLEAR TIME: 4.899s
+[20Apr2025 15:29:38.022] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[20Apr2025 15:29:39.022] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[20Apr2025 15:29:40.024] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[20Apr2025 15:29:40.972] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: BUILD TIME: 3.197s
+[20Apr2025 15:29:41.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8149ms or 162 ticks behind
+[20Apr2025 15:29:46.623] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 64
+[20Apr2025 15:29:48.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Spectator Mode]
+[20Apr2025 15:29:51.182] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 185
+[20Apr2025 15:29:52.938] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[20Apr2025 15:29:57.280] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 307
+[20Apr2025 15:30:02.373] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 409
+[20Apr2025 15:30:08.422] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 530
+[20Apr2025 15:30:11.755] [Server thread/INFO] [mineminenomi/]: marcosbigpapa's challenge stopped.
+[20Apr2025 15:30:41.999] [Server thread/INFO] [mineminenomi/]: marcosbigpapa started KURO challenge.
+[20Apr2025 15:30:41.999] [Server thread/DEBUG] [mineminenomi/]: Dimension setup: 0ms
+[20Apr2025 15:30:46.947] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: EMERGENCY CLEAR TIME: 4.905s
+[20Apr2025 15:30:47.126] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[20Apr2025 15:30:48.127] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[20Apr2025 15:30:49.127] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[20Apr2025 15:30:50.128] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[20Apr2025 15:30:50.165] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: BUILD TIME: 3.217s
+[20Apr2025 15:30:50.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8150ms or 163 ticks behind
+[20Apr2025 15:30:55.877] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 65
+[20Apr2025 15:31:00.484] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 186
+[20Apr2025 15:31:06.570] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 308
+[20Apr2025 15:31:12.723] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 430
+[20Apr2025 15:31:18.771] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 552
+[20Apr2025 15:31:23.873] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 654
+[20Apr2025 15:31:29.922] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 775
+[20Apr2025 15:31:30.191] [Server thread/INFO] [mineminenomi/]: marcosbigpapa's challenge stopped.
+[20Apr2025 15:31:51.922] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Apr2025 15:31:51.936] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Apr2025 15:31:57.149] [Server thread/INFO] [mineminenomi/]: marcosbigpapa started KURO challenge.
+[20Apr2025 15:31:57.150] [Server thread/DEBUG] [mineminenomi/]: Dimension setup: 0ms
+[20Apr2025 15:32:02.054] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: EMERGENCY CLEAR TIME: 4.865s
+[20Apr2025 15:32:02.324] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[20Apr2025 15:32:03.325] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[20Apr2025 15:32:04.325] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[20Apr2025 15:32:05.263] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: BUILD TIME: 3.209s
+[20Apr2025 15:32:05.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8888ms or 177 ticks behind
+[20Apr2025 15:32:10.867] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 62
+[20Apr2025 15:32:15.379] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 183
+[20Apr2025 15:32:21.471] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 305
+[20Apr2025 15:32:26.569] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 407
+[20Apr2025 15:32:31.621] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 508
+[20Apr2025 15:32:39.221] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 660
+[20Apr2025 15:32:44.270] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 761
