@@ -6914,6 +6914,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-20 22:45:15 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:42 +0000"
@@ -10152,6 +10158,12 @@
   "aquaculture:recipes/decorations/acacia_fish_mount": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:43 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:challenges/mr_3": {
+    "criteria": {
+      "unlock_challenge": "2025-04-20 22:35:26 +0000"
     },
     "done": true
   },

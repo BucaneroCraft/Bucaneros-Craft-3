@@ -3435,6 +3435,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-04-20 22:43:33 +0000"
+    },
+    "done": true
+  },
   "chisel:recipes/chisel/charcoal/raw": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
