@@ -4268,12 +4268,6 @@
     },
     "done": true
   },
-  "mowziesmobs:root": {
-    "criteria": {
-      "custom_test_name": "2025-04-18 14:55:43 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/fancy_dark_scoria_bricks_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:42 +0000"

@@ -761,6 +761,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-04-20 21:36:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
@@ -4354,12 +4360,6 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:root": {
-    "criteria": {
-      "custom_test_name": "2025-04-18 14:46:16 +0000"
     },
     "done": true
   },
