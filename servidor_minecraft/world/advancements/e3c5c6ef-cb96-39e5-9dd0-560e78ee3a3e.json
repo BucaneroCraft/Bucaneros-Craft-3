@@ -9438,6 +9438,12 @@
     },
     "done": true
   },
+  "mineminenomi:devil_fruits/root": {
+    "criteria": {
+      "eat_fruit": "2025-04-20 23:48:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:08 +0000"
@@ -11642,6 +11648,7 @@
       "golden_apple": "2025-04-19 12:58:37 +0000",
       "bread": "2025-04-19 13:43:49 +0000",
       "rotten_flesh": "2025-04-19 18:11:12 +0000",
+      "golden_carrot": "2025-04-20 23:49:36 +0000",
       "cooked_chicken": "2025-04-19 17:44:28 +0000",
       "mushroom_stew": "2025-04-19 13:03:36 +0000",
       "rabbit_stew": "2025-04-20 23:37:11 +0000",
