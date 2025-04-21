@@ -3,22 +3,22 @@
     [
       {
         "type": "BIOME_DICT",
-        "negate": false,
+        "negate": true,
         "value": "overworld"
       },
       {
         "type": "BIOME_DICT",
-        "negate": false,
+        "negate": true,
         "value": "hot"
       },
       {
         "type": "BIOME_DICT",
-        "negate": false,
+        "negate": true,
         "value": "dry"
       },
       {
         "type": "BIOME_DICT",
-        "negate": false,
+        "negate": true,
         "value": "sandy"
       }
     ]
