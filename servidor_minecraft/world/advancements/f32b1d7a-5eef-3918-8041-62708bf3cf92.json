@@ -4037,6 +4037,7 @@
       "minecraft:zoglin": "2025-04-18 15:45:43 +0000",
       "minecraft:elder_guardian": "2025-04-19 17:56:07 +0000",
       "minecraft:ravager": "2025-04-18 15:49:14 +0000",
+      "minecraft:ghast": "2025-04-21 20:43:45 +0000",
       "minecraft:hoglin": "2025-04-20 16:30:19 +0000",
       "minecraft:guardian": "2025-04-19 17:51:55 +0000",
       "minecraft:vindicator": "2025-04-18 15:31:28 +0000",
@@ -4593,6 +4594,12 @@
   "framedblocks:recipes/framed_blocks/framed_slope": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-04-21 21:52:37 +0000"
     },
     "done": true
   },
@@ -9068,6 +9075,12 @@
     },
     "done": true
   },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2025-04-21 21:52:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
@@ -10006,7 +10019,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-04-18 15:04:00 +0000"
+      "in_better_spider_dungeon": "2025-04-18 15:04:00 +0000",
+      "in_better_monster_room": "2025-04-21 21:52:37 +0000"
     },
     "done": false
   },
@@ -11691,15 +11705,19 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-21 22:07:34 +0000",
       "cooked_mutton": "2025-04-19 21:27:07 +0000",
       "cooked_beef": "2025-04-18 17:41:45 +0000",
       "beetroot_soup": "2025-04-19 17:47:27 +0000",
+      "apple": "2025-04-21 21:31:23 +0000",
       "cooked_cod": "2025-04-19 14:43:32 +0000",
       "pumpkin_pie": "2025-04-18 15:41:32 +0000",
       "bread": "2025-04-18 15:03:43 +0000",
       "golden_apple": "2025-04-18 15:43:57 +0000",
       "cookie": "2025-04-18 16:10:29 +0000",
+      "suspicious_stew": "2025-04-21 22:20:36 +0000",
       "golden_carrot": "2025-04-20 20:18:31 +0000",
+      "cooked_salmon": "2025-04-21 21:42:38 +0000",
       "carrot": "2025-04-18 15:54:16 +0000"
     },
     "done": false

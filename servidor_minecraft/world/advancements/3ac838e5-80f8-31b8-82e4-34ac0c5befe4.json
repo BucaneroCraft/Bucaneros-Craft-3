@@ -4094,6 +4094,12 @@
     },
     "done": true
   },
+  "mineminenomi:challenges/morgan": {
+    "criteria": {
+      "unlock_challenge": "2025-04-21 21:37:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/horizontal_framed_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:43 +0000"
@@ -4109,6 +4115,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:43 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:challenges/arlong": {
+    "criteria": {
+      "unlock_challenge": "2025-04-21 21:27:49 +0000"
     },
     "done": true
   },
@@ -8991,6 +9003,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "honey_glazed_ham": "2025-04-21 20:48:52 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:42 +0000"
@@ -9285,6 +9303,12 @@
     },
     "done": true
   },
+  "mineminenomi:challenges/higuma": {
+    "criteria": {
+      "unlock_challenge": "2025-04-21 21:01:10 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_red_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:43 +0000"
@@ -9522,6 +9546,12 @@
   "comforts:hammock_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-04-21 20:48:52 +0000"
     },
     "done": true
   },

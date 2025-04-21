@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-04-21 20:55:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-18 15:00:14 +0000"
@@ -1037,6 +1043,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-21 20:55:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_the_recipe": "2025-04-18 15:00:13 +0000"
@@ -1280,6 +1292,12 @@
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-04-18 15:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-04-21 21:25:50 +0000"
     },
     "done": true
   },
@@ -1532,6 +1550,12 @@
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_the_recipe": "2025-04-18 15:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-21 21:25:50 +0000"
     },
     "done": true
   },
@@ -2006,6 +2030,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_the_recipe": "2025-04-18 15:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-21 21:25:50 +0000"
     },
     "done": true
   },
@@ -2606,6 +2636,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-18 15:00:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-04-21 20:51:05 +0000"
     },
     "done": true
   },
@@ -6794,6 +6830,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-21 21:13:51 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_the_recipe": "2025-04-18 15:00:13 +0000"
@@ -7698,6 +7740,12 @@
   "create:recipes/create.palettes/scoria": {
     "criteria": {
       "has_the_recipe": "2025-04-18 15:00:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-21 21:25:50 +0000"
     },
     "done": true
   },
@@ -8751,6 +8799,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "honey_glazed_ham": "2025-04-21 20:52:13 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks": {
     "criteria": {
       "has_the_recipe": "2025-04-18 15:00:13 +0000"
@@ -9117,6 +9171,12 @@
     },
     "done": true
   },
+  "mineminenomi:devil_fruits/root": {
+    "criteria": {
+      "eat_fruit": "2025-04-21 21:05:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-04-18 15:00:13 +0000"
@@ -9282,6 +9342,12 @@
   "comforts:hammock_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-18 15:00:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-04-21 20:52:13 +0000"
     },
     "done": true
   },
@@ -10176,6 +10242,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_the_recipe": "2025-04-18 15:00:14 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:challenges/chew": {
+    "criteria": {
+      "unlock_challenge": "2025-04-21 21:32:07 +0000"
     },
     "done": true
   },
@@ -11230,6 +11302,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-04-21 20:52:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-04-18 15:00:13 +0000"
@@ -11238,6 +11316,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-04-21 21:14:10 +0000",
       "baked_potato": "2025-04-20 19:47:48 +0000",
       "bread": "2025-04-18 15:02:49 +0000",
       "cookie": "2025-04-18 15:02:45 +0000"
@@ -11652,6 +11731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-21 21:25:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/adjustable_pulse_repeater": {
     "criteria": {
       "has_the_recipe": "2025-04-18 15:00:13 +0000"
@@ -12060,6 +12145,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-04-21 21:25:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-18 15:00:13 +0000"
@@ -12207,6 +12298,12 @@
   "framedblocks:recipes/framed_blocks/framed_double_slope_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-18 15:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-21 20:44:54 +0000"
     },
     "done": true
   },
@@ -12657,6 +12754,12 @@
   "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_the_recipe": "2025-04-18 15:00:13 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:challenges/root": {
+    "criteria": {
+      "unlock_challenge": "2025-04-21 20:58:31 +0000"
     },
     "done": true
   },

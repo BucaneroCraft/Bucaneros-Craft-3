@@ -19,6 +19,231 @@
                 {
                     "BankItems": {
                         "NpcMiscInv": [
+                            {
+                                "Slot": 3b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:enchanted_book",
+                                "Count": 1b,
+                                "tag": {
+                                    "StoredEnchantments": [
+                                        {
+                                            "lvl": 4s,
+                                            "id": "minecraft:efficiency"
+                                        },
+                                        {
+                                            "lvl": 2s,
+                                            "id": "alexsmobs:straddle_jump"
+                                        }
+                                    ],
+                                    "RepairCost": 1
+                                }
+                            },
+                            {
+                                "Slot": 6b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:enchanted_book",
+                                "Count": 1b,
+                                "tag": {
+                                    "StoredEnchantments": [
+                                        {
+                                            "lvl": 3s,
+                                            "id": "minecraft:unbreaking"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "Slot": 7b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:enchanted_book",
+                                "Count": 1b,
+                                "tag": {
+                                    "StoredEnchantments": [
+                                        {
+                                            "lvl": 2s,
+                                            "id": "farmersdelight:backstabbing"
+                                        },
+                                        {
+                                            "lvl": 3s,
+                                            "id": "create:potato_recovery"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "Slot": 9b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:enchanted_book",
+                                "Count": 1b,
+                                "tag": {
+                                    "StoredEnchantments": [
+                                        {
+                                            "lvl": 2s,
+                                            "id": "minecraft:respiration"
+                                        },
+                                        {
+                                            "lvl": 3s,
+                                            "id": "minecraft:power"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "Slot": 12b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:enchanted_book",
+                                "Count": 1b,
+                                "tag": {
+                                    "StoredEnchantments": [
+                                        {
+                                            "lvl": 3s,
+                                            "id": "minecraft:efficiency"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "Slot": 13b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:enchanted_book",
+                                "Count": 1b,
+                                "tag": {
+                                    "StoredEnchantments": [
+                                        {
+                                            "lvl": 4s,
+                                            "id": "minecraft:smite"
+                                        },
+                                        {
+                                            "lvl": 3s,
+                                            "id": "minecraft:power"
+                                        },
+                                        {
+                                            "lvl": 3s,
+                                            "id": "minecraft:efficiency"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "Slot": 17b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:enchanted_book",
+                                "Count": 1b,
+                                "tag": {
+                                    "StoredEnchantments": [
+                                        {
+                                            "lvl": 3s,
+                                            "id": "minecraft:sharpness"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "Slot": 18b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:enchanted_book",
+                                "Count": 1b,
+                                "tag": {
+                                    "StoredEnchantments": [
+                                        {
+                                            "lvl": 3s,
+                                            "id": "minecraft:piercing"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "Slot": 19b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:enchanted_book",
+                                "Count": 1b,
+                                "tag": {
+                                    "StoredEnchantments": [
+                                        {
+                                            "lvl": 1s,
+                                            "id": "minecraft:flame"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "Slot": 23b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:enchanted_book",
+                                "Count": 1b,
+                                "tag": {
+                                    "StoredEnchantments": [
+                                        {
+                                            "lvl": 3s,
+                                            "id": "minecraft:protection"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "Slot": 25b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:enchanted_book",
+                                "Count": 1b,
+                                "tag": {
+                                    "StoredEnchantments": [
+                                        {
+                                            "lvl": 2s,
+                                            "id": "minecraft:looting"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "Slot": 26b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:enchanted_book",
+                                "Count": 1b,
+                                "tag": {
+                                    "StoredEnchantments": [
+                                        {
+                                            "lvl": 2s,
+                                            "id": "minecraft:looting"
+                                        }
+                                    ]
+                                }
+                            }
                         ]
                     },
                     "Slot": 0

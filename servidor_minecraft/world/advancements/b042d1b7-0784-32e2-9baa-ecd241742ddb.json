@@ -857,6 +857,12 @@
     },
     "done": true
   },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-04-21 21:36:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_gabbro_bricks_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -4303,6 +4309,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_crimson": {
+    "criteria": {
+      "has_plank": "2025-04-21 20:45:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:13 +0000"
@@ -4582,6 +4594,12 @@
   "framedblocks:recipes/framed_blocks/framed_slope": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-04-21 21:52:07 +0000"
     },
     "done": true
   },
@@ -8600,6 +8618,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_crimson": {
+    "criteria": {
+      "has_plank": "2025-04-21 20:45:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_limestone_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:11 +0000"
@@ -10006,7 +10030,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-04-16 17:25:23 +0000"
+      "in_better_spider_dungeon": "2025-04-16 17:25:23 +0000",
+      "in_better_monster_room": "2025-04-21 21:52:07 +0000"
     },
     "done": false
   },
@@ -11373,6 +11398,12 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-04-21 21:44:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/birch_window_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -11715,6 +11746,7 @@
       "cooked_beef": "2025-04-18 16:56:51 +0000",
       "beetroot_soup": "2025-04-19 18:13:07 +0000",
       "apple": "2025-04-18 17:03:16 +0000",
+      "potato": "2025-04-21 21:48:50 +0000",
       "bread": "2025-04-18 14:47:25 +0000",
       "golden_carrot": "2025-04-20 19:34:38 +0000",
       "cooked_chicken": "2025-04-19 13:55:08 +0000",

@@ -10599,6 +10599,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_barako": {
+    "criteria": {
+      "barako": "2025-04-21 21:56:52 +0000"
+    },
+    "done": true
+  },
   "mineminenomi:challenges/chew": {
     "criteria": {
       "unlock_challenge": "2025-04-18 18:33:43 +0000"
@@ -11724,6 +11730,7 @@
       "apple": "2025-04-18 16:05:22 +0000",
       "cooked_cod": "2025-04-18 17:11:10 +0000",
       "bread": "2025-04-18 15:28:29 +0000",
+      "golden_apple": "2025-04-21 21:27:05 +0000",
       "cookie": "2025-04-18 15:26:37 +0000",
       "suspicious_stew": "2025-04-19 17:26:18 +0000",
       "golden_carrot": "2025-04-20 20:11:24 +0000",
