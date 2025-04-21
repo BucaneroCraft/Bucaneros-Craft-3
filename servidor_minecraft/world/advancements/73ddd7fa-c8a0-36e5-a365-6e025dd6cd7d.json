@@ -557,6 +557,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_birch": {
+    "criteria": {
+      "has_plank": "2025-04-21 20:15:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/andesite_casing": {
     "criteria": {
       "has_the_recipe": "2025-04-18 15:00:13 +0000"
@@ -3050,6 +3056,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-04-20 19:26:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_birch": {
+    "criteria": {
+      "has_plank": "2025-04-21 20:15:43 +0000"
     },
     "done": true
   },

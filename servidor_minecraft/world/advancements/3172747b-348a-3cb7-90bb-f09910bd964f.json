@@ -4291,6 +4291,12 @@
     },
     "done": true
   },
+  "mineminenomi:challenges/gin": {
+    "criteria": {
+      "unlock_challenge": "2025-04-21 20:06:47 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
@@ -4378,6 +4384,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-04-21 20:02:12 +0000"
     },
     "done": true
   },
@@ -6431,6 +6443,12 @@
   "create:recipes/create.palettes/paved_dolomite_slab_from_paved_dolomite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:challenges/kuroobi": {
+    "criteria": {
+      "unlock_challenge": "2025-04-21 20:05:30 +0000"
     },
     "done": true
   },
@@ -9402,6 +9420,12 @@
   "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:challenges/higuma": {
+    "criteria": {
+      "unlock_challenge": "2025-04-21 20:08:13 +0000"
     },
     "done": true
   },

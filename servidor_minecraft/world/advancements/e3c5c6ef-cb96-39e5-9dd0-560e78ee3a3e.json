@@ -4347,6 +4347,12 @@
     },
     "done": true
   },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-04-21 20:02:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
@@ -11628,6 +11634,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_mushroom_stew": "2025-04-19 13:03:32 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed": "2025-04-21 20:07:16 +0000"
     },
     "done": true
   },
