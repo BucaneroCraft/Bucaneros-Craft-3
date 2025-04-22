@@ -17710,3 +17710,151 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Apr2025 22:58:28.317] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [22Apr2025 22:58:28.330] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [22Apr2025 22:58:28.388] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3489ms or 69 ticks behind
+[22Apr2025 22:58:53.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10262ms or 205 ticks behind
+[22Apr2025 22:59:21.778] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13178ms or 263 ticks behind
+[22Apr2025 22:59:42.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5530ms or 110 ticks behind
+[22Apr2025 23:00:01.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4141ms or 82 ticks behind
+[22Apr2025 23:00:21.366] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5017ms or 100 ticks behind
+[22Apr2025 23:00:41.907] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5558ms or 111 ticks behind
+[22Apr2025 23:01:03.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6279ms or 125 ticks behind
+[22Apr2025 23:01:12.321] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[22Apr2025 23:01:30.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12654ms or 253 ticks behind
+[22Apr2025 23:01:51.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5694ms or 113 ticks behind
+[22Apr2025 23:02:11.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5256ms or 105 ticks behind
+[22Apr2025 23:02:29.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3093ms or 61 ticks behind
+[22Apr2025 23:02:49.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[22Apr2025 23:03:02.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported Miglaitor_ to -9888.5, 83.0, -1393.5]
+[22Apr2025 23:03:09.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5867ms or 117 ticks behind
+[22Apr2025 23:03:30.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5744ms or 114 ticks behind
+[22Apr2025 23:03:34.673] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/49690, l='ServerLevel[world]', x=-9878.50, y=62.51, z=-1415.33] died, message: 'Villager was slain by Zombie'
+[22Apr2025 23:04:07.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2180ms or 43 ticks behind
+[22Apr2025 23:04:35.588] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12989ms or 259 ticks behind
+[22Apr2025 23:04:39.923] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Brute stopped O Tatsumaki at tick 356
+[22Apr2025 23:04:42.720] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 403
+[22Apr2025 23:04:43.336] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 414
+[22Apr2025 23:04:45.129] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 445
+[22Apr2025 23:04:45.726] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Shi Shishi Sonson at tick 455
+[22Apr2025 23:04:45.726] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Hiryu: Kaen at tick 455
+[22Apr2025 23:04:45.788] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 456
+[22Apr2025 23:04:46.458] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 467
+[22Apr2025 23:04:54.970] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4421ms or 88 ticks behind
+[22Apr2025 23:05:01.412] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Brute stopped O Tatsumaki at tick 683
+[22Apr2025 23:05:08.828] [Server thread/INFO] [mineminenomi/]: Miglaitor_ started DON_KRIEG_HARD challenge.
+[22Apr2025 23:05:08.839] [Server thread/DEBUG] [mineminenomi/]: Dimension setup: 11ms
+[22Apr2025 23:05:14.025] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[22Apr2025 23:05:15.025] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[22Apr2025 23:05:16.026] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[22Apr2025 23:05:17.026] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[22Apr2025 23:05:17.346] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: EMERGENCY CLEAR TIME: 8.443s
+[22Apr2025 23:05:18.027] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[22Apr2025 23:05:19.027] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[22Apr2025 23:05:19.172] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: BUILD TIME: 1.825s
+[22Apr2025 23:05:19.403] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 797
+[22Apr2025 23:05:21.230] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 808
+[22Apr2025 23:05:23.005] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 819
+[22Apr2025 23:05:24.518] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 830
+[22Apr2025 23:05:26.030] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 841
+[22Apr2025 23:05:27.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Killed 29 entities]
+[22Apr2025 23:05:30.245] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Don Krieg stopped Wootz Net Launcher at tick 2
+[22Apr2025 23:05:30.246] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Don Krieg stopped Kaen Boshi at tick 2
+[22Apr2025 23:05:31.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21274ms or 425 ticks behind
+[22Apr2025 23:05:37.439] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Don Krieg stopped Bakudan at tick 102
+[22Apr2025 23:05:38.002] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Don Krieg stopped Kaen Boshi at tick 112
+[22Apr2025 23:05:38.434] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Don Krieg stopped Slam at tick 121
+[22Apr2025 23:05:41.095] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 1042
+[22Apr2025 23:05:42.930] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Apr2025 23:05:42.942] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Apr2025 23:05:42.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> server de mierda como se nota que lo han hecho los panchos
+[22Apr2025 23:05:44.024] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 1053
+[22Apr2025 23:05:44.671] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 1064
+[22Apr2025 23:05:45.215] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 1075
+[22Apr2025 23:05:45.789] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 1086
+[22Apr2025 23:05:51.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5029ms or 100 ticks behind
+[22Apr2025 23:05:52.896] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Don Krieg stopped Kaen Boshi at tick 337
+[22Apr2025 23:05:52.896] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Don Krieg stopped Bakudan at tick 337
+[22Apr2025 23:05:58.330] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 1287
+[22Apr2025 23:05:59.200] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 1298
+[22Apr2025 23:06:00.001] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Shi Shishi Sonson at tick 1309
+[22Apr2025 23:06:00.246] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Don Krieg stopped Kaen Boshi at tick 438
+[22Apr2025 23:06:01.669] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Hiryu: Kaen at tick 1332
+[22Apr2025 23:06:02.037] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 1337
+[22Apr2025 23:06:02.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Killed 15 entities]
+[22Apr2025 23:06:02.783] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 1348
+[22Apr2025 23:06:03.665] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 1359
+[22Apr2025 23:06:08.233] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Don Krieg stopped Kaen Boshi at tick 539
+[22Apr2025 23:06:13.001] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Don Krieg stopped Wootz Net Launcher at tick 603
+[22Apr2025 23:06:13.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7355ms or 147 ticks behind
+[22Apr2025 23:06:15.462] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Don Krieg stopped Kaen Boshi at tick 640
+[22Apr2025 23:06:22.356] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Don Krieg stopped Bakudan at tick 739
+[22Apr2025 23:06:23.196] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Don Krieg stopped Kaen Boshi at tick 751
+[22Apr2025 23:06:30.849] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Don Krieg stopped Kaen Boshi at tick 852
+[22Apr2025 23:06:35.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6760ms or 135 ticks behind
+[22Apr2025 23:06:36.549] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Don Krieg stopped Slam at tick 930
+[22Apr2025 23:06:37.323] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Don Krieg stopped Bakudan at tick 940
+[22Apr2025 23:06:38.238] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Don Krieg stopped Kaen Boshi at tick 953
+[22Apr2025 23:06:43.257] [Server thread/INFO] [mineminenomi/]: Miglaitor_'s challenge stopped.
+[22Apr2025 23:06:55.573] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5274ms or 105 ticks behind
+[22Apr2025 23:07:14.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3699ms or 73 ticks behind
+[22Apr2025 23:07:32.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3486ms or 69 ticks behind
+[22Apr2025 23:07:45.965] [Server thread/INFO] [mineminenomi/]: Miglaitor_ started HIGUMA_HARD challenge.
+[22Apr2025 23:07:45.966] [Server thread/DEBUG] [mineminenomi/]: Dimension setup: 0ms
+[22Apr2025 23:07:51.139] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[22Apr2025 23:07:52.140] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[22Apr2025 23:07:53.140] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[22Apr2025 23:07:54.076] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: EMERGENCY CLEAR TIME: 8.056s
+[22Apr2025 23:07:54.141] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[22Apr2025 23:07:54.553] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: BUILD TIME: 0.477s
+[22Apr2025 23:07:54.554] [Server thread/DEBUG] [mineminenomi/]: Removed invitation due to it already starting
+[22Apr2025 23:07:59.889] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 34
+[22Apr2025 23:07:59.889] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Yakkodori at tick 34
+[22Apr2025 23:08:00.611] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 45
+[22Apr2025 23:08:01.316] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 56
+[22Apr2025 23:08:01.995] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 67
+[22Apr2025 23:08:02.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14351ms or 287 ticks behind
+[22Apr2025 23:08:02.765] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 78
+[22Apr2025 23:08:02.845] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Kami-E at tick 79
+[22Apr2025 23:08:04.803] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Hiryu: Kaen at tick 109
+[22Apr2025 23:08:05.499] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Shi Shishi Sonson at tick 120
+[22Apr2025 23:08:07.310] [Server thread/INFO] [mineminenomi/]: Miglaitor_'s challenge stopped.
+[22Apr2025 23:08:20.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3501ms or 70 ticks behind
+[22Apr2025 23:08:34.678] [Server thread/INFO] [mineminenomi/]: Miglaitor_ started HIGUMA_HARD challenge.
+[22Apr2025 23:08:34.678] [Server thread/DEBUG] [mineminenomi/]: Dimension setup: 0ms
+[22Apr2025 23:08:37.720] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: EMERGENCY CLEAR TIME: 2.987s
+[22Apr2025 23:08:38.160] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: BUILD TIME: 0.439s
+[22Apr2025 23:08:38.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[22Apr2025 23:08:41.612] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 42
+[22Apr2025 23:08:41.612] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Yakkodori at tick 42
+[22Apr2025 23:08:41.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6182ms or 123 ticks behind
+[22Apr2025 23:08:42.132] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 53
+[22Apr2025 23:08:42.685] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 64
+[22Apr2025 23:08:42.886] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Geppo at tick 68
+[22Apr2025 23:08:43.233] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 75
+[22Apr2025 23:08:43.785] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 86
+[22Apr2025 23:08:43.829] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Kami-E at tick 87
+[22Apr2025 23:08:45.475] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Hiryu: Kaen at tick 120
+[22Apr2025 23:08:45.828] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Shi Shishi Sonson at tick 127
+[22Apr2025 23:08:45.829] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Busoshoku Haki: Internal Destruction at tick 127
+[22Apr2025 23:08:45.829] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Busoshoku Haki: Imbuing at tick 127
+[22Apr2025 23:08:48.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[22Apr2025 23:09:03.698] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Yakkodori at tick 485
+[22Apr2025 23:09:03.786] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped O Tatsumaki at tick 487
+[22Apr2025 23:09:03.934] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 490
+[22Apr2025 23:09:04.728] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Shi Shishi Sonson at tick 506
+[22Apr2025 23:09:04.728] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 506
+[22Apr2025 23:09:05.143] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Hiryu: Kaen at tick 514
+[22Apr2025 23:09:06.529] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 542
+[22Apr2025 23:09:07.729] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Kami-E at tick 566
+[22Apr2025 23:09:13.285] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 677
+[22Apr2025 23:09:13.584] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Geppo at tick 683
+[22Apr2025 23:09:13.733] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Yakkodori at tick 686
+[22Apr2025 23:09:13.833] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 688
+[22Apr2025 23:09:17.731] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Shi Shishi Sonson at tick 766
+[22Apr2025 23:09:19.242] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Hiryu: Kaen at tick 796
+[22Apr2025 23:09:22.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[22Apr2025 23:09:29.944] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Shi Shishi Sonson at tick 1010
+[22Apr2025 23:09:29.944] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Yakkodori at tick 1010
+[22Apr2025 23:09:30.913] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped O Tatsumaki at tick 1025
+[22Apr2025 23:09:31.146] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Shi Shishi Sonson at tick 1030
+[22Apr2025 23:09:32.739] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 1060
+[22Apr2025 23:09:33.080] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Hiryu: Kaen at tick 1068
+[22Apr2025 23:09:35.503] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Kami-E at tick 1120
