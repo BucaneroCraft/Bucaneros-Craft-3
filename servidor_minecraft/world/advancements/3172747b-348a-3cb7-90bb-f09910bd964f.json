@@ -377,6 +377,13 @@
     },
     "done": true
   },
+  "mineminenomi:adventure/haki_master": {
+    "criteria": {
+      "unlock_busoshoku_imbuing": "2025-04-22 22:55:18 +0000",
+      "unlock_busoshoku_hardening": "2025-04-22 22:55:18 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
@@ -3395,6 +3402,12 @@
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:adventure/whats_kairoseki": {
+    "criteria": {
+      "unlock_busoshoku_hardening": "2025-04-22 22:55:18 +0000"
     },
     "done": true
   },
