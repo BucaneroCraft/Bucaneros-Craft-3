@@ -1493,6 +1493,14 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-04-22 22:29:46 +0000",
+      "minecraft:soul_sand_valley": "2025-04-22 22:26:49 +0000",
+      "minecraft:basalt_deltas": "2025-04-22 22:30:45 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/fancy_granite_bricks_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:42 +0000"
@@ -2306,6 +2314,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-22 22:26:49 +0000"
     },
     "done": true
   },
@@ -3992,11 +4006,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-20 20:08:27 +0000",
+      "minecraft:blaze": "2025-04-22 22:29:49 +0000",
       "minecraft:skeleton": "2025-04-18 15:10:33 +0000",
       "minecraft:zoglin": "2025-04-20 20:15:09 +0000",
       "minecraft:vindicator": "2025-04-20 20:08:14 +0000",
+      "minecraft:magma_cube": "2025-04-22 22:30:00 +0000",
       "minecraft:spider": "2025-04-18 15:10:39 +0000",
       "minecraft:evoker": "2025-04-20 20:11:32 +0000",
+      "minecraft:wither_skeleton": "2025-04-22 22:28:55 +0000",
       "minecraft:vex": "2025-04-20 20:11:18 +0000",
       "minecraft:zombie": "2025-04-18 15:12:54 +0000",
       "minecraft:drowned": "2025-04-19 13:48:35 +0000",
@@ -7569,6 +7586,12 @@
     },
     "done": true
   },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-04-22 22:29:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/redstone_link": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:43 +0000"
@@ -8226,6 +8249,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-22 22:26:49 +0000"
     },
     "done": true
   },
@@ -12273,6 +12302,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-22 22:28:41 +0000"
     },
     "done": true
   },

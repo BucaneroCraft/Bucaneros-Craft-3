@@ -1115,6 +1115,12 @@
     },
     "done": true
   },
+  "create:press": {
+    "criteria": {
+      "0": "2025-04-22 22:32:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_scoria_bricks_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"

@@ -1505,6 +1505,14 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-04-22 22:29:48 +0000",
+      "minecraft:soul_sand_valley": "2025-04-22 22:26:37 +0000",
+      "minecraft:basalt_deltas": "2025-04-22 22:30:45 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/fancy_granite_bricks_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
@@ -2333,6 +2341,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-22 22:26:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
@@ -2978,6 +2992,12 @@
   "aquaculture:recipes/decorations/oak_fish_mount": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-22 22:29:48 +0000"
     },
     "done": true
   },
@@ -4028,9 +4048,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-19 18:11:55 +0000",
+      "minecraft:blaze": "2025-04-22 22:28:54 +0000",
       "minecraft:skeleton": "2025-04-19 14:48:34 +0000",
       "minecraft:guardian": "2025-04-19 12:45:15 +0000",
       "minecraft:vindicator": "2025-04-20 20:07:37 +0000",
+      "minecraft:magma_cube": "2025-04-22 22:30:02 +0000",
       "minecraft:spider": "2025-04-18 16:28:45 +0000",
       "minecraft:evoker": "2025-04-20 20:11:23 +0000",
       "minecraft:witch": "2025-04-19 17:17:12 +0000",
@@ -7632,6 +7654,12 @@
     },
     "done": true
   },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-04-22 22:29:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/redstone_link": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
@@ -8289,6 +8317,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-22 22:26:36 +0000"
     },
     "done": true
   },
@@ -12392,6 +12426,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-22 22:28:41 +0000"
     },
     "done": true
   },
