@@ -17858,3 +17858,276 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Apr2025 23:09:32.739] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 1060
 [22Apr2025 23:09:33.080] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Hiryu: Kaen at tick 1068
 [22Apr2025 23:09:35.503] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Kami-E at tick 1120
+[22Apr2025 23:09:40.325] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Yakkodori at tick 1211
+[22Apr2025 23:09:42.368] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Shi Shishi Sonson at tick 1246
+[22Apr2025 23:09:44.406] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Geppo at tick 1283
+[22Apr2025 23:09:47.085] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped O Tatsumaki at tick 1339
+[22Apr2025 23:09:48.648] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Brute stopped Spinning Brawl at tick 255
+[22Apr2025 23:09:50.503] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Yakkodori at tick 1412
+[22Apr2025 23:09:53.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22Apr2025 23:09:54.872] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Shi Shishi Sonson at tick 1448
+[22Apr2025 23:09:55.107] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 1452
+[22Apr2025 23:09:56.111] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Hiryu: Kaen at tick 1473
+[22Apr2025 23:10:02.817] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Brute stopped Spinning Brawl at tick 504
+[22Apr2025 23:10:03.245] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Yakkodori at tick 1631
+[22Apr2025 23:10:03.245] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped O Tatsumaki at tick 1631
+[22Apr2025 23:10:04.235] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Shi Shishi Sonson at tick 1651
+[22Apr2025 23:10:13.028] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Yakkodori at tick 1832
+[22Apr2025 23:10:14.894] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Shi Shishi Sonson at tick 1867
+[22Apr2025 23:10:18.534] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped O Tatsumaki at tick 1942
+[22Apr2025 23:10:27.006] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: CLEAR TIME: 4.778s
+[22Apr2025 23:10:27.051] [Server thread/INFO] [mineminenomi/]: Miglaitor_'s challenge stopped.
+[22Apr2025 23:10:27.052] [Server thread/INFO] [mineminenomi/]: Miglaitor_'s challenge stopped.
+[22Apr2025 23:10:27.066] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Busoshoku Haki: Internal Destruction at tick 2016
+[22Apr2025 23:10:27.066] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Busoshoku Haki: Imbuing at tick 2016
+[22Apr2025 23:10:27.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4872ms or 97 ticks behind
+[22Apr2025 23:10:55.998] [Server thread/INFO] [mineminenomi/]: Miglaitor_ started HIGUMA_HARD challenge.
+[22Apr2025 23:10:55.998] [Server thread/DEBUG] [mineminenomi/]: Dimension setup: 0ms
+[22Apr2025 23:10:56.709] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: BUILD TIME: 0.66s
+[22Apr2025 23:10:56.726] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[22Apr2025 23:10:57.872] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/53916, l='ServerLevel[world]', x=4.53, y=51.00, z=-4.98]
+[22Apr2025 23:10:57.872] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/53918, l='ServerLevel[world]', x=3.46, y=52.06, z=-4.93]
+[22Apr2025 23:10:57.873] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/53915, l='ServerLevel[world]', x=5.69, y=52.06, z=-4.56]
+[22Apr2025 23:10:57.873] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/53914, l='ServerLevel[world]', x=6.77, y=53.00, z=-6.02]
+[22Apr2025 23:10:57.873] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/53919, l='ServerLevel[world]', x=4.63, y=51.00, z=-4.52]
+[22Apr2025 23:10:57.873] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/53917, l='ServerLevel[world]', x=6.35, y=53.00, z=-3.67]
+[22Apr2025 23:10:57.873] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity HigumaEntity['Higuma'/53163, l='ServerLevel[world]', x=6.36, y=51.29, z=-5.60]
+[22Apr2025 23:10:57.874] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/53923, l='ServerLevel[world]', x=3.59, y=52.06, z=-4.47]
+[22Apr2025 23:10:57.874] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/53922, l='ServerLevel[world]', x=5.48, y=53.00, z=-1.61]
+[22Apr2025 23:10:57.874] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/53920, l='ServerLevel[world]', x=3.39, y=53.00, z=-2.50]
+[22Apr2025 23:10:57.874] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/53921, l='ServerLevel[world]', x=5.65, y=52.00, z=-5.43]
+[22Apr2025 23:10:57.880] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/53916, l='ServerLevel[world]', x=4.53, y=51.00, z=-4.98]
+[22Apr2025 23:10:57.881] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/53918, l='ServerLevel[world]', x=3.46, y=52.06, z=-4.93]
+[22Apr2025 23:10:57.881] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/53915, l='ServerLevel[world]', x=5.69, y=52.06, z=-4.56]
+[22Apr2025 23:10:57.881] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/53914, l='ServerLevel[world]', x=6.77, y=53.00, z=-6.02]
+[22Apr2025 23:10:57.881] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/53919, l='ServerLevel[world]', x=4.63, y=51.00, z=-4.52]
+[22Apr2025 23:10:57.882] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/53917, l='ServerLevel[world]', x=6.35, y=53.00, z=-3.67]
+[22Apr2025 23:10:57.882] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity HigumaEntity['Higuma'/53163, l='ServerLevel[world]', x=6.36, y=51.29, z=-5.60]
+[22Apr2025 23:10:57.882] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/53923, l='ServerLevel[world]', x=3.59, y=52.06, z=-4.47]
+[22Apr2025 23:10:57.882] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/53922, l='ServerLevel[world]', x=5.48, y=53.00, z=-1.61]
+[22Apr2025 23:10:57.882] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/53920, l='ServerLevel[world]', x=3.39, y=53.00, z=-2.50]
+[22Apr2025 23:10:57.883] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/53921, l='ServerLevel[world]', x=5.65, y=52.00, z=-5.43]
+[22Apr2025 23:10:59.963] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 38
+[22Apr2025 23:10:59.963] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Yakkodori at tick 38
+[22Apr2025 23:11:00.573] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 49
+[22Apr2025 23:11:01.179] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 60
+[22Apr2025 23:11:01.735] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 71
+[22Apr2025 23:11:02.196] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 82
+[22Apr2025 23:11:02.275] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Geppo at tick 84
+[22Apr2025 23:11:02.826] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Kami-E at tick 98
+[22Apr2025 23:11:04.408] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Busoshoku Haki: Internal Destruction at tick 132
+[22Apr2025 23:11:04.409] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Busoshoku Haki: Imbuing at tick 132
+[22Apr2025 23:11:05.729] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Hiryu: Kaen at tick 160
+[22Apr2025 23:11:06.254] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Shi Shishi Sonson at tick 171
+[22Apr2025 23:11:14.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2379ms or 47 ticks behind
+[22Apr2025 23:11:36.259] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 722
+[22Apr2025 23:11:36.259] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Yakkodori at tick 722
+[22Apr2025 23:11:36.681] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 733
+[22Apr2025 23:11:37.227] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 744
+[22Apr2025 23:11:37.731] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Geppo at tick 754
+[22Apr2025 23:11:37.782] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 755
+[22Apr2025 23:11:38.330] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 766
+[22Apr2025 23:11:39.135] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Kami-E at tick 782
+[22Apr2025 23:11:46.715] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Apr2025 23:11:46.726] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Apr2025 23:11:52.897] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Shi Shishi Sonson at tick 1050
+[22Apr2025 23:11:52.897] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Geppo at tick 1050
+[22Apr2025 23:11:52.897] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Yakkodori at tick 1050
+[22Apr2025 23:11:53.271] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped O Tatsumaki at tick 1060
+[22Apr2025 23:11:53.546] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 1067
+[22Apr2025 23:11:53.912] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Hiryu: Kaen at tick 1076
+[22Apr2025 23:11:54.634] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Shi Shishi Sonson at tick 1092
+[22Apr2025 23:11:55.834] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 1116
+[22Apr2025 23:12:00.440] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 1208
+[22Apr2025 23:12:01.234] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 1224
+[22Apr2025 23:12:02.587] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Yakkodori at tick 1251
+[22Apr2025 23:12:03.280] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 1265
+[22Apr2025 23:12:03.432] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Kami-E at tick 1268
+[22Apr2025 23:12:03.680] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Geppo at tick 1273
+[22Apr2025 23:12:07.576] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Shi Shishi Sonson at tick 1351
+[22Apr2025 23:12:12.634] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Yakkodori at tick 1452
+[22Apr2025 23:12:13.041] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Hiryu: Kaen at tick 1460
+[22Apr2025 23:12:13.339] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 1466
+[22Apr2025 23:12:13.387] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Geppo at tick 1467
+[22Apr2025 23:12:16.685] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Shi Shishi Sonson at tick 1533
+[22Apr2025 23:12:16.686] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped O Tatsumaki at tick 1533
+[22Apr2025 23:12:17.680] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Shi Shishi Sonson at tick 1553
+[22Apr2025 23:12:17.885] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 1557
+[22Apr2025 23:12:18.439] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 1568
+[22Apr2025 23:12:18.980] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 1579
+[22Apr2025 23:12:20.389] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 1607
+[22Apr2025 23:12:22.681] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Yakkodori at tick 1653
+[22Apr2025 23:12:26.532] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Kami-E at tick 1730
+[22Apr2025 23:12:30.433] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 1808
+[22Apr2025 23:12:31.004] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 1819
+[22Apr2025 23:12:31.557] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 1830
+[22Apr2025 23:12:32.094] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 1841
+[22Apr2025 23:12:32.741] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 1854
+[22Apr2025 23:12:32.741] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Yakkodori at tick 1854
+[22Apr2025 23:12:33.239] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Hiryu: Kaen at tick 1864
+[22Apr2025 23:12:33.487] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Shi Shishi Sonson at tick 1869
+[22Apr2025 23:12:36.047] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped O Tatsumaki at tick 1918
+[22Apr2025 23:12:45.146] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: CLEAR TIME: 4.366s
+[22Apr2025 23:12:45.195] [Server thread/INFO] [mineminenomi/]: Miglaitor_'s challenge stopped.
+[22Apr2025 23:12:45.195] [Server thread/INFO] [mineminenomi/]: Miglaitor_'s challenge stopped.
+[22Apr2025 23:12:45.211] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Busoshoku Haki: Internal Destruction at tick 2014
+[22Apr2025 23:12:45.211] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Busoshoku Haki: Imbuing at tick 2014
+[22Apr2025 23:12:45.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4528ms or 90 ticks behind
+[22Apr2025 23:13:02.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2682ms or 53 ticks behind
+[22Apr2025 23:13:05.108] [Server thread/INFO] [mineminenomi/]: Miglaitor_ started HIGUMA_HARD challenge.
+[22Apr2025 23:13:05.108] [Server thread/DEBUG] [mineminenomi/]: Dimension setup: 0ms
+[22Apr2025 23:13:05.753] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: BUILD TIME: 0.591s
+[22Apr2025 23:13:06.806] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/54665, l='ServerLevel[world]', x=-2.82, y=57.00, z=-1.08]
+[22Apr2025 23:13:06.807] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/54669, l='ServerLevel[world]', x=-1.28, y=57.00, z=-0.50]
+[22Apr2025 23:13:06.807] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/54671, l='ServerLevel[world]', x=-1.27, y=57.00, z=-0.20]
+[22Apr2025 23:13:06.807] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/54668, l='ServerLevel[world]', x=-0.25, y=56.00, z=0.83]
+[22Apr2025 23:13:06.807] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/54666, l='ServerLevel[world]', x=-2.54, y=57.00, z=1.06]
+[22Apr2025 23:13:06.807] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity HigumaEntity['Higuma'/54269, l='ServerLevel[world]', x=-9.45, y=58.54, z=16.55]
+[22Apr2025 23:13:06.808] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/54664, l='ServerLevel[world]', x=1.92, y=57.00, z=-1.28]
+[22Apr2025 23:13:06.808] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/54667, l='ServerLevel[world]', x=1.59, y=57.00, z=-2.85]
+[22Apr2025 23:13:06.808] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/54663, l='ServerLevel[world]', x=0.07, y=57.00, z=-1.06]
+[22Apr2025 23:13:06.808] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/54662, l='ServerLevel[world]', x=0.84, y=57.00, z=-0.74]
+[22Apr2025 23:13:06.808] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/54670, l='ServerLevel[world]', x=0.44, y=56.00, z=1.31]
+[22Apr2025 23:13:06.814] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/54665, l='ServerLevel[world]', x=-2.82, y=57.00, z=-1.08]
+[22Apr2025 23:13:06.815] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/54669, l='ServerLevel[world]', x=-1.28, y=57.00, z=-0.50]
+[22Apr2025 23:13:06.815] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/54671, l='ServerLevel[world]', x=-1.27, y=57.00, z=-0.20]
+[22Apr2025 23:13:06.815] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/54668, l='ServerLevel[world]', x=-0.25, y=56.00, z=0.83]
+[22Apr2025 23:13:06.815] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/54666, l='ServerLevel[world]', x=-2.54, y=57.00, z=1.06]
+[22Apr2025 23:13:06.815] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity HigumaEntity['Higuma'/54269, l='ServerLevel[world]', x=-9.45, y=58.54, z=16.55]
+[22Apr2025 23:13:06.815] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/54664, l='ServerLevel[world]', x=1.92, y=57.00, z=-1.28]
+[22Apr2025 23:13:06.816] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/54667, l='ServerLevel[world]', x=1.59, y=57.00, z=-2.85]
+[22Apr2025 23:13:06.816] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/54663, l='ServerLevel[world]', x=0.07, y=57.00, z=-1.06]
+[22Apr2025 23:13:06.816] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/54662, l='ServerLevel[world]', x=0.84, y=57.00, z=-0.74]
+[22Apr2025 23:13:06.816] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/54670, l='ServerLevel[world]', x=0.44, y=56.00, z=1.31]
+[22Apr2025 23:13:08.689] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 30
+[22Apr2025 23:13:08.689] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Yakkodori at tick 30
+[22Apr2025 23:13:09.187] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 41
+[22Apr2025 23:13:09.598] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Geppo at tick 50
+[22Apr2025 23:13:09.691] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 52
+[22Apr2025 23:13:10.244] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 63
+[22Apr2025 23:13:10.776] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 74
+[22Apr2025 23:13:11.482] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Kami-E at tick 90
+[22Apr2025 23:13:14.220] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Hiryu: Kaen at tick 148
+[22Apr2025 23:13:14.799] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Shi Shishi Sonson at tick 159
+[22Apr2025 23:13:17.176] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped O Tatsumaki at tick 213
+[22Apr2025 23:13:17.866] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Yakkodori at tick 231
+[22Apr2025 23:13:19.480] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Geppo at tick 267
+[22Apr2025 23:13:19.838] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 275
+[22Apr2025 23:13:31.991] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 519
+[22Apr2025 23:13:31.992] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Yakkodori at tick 519
+[22Apr2025 23:13:32.530] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 530
+[22Apr2025 23:13:33.092] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 541
+[22Apr2025 23:13:33.145] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Geppo at tick 542
+[22Apr2025 23:13:33.243] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Kami-E at tick 544
+[22Apr2025 23:13:33.649] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 552
+[22Apr2025 23:13:34.011] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Shi Shishi Sonson at tick 559
+[22Apr2025 23:13:34.191] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Hiryu: Kaen at tick 563
+[22Apr2025 23:13:34.636] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped O Tatsumaki at tick 572
+[22Apr2025 23:13:59.933] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Shi Shishi Sonson at tick 1078
+[22Apr2025 23:13:59.933] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Yakkodori at tick 1078
+[22Apr2025 23:14:00.389] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped O Tatsumaki at tick 1087
+[22Apr2025 23:14:01.436] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Hiryu: Kaen at tick 1108
+[22Apr2025 23:14:02.002] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Shi Shishi Sonson at tick 1119
+[22Apr2025 23:14:11.836] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Shi Shishi Sonson at tick 1316
+[22Apr2025 23:14:11.837] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Yakkodori at tick 1316
+[22Apr2025 23:14:13.043] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 1340
+[22Apr2025 23:14:13.186] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Kami-E at tick 1343
+[22Apr2025 23:14:14.755] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped O Tatsumaki at tick 1372
+[22Apr2025 23:14:14.949] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 1377
+[22Apr2025 23:14:15.382] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Hiryu: Kaen at tick 1387
+[22Apr2025 23:14:28.586] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Yakkodori at tick 1651
+[22Apr2025 23:14:29.585] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Shi Shishi Sonson at tick 1671
+[22Apr2025 23:14:29.585] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped O Tatsumaki at tick 1671
+[22Apr2025 23:14:29.788] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 1675
+[22Apr2025 23:14:30.329] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 1686
+[22Apr2025 23:14:30.882] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Soru at tick 1697
+[22Apr2025 23:14:31.534] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Hiryu: Kaen at tick 1710
+[22Apr2025 23:14:33.331] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Higuma stopped Kami-E at tick 1746
+[22Apr2025 23:14:50.145] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: CLEAR TIME: 4.295s
+[22Apr2025 23:14:50.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ has completed the challenge [Higuma (Hard)]
+[22Apr2025 23:14:50.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: imsxs has completed the challenge [Higuma (Hard)]
+[22Apr2025 23:14:50.187] [Server thread/INFO] [mineminenomi/]: Miglaitor_'s challenge stopped.
+[22Apr2025 23:14:50.200] [Server thread/INFO] [mineminenomi/]: Miglaitor_'s challenge stopped.
+[22Apr2025 23:14:50.254] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4754ms or 95 ticks behind
+[22Apr2025 23:14:57.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Miglaitor_> mis huevo
+[22Apr2025 23:15:01.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Miglaitor_> 100 namas
+[22Apr2025 23:15:07.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2746ms or 54 ticks behind
+[22Apr2025 23:15:20.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: +300 doriki for Miglaitor_]
+[22Apr2025 23:15:28.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5832ms or 116 ticks behind
+[22Apr2025 23:15:32.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: +300 doriki for imsxs]
+[22Apr2025 23:15:57.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13591ms or 271 ticks behind
+[22Apr2025 23:16:15.778] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3478ms or 69 ticks behind
+[22Apr2025 23:16:20.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[22Apr2025 23:17:08.400] [Server thread/INFO] [mineminenomi/]: Miglaitor_ started MORGAN challenge.
+[22Apr2025 23:17:08.400] [Server thread/DEBUG] [mineminenomi/]: Dimension setup: 0ms
+[22Apr2025 23:17:08.788] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: BUILD TIME: 0.332s
+[22Apr2025 23:17:08.788] [Server thread/DEBUG] [mineminenomi/]: Removed invitation due to it already starting
+[22Apr2025 23:17:09.861] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/56194, l='ServerLevel[world]', x=-11.66, y=59.00, z=3.84]
+[22Apr2025 23:17:09.862] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/56198, l='ServerLevel[world]', x=-12.04, y=59.00, z=4.92]
+[22Apr2025 23:17:09.862] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/56203, l='ServerLevel[world]', x=-13.69, y=59.00, z=4.47]
+[22Apr2025 23:17:09.862] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/56202, l='ServerLevel[world]', x=-14.99, y=59.00, z=5.81]
+[22Apr2025 23:17:09.862] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/56195, l='ServerLevel[world]', x=-12.42, y=59.00, z=6.42]
+[22Apr2025 23:17:09.862] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/56197, l='ServerLevel[world]', x=-13.40, y=59.00, z=4.79]
+[22Apr2025 23:17:09.862] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/56199, l='ServerLevel[world]', x=-14.89, y=59.00, z=4.18]
+[22Apr2025 23:17:09.862] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/55953, l='ServerLevel[world]', x=-4.02, y=59.00, z=14.48]
+[22Apr2025 23:17:09.863] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/56196, l='ServerLevel[world]', x=-10.98, y=59.00, z=5.29]
+[22Apr2025 23:17:09.863] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/56200, l='ServerLevel[world]', x=-11.17, y=59.00, z=5.06]
+[22Apr2025 23:17:09.863] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/56201, l='ServerLevel[world]', x=-11.31, y=59.00, z=5.65]
+[22Apr2025 23:17:09.863] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/55955, l='ServerLevel[world]', x=-2.56, y=59.00, z=16.52]
+[22Apr2025 23:17:09.863] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/55950, l='ServerLevel[world]', x=-6.08, y=59.00, z=17.15]
+[22Apr2025 23:17:09.864] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/55951, l='ServerLevel[world]', x=-5.18, y=59.00, z=18.77]
+[22Apr2025 23:17:09.864] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/55957, l='ServerLevel[world]', x=-4.84, y=59.00, z=17.34]
+[22Apr2025 23:17:09.864] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/55949, l='ServerLevel[world]', x=-4.13, y=59.00, z=17.24]
+[22Apr2025 23:17:09.864] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/55958, l='ServerLevel[world]', x=-5.77, y=59.00, z=17.67]
+[22Apr2025 23:17:09.864] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/55956, l='ServerLevel[world]', x=-7.00, y=59.00, z=16.83]
+[22Apr2025 23:17:09.865] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/55952, l='ServerLevel[world]', x=-2.01, y=59.00, z=16.19]
+[22Apr2025 23:17:09.865] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/55954, l='ServerLevel[world]', x=-7.50, y=59.00, z=19.62]
+[22Apr2025 23:17:09.967] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[22Apr2025 23:17:15.478] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Morgan stopped Morgan's Shockwave at tick 79
+[22Apr2025 23:17:30.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5167ms or 103 ticks behind
+[22Apr2025 23:17:31.241] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Apr2025 23:17:31.253] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Apr2025 23:17:53.249] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: CLEAR TIME: 4.456s
+[22Apr2025 23:17:53.286] [Server thread/INFO] [mineminenomi/]: Miglaitor_'s challenge stopped.
+[22Apr2025 23:17:53.298] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: mineminenomi:flag @ BlockPos{x=-24, y=70, z=22}
+[22Apr2025 23:17:53.300] [Server thread/INFO] [mineminenomi/]: Miglaitor_'s challenge stopped.
+[22Apr2025 23:17:57.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12457ms or 249 ticks behind
+[22Apr2025 23:17:57.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Killed 43 entities]
+[22Apr2025 23:18:15.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3122ms or 62 ticks behind
+[22Apr2025 23:18:33.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3160ms or 63 ticks behind
+[22Apr2025 23:18:41.083] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [imsxs: Removed Devil Fruit for imsxs]
+[22Apr2025 23:18:52.570] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3770ms or 75 ticks behind
+[22Apr2025 23:18:59.737] [Server thread/INFO] [mineminenomi/]: imsxs started MORGAN_HARD challenge.
+[22Apr2025 23:18:59.737] [Server thread/DEBUG] [mineminenomi/]: Dimension setup: 0ms
+[22Apr2025 23:19:00.438] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: BUILD TIME: 0.587s
+[22Apr2025 23:19:00.441] [Server thread/DEBUG] [mineminenomi/]: Removed invitation due to it already starting
+[22Apr2025 23:19:01.692] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityDropBear['Dropbear'/60488, l='ServerLevel[world]', x=-2.50, y=137.50, z=23.50]
+[22Apr2025 23:19:01.692] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityDropBear['Dropbear'/60486, l='ServerLevel[world]', x=-3.50, y=137.50, z=31.50]
+[22Apr2025 23:19:01.692] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityDropBear['Dropbear'/60487, l='ServerLevel[world]', x=-10.45, y=137.54, z=18.51]
+[22Apr2025 23:19:01.693] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityDropBear['Dropbear'/60489, l='ServerLevel[world]', x=-9.50, y=137.50, z=25.50]
+[22Apr2025 23:19:01.693] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityDropBear['Dropbear'/60485, l='ServerLevel[world]', x=1.53, y=137.50, z=12.55]
+[22Apr2025 23:19:04.297] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Morgan stopped Soru at tick 35
+[22Apr2025 23:19:04.297] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Morgan stopped Rankyaku at tick 35
+[22Apr2025 23:19:05.022] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Morgan stopped Soru at tick 46
+[22Apr2025 23:19:05.816] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Morgan stopped Soru at tick 57
+[22Apr2025 23:19:06.647] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Morgan stopped Soru at tick 68
+[22Apr2025 23:19:07.331] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Morgan stopped Soru at tick 79
+[22Apr2025 23:19:09.010] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Morgan stopped Morgan's Shockwave at tick 104
+[22Apr2025 23:19:10.799] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Morgan stopped O Tatsumaki at tick 133
+[22Apr2025 23:19:10.799] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Morgan stopped Jishin Ho at tick 133
+[22Apr2025 23:19:10.980] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Morgan stopped Slam at tick 136
+[22Apr2025 23:19:12.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4906ms or 98 ticks behind
+[22Apr2025 23:19:12.803] [Server thread/INFO] [mineminenomi/]: imsxs's challenge stopped.
+[22Apr2025 23:19:30.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3415ms or 68 ticks behind
+[22Apr2025 23:19:48.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2593ms or 51 ticks behind
+[22Apr2025 23:20:05.587] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2188ms or 43 ticks behind
+[22Apr2025 23:20:09.239] [Server thread/INFO] [mineminenomi/]: imsxs started MORGAN_HARD challenge.
+[22Apr2025 23:20:09.239] [Server thread/DEBUG] [mineminenomi/]: Dimension setup: 0ms
+[22Apr2025 23:20:10.398] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: EMERGENCY CLEAR TIME: 1.108s
+[22Apr2025 23:20:10.570] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: BUILD TIME: 0.171s
+[22Apr2025 23:20:13.571] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Morgan stopped Soru at tick 34
+[22Apr2025 23:20:13.571] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Morgan stopped Rankyaku at tick 34
+[22Apr2025 23:20:14.038] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Morgan stopped Soru at tick 45
+[22Apr2025 23:20:14.472] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Morgan stopped Soru at tick 56
+[22Apr2025 23:20:15.015] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Morgan stopped Soru at tick 67
+[22Apr2025 23:20:15.476] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Morgan stopped Soru at tick 78
