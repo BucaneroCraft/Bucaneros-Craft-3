@@ -7697,6 +7697,12 @@
     },
     "done": true
   },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-04-22 23:36:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/redstone_link": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
@@ -13097,6 +13103,12 @@
   "cavesandcliffs:recipes/misc/raw_gold": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-04-22 23:36:42 +0000"
     },
     "done": true
   },

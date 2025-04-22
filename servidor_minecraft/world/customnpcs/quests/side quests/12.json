@@ -2,10 +2,10 @@
     "CompleterNpc": "Abdul Basir",
     "NextQuestId": -1,
     "RandomReward": 0b,
-    "QuestRepeat": 0,
+    "QuestRepeat": 1,
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
-    "Title": "BOCATA LOMO YA!!!",
+    "Title": "bocata lomo",
     "Text": "BOCATA LOMO YA!!!",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1745068406230L,
+        "TimePast": 1745365811970L,
         "Time": 0L,
         "Subject": ""
     },
@@ -45,11 +45,17 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "minecraft_shenanigansbc:bocata_lomo",
-                "Count": 24b
+                "Count": 6b
             }
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "BOCATA LOMO YA!!!"
+    "CompleteText": "HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+beep* beep* beep*"
 }
