@@ -2775,3 +2775,37 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Apr2025 22:05:13.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30082ms or 601 ticks behind
 [22Apr2025 22:05:19.714] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Applied effect Saturation to Miglaitor_]
 [22Apr2025 22:05:45.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16419ms or 328 ticks behind
+[22Apr2025 22:06:09.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Spectator Mode]
+[22Apr2025 22:06:12.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[22Apr2025 22:06:15.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15499ms or 309 ticks behind
+[22Apr2025 22:06:43.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Miglaitor_> \poner creativo
+[22Apr2025 22:06:44.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14500ms or 290 ticks behind
+[22Apr2025 22:07:01.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Miglaitor_> \ modo dios
+[22Apr2025 22:07:14.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> modo dios poner porfa poner
+[22Apr2025 22:07:14.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14963ms or 299 ticks behind
+[22Apr2025 22:07:37.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Miglaitor_> \ super saiyan ultrainstinto goku
+[22Apr2025 22:07:44.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14611ms or 292 ticks behind
+[22Apr2025 22:07:58.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Gave 3    [Spider Eye] to Miglaitor_]
+[22Apr2025 22:08:10.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10836ms or 216 ticks behind
+[22Apr2025 22:08:38.156] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12857ms or 257 ticks behind
+[22Apr2025 22:08:51.749] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['String'/11358, l='ServerLevel[world]', x=208.01, y=29.46, z=48.08]
+[22Apr2025 22:09:07.585] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14435ms or 288 ticks behind
+[22Apr2025 22:09:34.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11719ms or 234 ticks behind
+[22Apr2025 22:10:04.876] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15627ms or 312 ticks behind
+[22Apr2025 22:10:24.667] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=856, y=49, z=2041} BlockPos{x=856, y=47, z=2041}
+[22Apr2025 22:10:24.784] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=856, y=49, z=2041} BlockPos{x=856, y=47, z=2041}
+[22Apr2025 22:10:24.786] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=856, y=49, z=2040} BlockPos{x=856, y=47, z=2041}
+[22Apr2025 22:10:36.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16190ms or 323 ticks behind
+[22Apr2025 22:11:07.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16919ms or 338 ticks behind
+[22Apr2025 22:11:41.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18563ms or 371 ticks behind
+[22Apr2025 22:11:41.598] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=395, y=70, z=74} BlockPos{x=396, y=68, z=74}
+[22Apr2025 22:11:44.933] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=378, y=68, z=63} BlockPos{x=378, y=66, z=61}
+[22Apr2025 22:12:13.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16571ms or 331 ticks behind
+[22Apr2025 22:12:43.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15905ms or 318 ticks behind
+[22Apr2025 22:13:15.226] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16327ms or 326 ticks behind
+[22Apr2025 22:13:48.767] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18567ms or 371 ticks behind
+[22Apr2025 22:14:15.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11556ms or 231 ticks behind
+[22Apr2025 22:14:41.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10836ms or 216 ticks behind
+[22Apr2025 22:15:09.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13121ms or 262 ticks behind
+[22Apr2025 22:15:37.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13626ms or 272 ticks behind
+[22Apr2025 22:16:08.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15474ms or 309 ticks behind
