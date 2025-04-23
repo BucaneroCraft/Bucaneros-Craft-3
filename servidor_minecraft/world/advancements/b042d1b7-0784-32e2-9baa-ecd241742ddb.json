@@ -5861,6 +5861,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "potato": "2025-04-23 22:34:06 +0000",
       "wheat": "2025-04-18 18:07:07 +0000"
     },
     "done": false
@@ -6432,6 +6433,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
+    },
+    "done": true
+  },
+  "create:fan_water": {
+    "criteria": {
+      "0": "2025-04-23 22:26:59 +0000"
     },
     "done": true
   },
@@ -11838,6 +11845,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-04-19 13:43:52 +0000"
+    },
+    "done": true
+  },
+  "create:overstressed": {
+    "criteria": {
+      "0": "2025-04-23 22:27:46 +0000"
     },
     "done": true
   },

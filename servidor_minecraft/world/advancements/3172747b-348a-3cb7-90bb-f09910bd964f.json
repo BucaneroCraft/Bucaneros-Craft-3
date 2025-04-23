@@ -3874,6 +3874,12 @@
     },
     "done": true
   },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2025-04-23 22:31:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_scoria_slab_from_polished_scoria_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
@@ -4612,6 +4618,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/in_nether": {
+    "criteria": {
+      "end_crystal_fragment": "2025-04-23 22:32:14 +0000"
     },
     "done": true
   },
@@ -9131,6 +9143,12 @@
     },
     "done": true
   },
+  "endrem:main/end_crystal_fragment": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-23 22:32:14 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_void_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
@@ -9152,6 +9170,12 @@
   "farmersdelight:recipes/decorations/painting_from_canvas": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2025-04-23 22:31:58 +0000"
     },
     "done": true
   },

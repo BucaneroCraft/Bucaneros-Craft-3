@@ -19431,3 +19431,80 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23Apr2025 22:29:33.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [23Apr2025 22:29:58.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
 [23Apr2025 22:30:16.266] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2283ms or 45 ticks behind
+[23Apr2025 22:30:34.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3683ms or 73 ticks behind
+[23Apr2025 22:30:45.209] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/49421, l='ServerLevel[world]', x=-9923.52, y=62.47, z=-1405.28] died, message: 'Weaponsmith was slain by Drowned'
+[23Apr2025 22:30:52.100] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2217ms or 44 ticks behind
+[23Apr2025 22:31:10.838] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[23Apr2025 22:31:28.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2256ms or 45 ticks behind
+[23Apr2025 22:31:46.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3242ms or 64 ticks behind
+[23Apr2025 22:31:58.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: imsxs has made the advancement [Fallen Sorcerer]
+[23Apr2025 22:31:58.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: imsxs has made the advancement [Fortune Seeker]
+[23Apr2025 22:32:04.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3097ms or 61 ticks behind
+[23Apr2025 22:32:07.241] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Apr2025 22:32:07.253] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Apr2025 22:32:22.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3545ms or 70 ticks behind
+[23Apr2025 22:32:40.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2426ms or 48 ticks behind
+[23Apr2025 22:32:57.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2408ms or 48 ticks behind
+[23Apr2025 22:33:15.108] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2475ms or 49 ticks behind
+[23Apr2025 22:33:35.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[23Apr2025 22:33:56.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[23Apr2025 22:33:58.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> a mimir gente
+[23Apr2025 22:34:13.753] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[23Apr2025 22:34:17.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> a mimir de
+[23Apr2025 22:34:19.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> q
+[23Apr2025 22:34:30.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2215ms or 44 ticks behind
+[23Apr2025 22:34:48.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2454ms or 49 ticks behind
+[23Apr2025 22:35:03.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> a mimir
+[23Apr2025 22:35:05.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2571ms or 51 ticks behind
+[23Apr2025 22:35:08.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> espera
+[23Apr2025 22:35:10.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> plis
+[23Apr2025 22:35:10.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Miglaitor_> cierro server
+[23Apr2025 22:35:18.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> pq
+[23Apr2025 22:35:25.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23Apr2025 22:35:31.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> espera que estamos haciendo camas
+[23Apr2025 22:35:41.800] [Server thread/INFO] [sereneseasons/]: Season time skipped by 3431 in minecraft:the_nether
+[23Apr2025 22:35:41.801] [Server thread/INFO] [sereneseasons/]: Season time skipped by 3431 in minecraft:the_end
+[23Apr2025 22:35:41.801] [Server thread/INFO] [sereneseasons/]: Season time skipped by 3431 in mineminenomi:challenges
+[23Apr2025 22:35:41.801] [Server thread/INFO] [sereneseasons/]: Season time skipped by 3431 in mineminenomi:challenges_f32b1d7a-5eef-3918-8041-62708bf3cf92
+[23Apr2025 22:35:41.801] [Server thread/INFO] [sereneseasons/]: Season time skipped by 3431 in mineminenomi:challenges_e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e
+[23Apr2025 22:35:41.802] [Server thread/INFO] [sereneseasons/]: Season time skipped by 3431 in mineminenomi:challenges_73ddd7fa-c8a0-36e5-a365-6e025dd6cd7d
+[23Apr2025 22:35:41.802] [Server thread/INFO] [sereneseasons/]: Season time skipped by 3431 in mineminenomi:challenges_3ac838e5-80f8-31b8-82e4-34ac0c5befe4
+[23Apr2025 22:35:41.802] [Server thread/INFO] [sereneseasons/]: Season time skipped by 3431 in mineminenomi:challenges_3172747b-348a-3cb7-90bb-f09910bd964f
+[23Apr2025 22:35:41.802] [Server thread/INFO] [sereneseasons/]: Season time skipped by 3431 in mineminenomi:challenges_b042d1b7-0784-32e2-9baa-ecd241742ddb
+[23Apr2025 22:35:41.805] [Server thread/INFO] [sereneseasons/]: Season time skipped by 3431 in minecraft:overworld
+[23Apr2025 22:35:47.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[23Apr2025 22:36:04.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[23Apr2025 22:36:31.042] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[23Apr2025 22:37:15.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23Apr2025 22:37:39.936] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[23Apr2025 22:37:42.883] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Apr2025 22:37:42.926] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Apr2025 22:37:57.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2312ms or 46 ticks behind
+[23Apr2025 22:38:17.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23Apr2025 22:38:18.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[23Apr2025 22:38:22.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[23Apr2025 22:38:41.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[23Apr2025 22:39:08.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[23Apr2025 22:39:46.783] [Server thread/INFO] [mineminenomi/]: Miglaitor_ started GIN_HARD challenge.
+[23Apr2025 22:39:46.793] [Server thread/DEBUG] [mineminenomi/]: Dimension setup: 9ms
+[23Apr2025 22:39:50.745] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: BUILD TIME: 3.872s
+[23Apr2025 22:39:50.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4350ms or 87 ticks behind
+[23Apr2025 22:39:53.442] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/66973, l='ServerLevel[world]', x=-5.24, y=59.00, z=-3.26]
+[23Apr2025 22:39:53.452] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/66973, l='ServerLevel[world]', x=-5.24, y=59.00, z=-3.26]
+[23Apr2025 22:39:53.458] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/66973, l='ServerLevel[world]', x=-5.24, y=59.00, z=-3.26]
+[23Apr2025 22:39:59.720] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Rankyaku at tick 2
+[23Apr2025 22:40:00.521] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Busoshoku Haki: Internal Destruction at tick 18
+[23Apr2025 22:40:00.522] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Busoshoku Haki: Imbuing at tick 18
+[23Apr2025 22:40:03.036] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Kami-E at tick 62
+[23Apr2025 22:40:08.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2843ms or 56 ticks behind
+[23Apr2025 22:40:20.012] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Party-Table Kick Course at tick 427
+[23Apr2025 22:40:21.211] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dance at tick 451
+[23Apr2025 22:40:21.818] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Rankyaku at tick 463
+[23Apr2025 22:40:23.860] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Takedown Kick at tick 504
+[23Apr2025 22:40:25.421] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Kami-E at tick 535
+[23Apr2025 22:40:33.860] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Rankyaku at tick 704
+[23Apr2025 22:40:34.705] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Busoshoku Haki: Internal Destruction at tick 719
+[23Apr2025 22:40:34.706] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Busoshoku Haki: Imbuing at tick 719
+[23Apr2025 22:40:37.575] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dance at tick 777
+[23Apr2025 22:40:42.497] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dance at tick 876
+[23Apr2025 22:40:46.160] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Rankyaku at tick 945
