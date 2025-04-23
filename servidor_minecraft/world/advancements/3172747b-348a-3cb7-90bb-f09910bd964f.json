@@ -3538,6 +3538,12 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-04-23 00:08:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_dark_scoria_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
@@ -4085,7 +4091,8 @@
       "minecraft:cave_spider": "2025-04-18 15:06:40 +0000",
       "minecraft:vex": "2025-04-18 15:31:28 +0000",
       "minecraft:zombie": "2025-04-18 15:42:04 +0000",
-      "minecraft:drowned": "2025-04-19 13:34:16 +0000"
+      "minecraft:drowned": "2025-04-19 13:34:16 +0000",
+      "minecraft:zombie_villager": "2025-04-23 00:07:56 +0000"
     },
     "done": false
   },
@@ -7231,7 +7238,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-04-19 13:40:11 +0000",
-      "opened_chest": "2025-04-18 14:46:45 +0000"
+      "opened_chest": "2025-04-18 14:46:45 +0000",
+      "opened_cart": "2025-04-23 00:08:04 +0000"
     },
     "done": false
   },

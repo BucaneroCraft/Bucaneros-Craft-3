@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-04-23 00:05:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
@@ -3145,6 +3151,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-04-23 00:06:35 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/framed_blocks/framed_prism": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:08 +0000"
@@ -5769,6 +5781,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2025-04-22 23:58:08 +0000",
+      "tomato": "2025-04-23 00:05:00 +0000",
       "rice": "2025-04-20 22:05:21 +0000",
       "potato": "2025-04-19 21:54:43 +0000",
       "wheat": "2025-04-16 21:53:56 +0000"

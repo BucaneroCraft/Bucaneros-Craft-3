@@ -3525,6 +3525,12 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-04-23 00:08:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_dark_scoria_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -4075,6 +4081,7 @@
       "minecraft:wither_skeleton": "2025-04-20 15:42:52 +0000",
       "minecraft:cave_spider": "2025-04-18 15:06:15 +0000",
       "minecraft:piglin": "2025-04-20 15:31:14 +0000",
+      "minecraft:enderman": "2025-04-23 00:01:57 +0000",
       "minecraft:vex": "2025-04-18 15:32:38 +0000",
       "minecraft:zombie": "2025-04-18 14:35:28 +0000",
       "minecraft:drowned": "2025-04-19 21:58:09 +0000"
@@ -7228,7 +7235,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-04-20 23:16:46 +0000",
-      "opened_chest": "2025-04-16 17:52:33 +0000"
+      "opened_chest": "2025-04-16 17:52:33 +0000",
+      "opened_cart": "2025-04-23 00:08:03 +0000"
     },
     "done": false
   },
@@ -13126,6 +13134,12 @@
   "cavesandcliffs:recipes/misc/raw_gold": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-04-23 00:08:08 +0000"
     },
     "done": true
   },
