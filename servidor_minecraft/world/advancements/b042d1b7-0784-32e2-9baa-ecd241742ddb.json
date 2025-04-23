@@ -3748,6 +3748,12 @@
     },
     "done": true
   },
+  "create:wrench": {
+    "criteria": {
+      "0": "2025-04-23 21:35:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/granite_pillar_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
