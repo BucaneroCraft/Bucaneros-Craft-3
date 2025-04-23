@@ -7138,6 +7138,12 @@
     },
     "done": true
   },
+  "mineminenomi:challenges/gin_hard": {
+    "criteria": {
+      "unlock_challenge": "2025-04-23 22:48:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"

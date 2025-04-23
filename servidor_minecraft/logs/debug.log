@@ -19508,3 +19508,373 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23Apr2025 22:40:37.575] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dance at tick 777
 [23Apr2025 22:40:42.497] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dance at tick 876
 [23Apr2025 22:40:46.160] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Rankyaku at tick 945
+[23Apr2025 22:40:49.001] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Smash at tick 994
+[23Apr2025 22:40:49.642] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dash at tick 1005
+[23Apr2025 22:40:54.213] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Kami-E at tick 1077
+[23Apr2025 22:40:56.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[23Apr2025 22:41:00.249] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Rankyaku at tick 1186
+[23Apr2025 22:41:12.904] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Rankyaku at tick 1427
+[23Apr2025 22:41:23.059] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Smash at tick 1628
+[23Apr2025 22:41:23.688] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dash at tick 1639
+[23Apr2025 22:41:24.892] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dance at tick 1663
+[23Apr2025 22:41:25.762] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Busoshoku Haki: Internal Destruction at tick 1679
+[23Apr2025 22:41:25.762] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Party-Table Kick Course at tick 1679
+[23Apr2025 22:41:25.763] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Busoshoku Haki: Imbuing at tick 1679
+[23Apr2025 22:41:26.105] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dance at tick 1684
+[23Apr2025 22:41:26.448] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Rankyaku at tick 1691
+[23Apr2025 22:41:27.075] [Server thread/INFO] [mineminenomi/]: Miglaitor_'s challenge stopped.
+[23Apr2025 22:41:53.036] [Server thread/INFO] [mineminenomi/]: Miglaitor_ started GIN_HARD challenge.
+[23Apr2025 22:41:53.036] [Server thread/DEBUG] [mineminenomi/]: Dimension setup: 0ms
+[23Apr2025 22:41:58.141] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[23Apr2025 22:41:59.142] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[23Apr2025 22:42:00.142] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[23Apr2025 22:42:01.143] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[23Apr2025 22:42:01.168] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: EMERGENCY CLEAR TIME: 8.084s
+[23Apr2025 22:42:02.143] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[23Apr2025 22:42:02.988] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: BUILD TIME: 1.82s
+[23Apr2025 22:42:03.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10907ms or 218 ticks behind
+[23Apr2025 22:42:09.056] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Rankyaku at tick 27
+[23Apr2025 22:42:11.806] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Kami-E at tick 87
+[23Apr2025 22:42:14.039] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dance at tick 148
+[23Apr2025 22:42:20.379] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Rankyaku at tick 319
+[23Apr2025 22:42:20.379] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Concasse at tick 319
+[23Apr2025 22:42:20.379] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Smash at tick 319
+[23Apr2025 22:42:20.775] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dash at tick 330
+[23Apr2025 22:42:25.577] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dance at tick 427
+[23Apr2025 22:42:27.112] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dance at tick 458
+[23Apr2025 22:42:28.662] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Party-Table Kick Course at tick 489
+[23Apr2025 22:42:29.510] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Kami-E at tick 506
+[23Apr2025 22:42:29.510] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Smash at tick 506
+[23Apr2025 22:42:30.063] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dash at tick 517
+[23Apr2025 22:42:32.211] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Rankyaku at tick 560
+[23Apr2025 22:42:44.672] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Party-Table Kick Course at tick 809
+[23Apr2025 22:42:55.664] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Rankyaku at tick 1029
+[23Apr2025 22:42:55.664] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Smash at tick 1029
+[23Apr2025 22:42:56.211] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dash at tick 1040
+[23Apr2025 22:43:03.714] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Smash at tick 1190
+[23Apr2025 22:43:04.317] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Party-Table Kick Course at tick 1202
+[23Apr2025 22:43:08.910] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Kami-E at tick 1294
+[23Apr2025 22:43:11.006] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Apr2025 22:43:11.017] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Apr2025 22:43:11.146] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Rankyaku at tick 1330
+[23Apr2025 22:43:22.762] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Rankyaku at tick 1571
+[23Apr2025 22:43:30.015] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Smash at tick 1716
+[23Apr2025 22:43:30.570] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dash at tick 1727
+[23Apr2025 22:43:31.660] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Party-Table Kick Course at tick 1749
+[23Apr2025 22:43:34.810] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Rankyaku at tick 1812
+[23Apr2025 22:43:50.122] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[23Apr2025 22:43:50.863] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: CLEAR TIME: 6.148s
+[23Apr2025 22:43:50.907] [Server thread/INFO] [mineminenomi/]: Miglaitor_'s challenge stopped.
+[23Apr2025 22:43:50.907] [Server thread/INFO] [mineminenomi/]: Miglaitor_'s challenge stopped.
+[23Apr2025 22:43:50.924] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Busoshoku Haki: Internal Destruction at tick 2010
+[23Apr2025 22:43:50.924] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Busoshoku Haki: Imbuing at tick 2010
+[23Apr2025 22:43:50.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6247ms or 124 ticks behind
+[23Apr2025 22:44:10.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4739ms or 94 ticks behind
+[23Apr2025 22:44:20.586] [Server thread/INFO] [mineminenomi/]: Miglaitor_ started GIN_HARD challenge.
+[23Apr2025 22:44:20.586] [Server thread/DEBUG] [mineminenomi/]: Dimension setup: 0ms
+[23Apr2025 22:44:24.265] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: BUILD TIME: 3.607s
+[23Apr2025 22:44:26.423] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/68877, l='ServerLevel[world]', x=-0.20, y=50.79, z=-4.78]
+[23Apr2025 22:44:26.423] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/68875, l='ServerLevel[world]', x=-1.32, y=52.42, z=-5.77]
+[23Apr2025 22:44:26.424] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/68876, l='ServerLevel[world]', x=-1.42, y=52.53, z=-6.18]
+[23Apr2025 22:44:26.424] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/68874, l='ServerLevel[world]', x=-1.77, y=52.32, z=-6.86]
+[23Apr2025 22:44:26.424] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68887, l='ServerLevel[world]', x=-11.12, y=72.00, z=12.72]
+[23Apr2025 22:44:26.424] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68895, l='ServerLevel[world]', x=-15.08, y=73.00, z=13.01]
+[23Apr2025 22:44:26.424] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68879, l='ServerLevel[world]', x=-13.22, y=44.00, z=15.19]
+[23Apr2025 22:44:26.425] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68878, l='ServerLevel[world]', x=-14.70, y=44.00, z=14.68]
+[23Apr2025 22:44:26.425] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68881, l='ServerLevel[world]', x=-12.63, y=44.00, z=15.71]
+[23Apr2025 22:44:26.425] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Smallmouth Bass'/68885, l='ServerLevel[world]', x=-10.44, y=53.60, z=1.64]
+[23Apr2025 22:44:26.425] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Muskellunge'/68882, l='ServerLevel[world]', x=-2.67, y=45.26, z=0.45]
+[23Apr2025 22:44:26.425] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68880, l='ServerLevel[world]', x=-14.89, y=44.00, z=15.18]
+[23Apr2025 22:44:26.426] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Smallmouth Bass'/68886, l='ServerLevel[world]', x=-9.19, y=53.92, z=0.77]
+[23Apr2025 22:44:26.426] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68894, l='ServerLevel[world]', x=-12.60, y=70.14, z=14.63]
+[23Apr2025 22:44:26.426] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Smallmouth Bass'/68884, l='ServerLevel[world]', x=-9.31, y=56.27, z=1.39]
+[23Apr2025 22:44:26.426] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68891, l='ServerLevel[world]', x=-11.09, y=72.00, z=12.00]
+[23Apr2025 22:44:26.426] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68890, l='ServerLevel[world]', x=-14.32, y=72.00, z=12.69]
+[23Apr2025 22:44:26.427] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68893, l='ServerLevel[world]', x=-15.85, y=72.00, z=13.76]
+[23Apr2025 22:44:26.427] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68892, l='ServerLevel[world]', x=-15.89, y=72.00, z=13.34]
+[23Apr2025 22:44:26.427] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68889, l='ServerLevel[world]', x=-14.05, y=71.01, z=14.75]
+[23Apr2025 22:44:26.427] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68888, l='ServerLevel[world]', x=-15.72, y=73.00, z=11.02]
+[23Apr2025 22:44:26.427] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68883, l='ServerLevel[world]', x=-12.60, y=44.00, z=15.88]
+[23Apr2025 22:44:26.427] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68912, l='ServerLevel[world]', x=-15.48, y=44.00, z=16.41]
+[23Apr2025 22:44:26.428] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68904, l='ServerLevel[world]', x=-13.87, y=44.00, z=16.10]
+[23Apr2025 22:44:26.428] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68896, l='ServerLevel[world]', x=-11.12, y=44.00, z=18.55]
+[23Apr2025 22:44:26.428] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68903, l='ServerLevel[world]', x=-13.69, y=44.00, z=16.84]
+[23Apr2025 22:44:26.428] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68920, l='ServerLevel[world]', x=-15.78, y=71.00, z=19.89]
+[23Apr2025 22:44:26.428] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68921, l='ServerLevel[world]', x=-15.92, y=72.21, z=16.96]
+[23Apr2025 22:44:26.428] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68919, l='ServerLevel[world]', x=-15.26, y=72.00, z=20.60]
+[23Apr2025 22:44:26.429] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68913, l='ServerLevel[world]', x=-13.46, y=44.00, z=16.03]
+[23Apr2025 22:44:26.429] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68905, l='ServerLevel[world]', x=-15.38, y=44.00, z=18.46]
+[23Apr2025 22:44:26.429] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68910, l='ServerLevel[world]', x=-13.28, y=44.00, z=17.84]
+[23Apr2025 22:44:26.429] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68911, l='ServerLevel[world]', x=-13.91, y=44.00, z=16.33]
+[23Apr2025 22:44:26.429] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68906, l='ServerLevel[world]', x=-12.73, y=44.00, z=20.52]
+[23Apr2025 22:44:26.429] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68897, l='ServerLevel[world]', x=-12.32, y=44.00, z=19.86]
+[23Apr2025 22:44:26.429] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68898, l='ServerLevel[world]', x=-12.79, y=44.00, z=20.57]
+[23Apr2025 22:44:26.430] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68901, l='ServerLevel[world]', x=-15.46, y=44.00, z=17.80]
+[23Apr2025 22:44:26.430] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68902, l='ServerLevel[world]', x=-13.57, y=44.00, z=18.87]
+[23Apr2025 22:44:26.430] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68908, l='ServerLevel[world]', x=-14.67, y=44.00, z=16.53]
+[23Apr2025 22:44:26.430] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68916, l='ServerLevel[world]', x=-12.21, y=44.00, z=16.03]
+[23Apr2025 22:44:26.430] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68899, l='ServerLevel[world]', x=-12.93, y=44.00, z=17.31]
+[23Apr2025 22:44:26.430] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68900, l='ServerLevel[world]', x=-14.56, y=44.00, z=18.88]
+[23Apr2025 22:44:26.431] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68915, l='ServerLevel[world]', x=-15.97, y=44.00, z=16.91]
+[23Apr2025 22:44:26.431] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity GinEntity['Gin'/68917, l='ServerLevel[world]', x=-12.57, y=69.81, z=17.87]
+[23Apr2025 22:44:26.431] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68907, l='ServerLevel[world]', x=-11.27, y=44.00, z=17.74]
+[23Apr2025 22:44:26.431] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68909, l='ServerLevel[world]', x=-14.31, y=44.00, z=18.53]
+[23Apr2025 22:44:26.431] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68914, l='ServerLevel[world]', x=-12.18, y=44.00, z=16.51]
+[23Apr2025 22:44:26.431] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68918, l='ServerLevel[world]', x=-15.87, y=72.00, z=20.16]
+[23Apr2025 22:44:26.432] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/68872, l='ServerLevel[world]', x=8.70, y=47.60, z=-4.23]
+[23Apr2025 22:44:26.432] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/68869, l='ServerLevel[world]', x=7.38, y=47.11, z=-4.34]
+[23Apr2025 22:44:26.432] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/68871, l='ServerLevel[world]', x=8.28, y=47.71, z=-4.38]
+[23Apr2025 22:44:26.432] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/68870, l='ServerLevel[world]', x=6.68, y=47.75, z=-3.83]
+[23Apr2025 22:44:26.433] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/68873, l='ServerLevel[world]', x=8.65, y=47.49, z=-3.74]
+[23Apr2025 22:44:26.433] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/68868, l='ServerLevel[world]', x=1.69, y=53.46, z=14.39]
+[23Apr2025 22:44:26.439] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/68877, l='ServerLevel[world]', x=-0.20, y=50.79, z=-4.78]
+[23Apr2025 22:44:26.439] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/68875, l='ServerLevel[world]', x=-1.32, y=52.42, z=-5.77]
+[23Apr2025 22:44:26.439] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/68876, l='ServerLevel[world]', x=-1.42, y=52.53, z=-6.18]
+[23Apr2025 22:44:26.439] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/68874, l='ServerLevel[world]', x=-1.77, y=52.32, z=-6.86]
+[23Apr2025 22:44:26.440] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68887, l='ServerLevel[world]', x=-11.12, y=72.00, z=12.72]
+[23Apr2025 22:44:26.440] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68895, l='ServerLevel[world]', x=-15.08, y=73.00, z=13.01]
+[23Apr2025 22:44:26.440] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68879, l='ServerLevel[world]', x=-13.22, y=44.00, z=15.19]
+[23Apr2025 22:44:26.440] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68878, l='ServerLevel[world]', x=-14.70, y=44.00, z=14.68]
+[23Apr2025 22:44:26.440] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68881, l='ServerLevel[world]', x=-12.63, y=44.00, z=15.71]
+[23Apr2025 22:44:26.440] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Smallmouth Bass'/68885, l='ServerLevel[world]', x=-10.44, y=53.60, z=1.64]
+[23Apr2025 22:44:26.441] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Muskellunge'/68882, l='ServerLevel[world]', x=-2.67, y=45.26, z=0.45]
+[23Apr2025 22:44:26.441] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68880, l='ServerLevel[world]', x=-14.89, y=44.00, z=15.18]
+[23Apr2025 22:44:26.441] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Smallmouth Bass'/68886, l='ServerLevel[world]', x=-9.19, y=53.92, z=0.77]
+[23Apr2025 22:44:26.441] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68894, l='ServerLevel[world]', x=-12.60, y=70.14, z=14.63]
+[23Apr2025 22:44:26.441] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Smallmouth Bass'/68884, l='ServerLevel[world]', x=-9.31, y=56.27, z=1.39]
+[23Apr2025 22:44:26.442] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68891, l='ServerLevel[world]', x=-11.09, y=72.00, z=12.00]
+[23Apr2025 22:44:26.442] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68890, l='ServerLevel[world]', x=-14.32, y=72.00, z=12.69]
+[23Apr2025 22:44:26.442] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68893, l='ServerLevel[world]', x=-15.85, y=72.00, z=13.76]
+[23Apr2025 22:44:26.442] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68892, l='ServerLevel[world]', x=-15.89, y=72.00, z=13.34]
+[23Apr2025 22:44:26.442] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68889, l='ServerLevel[world]', x=-14.05, y=71.01, z=14.75]
+[23Apr2025 22:44:26.442] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68888, l='ServerLevel[world]', x=-15.72, y=73.00, z=11.02]
+[23Apr2025 22:44:26.442] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68883, l='ServerLevel[world]', x=-12.60, y=44.00, z=15.88]
+[23Apr2025 22:44:26.443] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68912, l='ServerLevel[world]', x=-15.48, y=44.00, z=16.41]
+[23Apr2025 22:44:26.443] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68904, l='ServerLevel[world]', x=-13.87, y=44.00, z=16.10]
+[23Apr2025 22:44:26.443] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68896, l='ServerLevel[world]', x=-11.12, y=44.00, z=18.55]
+[23Apr2025 22:44:26.443] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68903, l='ServerLevel[world]', x=-13.69, y=44.00, z=16.84]
+[23Apr2025 22:44:26.443] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68920, l='ServerLevel[world]', x=-15.78, y=71.00, z=19.89]
+[23Apr2025 22:44:26.443] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68921, l='ServerLevel[world]', x=-15.92, y=72.21, z=16.96]
+[23Apr2025 22:44:26.443] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68919, l='ServerLevel[world]', x=-15.26, y=72.00, z=20.60]
+[23Apr2025 22:44:26.444] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68913, l='ServerLevel[world]', x=-13.46, y=44.00, z=16.03]
+[23Apr2025 22:44:26.444] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68905, l='ServerLevel[world]', x=-15.38, y=44.00, z=18.46]
+[23Apr2025 22:44:26.444] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68910, l='ServerLevel[world]', x=-13.28, y=44.00, z=17.84]
+[23Apr2025 22:44:26.444] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68911, l='ServerLevel[world]', x=-13.91, y=44.00, z=16.33]
+[23Apr2025 22:44:26.444] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68906, l='ServerLevel[world]', x=-12.73, y=44.00, z=20.52]
+[23Apr2025 22:44:26.444] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68897, l='ServerLevel[world]', x=-12.32, y=44.00, z=19.86]
+[23Apr2025 22:44:26.444] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68898, l='ServerLevel[world]', x=-12.79, y=44.00, z=20.57]
+[23Apr2025 22:44:26.445] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68901, l='ServerLevel[world]', x=-15.46, y=44.00, z=17.80]
+[23Apr2025 22:44:26.445] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68902, l='ServerLevel[world]', x=-13.57, y=44.00, z=18.87]
+[23Apr2025 22:44:26.445] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68908, l='ServerLevel[world]', x=-14.67, y=44.00, z=16.53]
+[23Apr2025 22:44:26.445] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68916, l='ServerLevel[world]', x=-12.21, y=44.00, z=16.03]
+[23Apr2025 22:44:26.445] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68899, l='ServerLevel[world]', x=-12.93, y=44.00, z=17.31]
+[23Apr2025 22:44:26.445] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68900, l='ServerLevel[world]', x=-14.56, y=44.00, z=18.88]
+[23Apr2025 22:44:26.446] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68915, l='ServerLevel[world]', x=-15.97, y=44.00, z=16.91]
+[23Apr2025 22:44:26.446] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity GinEntity['Gin'/68917, l='ServerLevel[world]', x=-12.57, y=69.81, z=17.87]
+[23Apr2025 22:44:26.446] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68907, l='ServerLevel[world]', x=-11.27, y=44.00, z=17.74]
+[23Apr2025 22:44:26.446] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68909, l='ServerLevel[world]', x=-14.31, y=44.00, z=18.53]
+[23Apr2025 22:44:26.446] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68914, l='ServerLevel[world]', x=-12.18, y=44.00, z=16.51]
+[23Apr2025 22:44:26.446] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68918, l='ServerLevel[world]', x=-15.87, y=72.00, z=20.16]
+[23Apr2025 22:44:26.446] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/68872, l='ServerLevel[world]', x=8.70, y=47.60, z=-4.23]
+[23Apr2025 22:44:26.447] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/68869, l='ServerLevel[world]', x=7.38, y=47.11, z=-4.34]
+[23Apr2025 22:44:26.447] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/68871, l='ServerLevel[world]', x=8.28, y=47.71, z=-4.38]
+[23Apr2025 22:44:26.447] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/68870, l='ServerLevel[world]', x=6.68, y=47.75, z=-3.83]
+[23Apr2025 22:44:26.447] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/68873, l='ServerLevel[world]', x=8.65, y=47.49, z=-3.74]
+[23Apr2025 22:44:26.448] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/68868, l='ServerLevel[world]', x=1.69, y=53.46, z=14.39]
+[23Apr2025 22:44:26.453] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/68877, l='ServerLevel[world]', x=-0.20, y=50.79, z=-4.78]
+[23Apr2025 22:44:26.453] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/68875, l='ServerLevel[world]', x=-1.32, y=52.42, z=-5.77]
+[23Apr2025 22:44:26.454] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/68876, l='ServerLevel[world]', x=-1.42, y=52.53, z=-6.18]
+[23Apr2025 22:44:26.454] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/68874, l='ServerLevel[world]', x=-1.77, y=52.32, z=-6.86]
+[23Apr2025 22:44:26.454] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68887, l='ServerLevel[world]', x=-11.12, y=72.00, z=12.72]
+[23Apr2025 22:44:26.454] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68895, l='ServerLevel[world]', x=-15.08, y=73.00, z=13.01]
+[23Apr2025 22:44:26.455] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68879, l='ServerLevel[world]', x=-13.22, y=44.00, z=15.19]
+[23Apr2025 22:44:26.455] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68878, l='ServerLevel[world]', x=-14.70, y=44.00, z=14.68]
+[23Apr2025 22:44:26.455] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68881, l='ServerLevel[world]', x=-12.63, y=44.00, z=15.71]
+[23Apr2025 22:44:26.455] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Smallmouth Bass'/68885, l='ServerLevel[world]', x=-10.44, y=53.60, z=1.64]
+[23Apr2025 22:44:26.455] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Muskellunge'/68882, l='ServerLevel[world]', x=-2.67, y=45.26, z=0.45]
+[23Apr2025 22:44:26.456] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68880, l='ServerLevel[world]', x=-14.89, y=44.00, z=15.18]
+[23Apr2025 22:44:26.456] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Smallmouth Bass'/68886, l='ServerLevel[world]', x=-9.19, y=53.92, z=0.77]
+[23Apr2025 22:44:26.456] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68894, l='ServerLevel[world]', x=-12.60, y=70.14, z=14.63]
+[23Apr2025 22:44:26.456] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Smallmouth Bass'/68884, l='ServerLevel[world]', x=-9.31, y=56.27, z=1.39]
+[23Apr2025 22:44:26.457] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68891, l='ServerLevel[world]', x=-11.09, y=72.00, z=12.00]
+[23Apr2025 22:44:26.457] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68890, l='ServerLevel[world]', x=-14.32, y=72.00, z=12.69]
+[23Apr2025 22:44:26.457] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68893, l='ServerLevel[world]', x=-15.85, y=72.00, z=13.76]
+[23Apr2025 22:44:26.457] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68892, l='ServerLevel[world]', x=-15.89, y=72.00, z=13.34]
+[23Apr2025 22:44:26.457] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68889, l='ServerLevel[world]', x=-14.05, y=71.01, z=14.75]
+[23Apr2025 22:44:26.457] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68888, l='ServerLevel[world]', x=-15.72, y=73.00, z=11.02]
+[23Apr2025 22:44:26.458] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68883, l='ServerLevel[world]', x=-12.60, y=44.00, z=15.88]
+[23Apr2025 22:44:26.458] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68912, l='ServerLevel[world]', x=-15.48, y=44.00, z=16.41]
+[23Apr2025 22:44:26.458] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68904, l='ServerLevel[world]', x=-13.87, y=44.00, z=16.10]
+[23Apr2025 22:44:26.458] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68896, l='ServerLevel[world]', x=-11.12, y=44.00, z=18.55]
+[23Apr2025 22:44:26.458] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68903, l='ServerLevel[world]', x=-13.69, y=44.00, z=16.84]
+[23Apr2025 22:44:26.459] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68920, l='ServerLevel[world]', x=-15.78, y=71.00, z=19.89]
+[23Apr2025 22:44:26.459] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68921, l='ServerLevel[world]', x=-15.92, y=72.21, z=16.96]
+[23Apr2025 22:44:26.459] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68919, l='ServerLevel[world]', x=-15.26, y=72.00, z=20.60]
+[23Apr2025 22:44:26.459] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68913, l='ServerLevel[world]', x=-13.46, y=44.00, z=16.03]
+[23Apr2025 22:44:26.459] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68905, l='ServerLevel[world]', x=-15.38, y=44.00, z=18.46]
+[23Apr2025 22:44:26.459] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68910, l='ServerLevel[world]', x=-13.28, y=44.00, z=17.84]
+[23Apr2025 22:44:26.459] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68911, l='ServerLevel[world]', x=-13.91, y=44.00, z=16.33]
+[23Apr2025 22:44:26.460] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68906, l='ServerLevel[world]', x=-12.73, y=44.00, z=20.52]
+[23Apr2025 22:44:26.460] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68897, l='ServerLevel[world]', x=-12.32, y=44.00, z=19.86]
+[23Apr2025 22:44:26.460] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68898, l='ServerLevel[world]', x=-12.79, y=44.00, z=20.57]
+[23Apr2025 22:44:26.460] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68901, l='ServerLevel[world]', x=-15.46, y=44.00, z=17.80]
+[23Apr2025 22:44:26.460] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68902, l='ServerLevel[world]', x=-13.57, y=44.00, z=18.87]
+[23Apr2025 22:44:26.460] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68908, l='ServerLevel[world]', x=-14.67, y=44.00, z=16.53]
+[23Apr2025 22:44:26.460] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68916, l='ServerLevel[world]', x=-12.21, y=44.00, z=16.03]
+[23Apr2025 22:44:26.460] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68899, l='ServerLevel[world]', x=-12.93, y=44.00, z=17.31]
+[23Apr2025 22:44:26.461] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68900, l='ServerLevel[world]', x=-14.56, y=44.00, z=18.88]
+[23Apr2025 22:44:26.461] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68915, l='ServerLevel[world]', x=-15.97, y=44.00, z=16.91]
+[23Apr2025 22:44:26.461] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity GinEntity['Gin'/68917, l='ServerLevel[world]', x=-12.57, y=69.81, z=17.87]
+[23Apr2025 22:44:26.461] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68907, l='ServerLevel[world]', x=-11.27, y=44.00, z=17.74]
+[23Apr2025 22:44:26.461] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68909, l='ServerLevel[world]', x=-14.31, y=44.00, z=18.53]
+[23Apr2025 22:44:26.462] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68914, l='ServerLevel[world]', x=-12.18, y=44.00, z=16.51]
+[23Apr2025 22:44:26.462] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/68918, l='ServerLevel[world]', x=-15.87, y=72.00, z=20.16]
+[23Apr2025 22:44:26.462] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/68872, l='ServerLevel[world]', x=8.70, y=47.60, z=-4.23]
+[23Apr2025 22:44:26.462] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/68869, l='ServerLevel[world]', x=7.38, y=47.11, z=-4.34]
+[23Apr2025 22:44:26.462] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/68871, l='ServerLevel[world]', x=8.28, y=47.71, z=-4.38]
+[23Apr2025 22:44:26.463] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/68870, l='ServerLevel[world]', x=6.68, y=47.75, z=-3.83]
+[23Apr2025 22:44:26.463] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/68873, l='ServerLevel[world]', x=8.65, y=47.49, z=-3.74]
+[23Apr2025 22:44:26.463] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/68868, l='ServerLevel[world]', x=1.69, y=53.46, z=14.39]
+[23Apr2025 22:44:31.465] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5832ms or 116 ticks behind
+[23Apr2025 22:44:31.793] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Rankyaku at tick 2
+[23Apr2025 22:44:34.791] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Kami-E at tick 62
+[23Apr2025 22:44:38.721] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dance at tick 144
+[23Apr2025 22:44:39.565] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Party-Table Kick Course at tick 162
+[23Apr2025 22:44:42.764] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Smash at tick 226
+[23Apr2025 22:44:43.263] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Concasse at tick 236
+[23Apr2025 22:44:43.313] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dash at tick 237
+[23Apr2025 22:44:44.263] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Rankyaku at tick 256
+[23Apr2025 22:45:02.066] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Rankyaku at tick 612
+[23Apr2025 22:45:02.067] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Smash at tick 612
+[23Apr2025 22:45:02.610] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dash at tick 623
+[23Apr2025 22:45:03.212] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dance at tick 635
+[23Apr2025 22:45:06.812] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Concasse at tick 707
+[23Apr2025 22:45:07.263] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dance at tick 716
+[23Apr2025 22:45:10.776] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Kami-E at tick 786
+[23Apr2025 22:45:14.113] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Rankyaku at tick 853
+[23Apr2025 22:45:21.912] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Smash at tick 1009
+[23Apr2025 22:45:22.462] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dash at tick 1020
+[23Apr2025 22:45:26.171] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Rankyaku at tick 1094
+[23Apr2025 22:45:29.961] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Smash at tick 1170
+[23Apr2025 22:45:30.512] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Party-Table Kick Course at tick 1181
+[23Apr2025 22:45:31.662] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dash at tick 1204
+[23Apr2025 22:45:38.222] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Rankyaku at tick 1335
+[23Apr2025 22:45:41.212] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Smash at tick 1395
+[23Apr2025 22:45:41.761] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dash at tick 1406
+[23Apr2025 22:45:45.012] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Party-Table Kick Course at tick 1471
+[23Apr2025 22:45:49.260] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Smash at tick 1556
+[23Apr2025 22:45:50.416] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dash at tick 1579
+[23Apr2025 22:45:53.761] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dance at tick 1646
+[23Apr2025 22:45:55.213] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dance at tick 1675
+[23Apr2025 22:45:57.313] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Smash at tick 1717
+[23Apr2025 22:45:58.211] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Rankyaku at tick 1735
+[23Apr2025 22:45:58.811] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Party-Table Kick Course at tick 1747
+[23Apr2025 22:46:07.460] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Smash at tick 1920
+[23Apr2025 22:46:08.021] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dash at tick 1931
+[23Apr2025 22:46:13.572] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[23Apr2025 22:46:13.878] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: CLEAR TIME: 5.77s
+[23Apr2025 22:46:13.912] [Server thread/INFO] [mineminenomi/]: Miglaitor_'s challenge stopped.
+[23Apr2025 22:46:13.912] [Server thread/INFO] [mineminenomi/]: Miglaitor_'s challenge stopped.
+[23Apr2025 22:46:13.924] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Busoshoku Haki: Internal Destruction at tick 1933
+[23Apr2025 22:46:13.924] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Busoshoku Haki: Imbuing at tick 1933
+[23Apr2025 22:46:13.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5848ms or 116 ticks behind
+[23Apr2025 22:46:35.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6218ms or 124 ticks behind
+[23Apr2025 22:46:51.642] [Server thread/INFO] [mineminenomi/]: Miglaitor_ started GIN_HARD challenge.
+[23Apr2025 22:46:51.643] [Server thread/DEBUG] [mineminenomi/]: Dimension setup: 0ms
+[23Apr2025 22:46:55.361] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: BUILD TIME: 3.622s
+[23Apr2025 22:46:55.634] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3951ms or 79 ticks behind
+[23Apr2025 22:46:57.656] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity GinEntity['Gin'/69912, l='ServerLevel[world]', x=-14.58, y=69.49, z=-7.35]
+[23Apr2025 22:46:57.657] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/69906, l='ServerLevel[world]', x=-6.22, y=56.08, z=14.10]
+[23Apr2025 22:46:57.657] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/69909, l='ServerLevel[world]', x=-2.12, y=53.24, z=4.64]
+[23Apr2025 22:46:57.657] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/69905, l='ServerLevel[world]', x=-9.05, y=54.67, z=12.50]
+[23Apr2025 22:46:57.657] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/69910, l='ServerLevel[world]', x=-8.28, y=54.53, z=11.91]
+[23Apr2025 22:46:57.657] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/69907, l='ServerLevel[world]', x=-9.66, y=58.02, z=13.83]
+[23Apr2025 22:46:57.658] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/69908, l='ServerLevel[world]', x=-9.15, y=59.38, z=13.41]
+[23Apr2025 22:46:57.658] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/69904, l='ServerLevel[world]', x=-14.28, y=58.74, z=13.19]
+[23Apr2025 22:46:57.658] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/69911, l='ServerLevel[world]', x=-7.03, y=54.55, z=13.34]
+[23Apr2025 22:46:57.658] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/69913, l='ServerLevel[world]', x=13.31, y=58.68, z=-5.77]
+[23Apr2025 22:46:57.664] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity GinEntity['Gin'/69912, l='ServerLevel[world]', x=-14.58, y=69.49, z=-7.35]
+[23Apr2025 22:46:57.665] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/69906, l='ServerLevel[world]', x=-6.22, y=56.08, z=14.10]
+[23Apr2025 22:46:57.665] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/69909, l='ServerLevel[world]', x=-2.12, y=53.24, z=4.64]
+[23Apr2025 22:46:57.665] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/69905, l='ServerLevel[world]', x=-9.05, y=54.67, z=12.50]
+[23Apr2025 22:46:57.665] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/69910, l='ServerLevel[world]', x=-8.28, y=54.53, z=11.91]
+[23Apr2025 22:46:57.665] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/69907, l='ServerLevel[world]', x=-9.66, y=58.02, z=13.83]
+[23Apr2025 22:46:57.666] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/69908, l='ServerLevel[world]', x=-9.15, y=59.38, z=13.41]
+[23Apr2025 22:46:57.666] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/69904, l='ServerLevel[world]', x=-14.28, y=58.74, z=13.19]
+[23Apr2025 22:46:57.666] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/69911, l='ServerLevel[world]', x=-7.03, y=54.55, z=13.34]
+[23Apr2025 22:46:57.666] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/69913, l='ServerLevel[world]', x=13.31, y=58.68, z=-5.77]
+[23Apr2025 22:46:57.673] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity GinEntity['Gin'/69912, l='ServerLevel[world]', x=-14.58, y=69.49, z=-7.35]
+[23Apr2025 22:46:57.673] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/69906, l='ServerLevel[world]', x=-6.22, y=56.08, z=14.10]
+[23Apr2025 22:46:57.674] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/69909, l='ServerLevel[world]', x=-2.12, y=53.24, z=4.64]
+[23Apr2025 22:46:57.674] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/69905, l='ServerLevel[world]', x=-9.05, y=54.67, z=12.50]
+[23Apr2025 22:46:57.674] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/69910, l='ServerLevel[world]', x=-8.28, y=54.53, z=11.91]
+[23Apr2025 22:46:57.674] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/69907, l='ServerLevel[world]', x=-9.66, y=58.02, z=13.83]
+[23Apr2025 22:46:57.674] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/69908, l='ServerLevel[world]', x=-9.15, y=59.38, z=13.41]
+[23Apr2025 22:46:57.675] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/69904, l='ServerLevel[world]', x=-14.28, y=58.74, z=13.19]
+[23Apr2025 22:46:57.675] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/69911, l='ServerLevel[world]', x=-7.03, y=54.55, z=13.34]
+[23Apr2025 22:46:57.675] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/69913, l='ServerLevel[world]', x=13.31, y=58.68, z=-5.77]
+[23Apr2025 22:47:04.021] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Rankyaku at tick 2
+[23Apr2025 22:47:06.777] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Kami-E at tick 62
+[23Apr2025 22:47:09.140] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dance at tick 125
+[23Apr2025 22:47:09.261] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Concasse at tick 128
+[23Apr2025 22:47:09.502] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Busoshoku Haki: Internal Destruction at tick 135
+[23Apr2025 22:47:09.502] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Busoshoku Haki: Imbuing at tick 135
+[23Apr2025 22:47:09.680] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Busoshoku Haki: Internal Destruction at tick 140
+[23Apr2025 22:47:09.680] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Smash at tick 140
+[23Apr2025 22:47:09.680] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Busoshoku Haki: Imbuing at tick 140
+[23Apr2025 22:47:10.093] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dash at tick 151
+[23Apr2025 22:47:51.613] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Concasse at tick 1003
+[23Apr2025 22:47:51.613] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dance at tick 1003
+[23Apr2025 22:47:52.511] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Party-Table Kick Course at tick 1021
+[23Apr2025 22:47:52.667] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dance at tick 1024
+[23Apr2025 22:48:18.764] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Smash at tick 1546
+[23Apr2025 22:48:19.313] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dash at tick 1557
+[23Apr2025 22:48:20.403] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Rankyaku at tick 1578
+[23Apr2025 22:48:21.121] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Party-Table Kick Course at tick 1590
+[23Apr2025 22:48:24.722] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Kami-E at tick 1662
+[23Apr2025 22:48:27.679] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Smash at tick 1721
+[23Apr2025 22:48:28.285] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dash at tick 1732
+[23Apr2025 22:48:28.332] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Concasse at tick 1733
+[23Apr2025 22:48:29.023] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Gin stopped Demonic Dance at tick 1746
+[23Apr2025 22:48:37.141] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[23Apr2025 22:48:37.674] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: CLEAR TIME: 5.952s
+[23Apr2025 22:48:37.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ has completed the challenge [Gin (Hard)]
+[23Apr2025 22:48:37.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: imsxs has completed the challenge [Gin (Hard)]
+[23Apr2025 22:48:37.720] [Server thread/INFO] [mineminenomi/]: Miglaitor_'s challenge stopped.
+[23Apr2025 22:48:37.720] [Server thread/INFO] [mineminenomi/]: Miglaitor_'s challenge stopped.
+[23Apr2025 22:48:37.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6307ms or 126 ticks behind
+[23Apr2025 22:48:57.157] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Apr2025 22:48:57.167] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Apr2025 22:49:00.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8024ms or 160 ticks behind
+[23Apr2025 22:49:29.778] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Freacklock lost connection: Disconnected
+[23Apr2025 22:49:29.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock left the game
+[23Apr2025 22:49:29.778] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f32b1d7a-5eef-3918-8041-62708bf3cf92 was unloaded
+[23Apr2025 22:49:29.778] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Freacklock
+[23Apr2025 22:49:29.778] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Freacklock
+[23Apr2025 22:49:29.779] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Freacklock[f32b1d7a-5eef-3918-8041-62708bf3cf92]
+[23Apr2025 22:49:29.861] [Server thread/DEBUG] [mineminenomi/]: Removed invitation due to missing sender
+[23Apr2025 22:49:30.744] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Nitwit'/70476, l='ServerLevel[world]', x=-9875.83, y=80.00, z=-1473.50] died, message: 'Nitwit was slain by Zombie'
+[23Apr2025 22:49:31.999] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Miglaitor_ lost connection: Disconnected
+[23Apr2025 22:49:32.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ left the game
+[23Apr2025 22:49:32.000] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b042d1b7-0784-32e2-9baa-ecd241742ddb was unloaded
+[23Apr2025 22:49:32.000] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Miglaitor_
+[23Apr2025 22:49:32.000] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Miglaitor_
+[23Apr2025 22:49:32.001] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Miglaitor_[b042d1b7-0784-32e2-9baa-ecd241742ddb]
+[23Apr2025 22:50:03.748] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: marcosbigpapa lost connection: Disconnected
+[23Apr2025 22:50:03.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: marcosbigpapa left the game
+[23Apr2025 22:50:03.749] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e was unloaded
+[23Apr2025 22:50:03.749] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of marcosbigpapa
+[23Apr2025 22:50:03.749] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client marcosbigpapa
+[23Apr2025 22:50:03.750] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player marcosbigpapa[e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e]
+[23Apr2025 22:50:27.007] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: eldanidani lost connection: Disconnected
+[23Apr2025 22:50:27.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eldanidani left the game
+[23Apr2025 22:50:27.007] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3ac838e5-80f8-31b8-82e4-34ac0c5befe4 was unloaded
+[23Apr2025 22:50:27.007] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of eldanidani
+[23Apr2025 22:50:27.008] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client eldanidani
+[23Apr2025 22:50:27.008] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player eldanidani[3ac838e5-80f8-31b8-82e4-34ac0c5befe4]
+[23Apr2025 22:50:51.464] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: imsxs lost connection: Disconnected
+[23Apr2025 22:50:51.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: imsxs left the game
+[23Apr2025 22:50:51.465] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3172747b-348a-3cb7-90bb-f09910bd964f was unloaded
+[23Apr2025 22:50:51.465] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of imsxs
+[23Apr2025 22:50:51.465] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client imsxs
+[23Apr2025 22:50:51.466] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player imsxs[3172747b-348a-3cb7-90bb-f09910bd964f]
