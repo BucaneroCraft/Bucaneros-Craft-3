@@ -1457,6 +1457,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-04-23 22:03:40 +0000",
+      "minecraft:warped_forest": "2025-04-23 22:04:15 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/fancy_granite_bricks_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-20 16:25:29 +0000"
@@ -2258,6 +2265,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_the_recipe": "2025-04-20 16:25:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-23 22:03:39 +0000"
     },
     "done": true
   },
@@ -3922,6 +3935,7 @@
       "minecraft:pillager": "2025-04-20 16:56:05 +0000",
       "minecraft:skeleton": "2025-04-20 19:46:10 +0000",
       "minecraft:spider": "2025-04-20 16:33:12 +0000",
+      "minecraft:zombified_piglin": "2025-04-23 22:05:46 +0000",
       "minecraft:cave_spider": "2025-04-21 21:48:34 +0000",
       "minecraft:zombie": "2025-04-20 16:33:08 +0000",
       "minecraft:drowned": "2025-04-21 20:42:47 +0000"
@@ -8078,6 +8092,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-20 16:25:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-23 22:03:39 +0000"
     },
     "done": true
   },
