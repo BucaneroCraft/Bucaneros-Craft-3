@@ -112,15 +112,6 @@
                                 "Count": 10b
                             },
                             {
-                                "Slot": 2b,
-                                "ForgeCaps": {
-                                    "customnpcs:itemscripteddata": {
-                                    }
-                                },
-                                "id": "minecraft:netherite_scrap",
-                                "Count": 2b
-                            },
-                            {
                                 "Slot": 9b,
                                 "ForgeCaps": {
                                     "customnpcs:itemscripteddata": {

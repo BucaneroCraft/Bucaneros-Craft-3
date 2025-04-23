@@ -4060,6 +4060,12 @@
     },
     "done": true
   },
+  "create:fan": {
+    "criteria": {
+      "0": "2025-04-23 22:26:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_gabbro_stairs_from_polished_gabbro_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
