@@ -3232,6 +3232,12 @@
     },
     "done": true
   },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2025-04-23 21:44:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/dark_scoria_cobblestone_stairs_from_dark_scoria_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -4572,6 +4578,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
+    },
+    "done": true
+  },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2025-04-23 21:54:16 +0000"
     },
     "done": true
   },
@@ -6774,6 +6786,12 @@
   "framedblocks:recipes/framed_blocks/framed_double_slope": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
+    },
+    "done": true
+  },
+  "create:clockwork_component_eob": {
+    "criteria": {
+      "0": "2025-04-23 21:53:25 +0000"
     },
     "done": true
   },
@@ -11954,6 +11972,12 @@
   "supplementaries:recipes/daub": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2025-04-23 21:53:25 +0000"
     },
     "done": true
   },
