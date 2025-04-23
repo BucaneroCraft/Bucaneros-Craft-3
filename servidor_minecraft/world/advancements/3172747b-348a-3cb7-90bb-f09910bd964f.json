@@ -5179,6 +5179,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-04-23 22:10:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_limestone_wall_from_paved_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
